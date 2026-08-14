@@ -1,0 +1,6 @@
+# API keys for the TMDb / OMDb fetchers. Never commit this.
+.scripts/.env
+
+__pycache__/
+*.pyc
+.DS_Store
