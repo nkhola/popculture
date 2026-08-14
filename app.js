@@ -63,6 +63,15 @@
                <polygon points="50,44 92,150 8,150" fill="${b}" opacity=".75"/>`,
   ];
 
+  /* The plate is 84 user units wide. A long unbroken word like NIGHTCRAWLER
+     overruns that at a fixed size, so step the size down as titles grow. */
+  function plateFontSize(title) {
+    const longest = title.split(/\s+/).reduce((m, w) => Math.max(m, w.length), 0);
+    if (longest >= 13 || title.length > 30) return 7;
+    if (longest >= 10 || title.length > 20) return 8.5;
+    return 10;
+  }
+
   function genPlate(item) {
     const h = hash(item.slug);
     const pal = PLATES[h % PLATES.length];
@@ -87,8 +96,9 @@
       </foreignObject>
       <foreignObject x="8" y="66" width="84" height="62">
         <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Fraunces,Georgia,serif;
-             font-weight:700;font-size:10px;line-height:1.04;letter-spacing:-.03em;
-             text-transform:uppercase;color:#fff;text-shadow:0 1px 4px rgba(0,0,0,.45)">
+             font-weight:700;font-size:${plateFontSize(title)}px;line-height:1.04;
+             letter-spacing:-.03em;text-transform:uppercase;color:#fff;
+             overflow-wrap:anywhere;text-shadow:0 1px 4px rgba(0,0,0,.45)">
           ${esc(title)}</div>
       </foreignObject>
       ${who ? `<foreignObject x="8" y="132" width="84" height="14">
