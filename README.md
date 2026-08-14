@@ -61,17 +61,31 @@ python3 .scripts/fetch_art.py --only book
 - **Books** come from Open Library. No key needed, works today. The lookup
   refuses any cover whose credited author does not match yours, because generic
   titles like `Collected Poems` otherwise match a random book.
-- **Films and TV** come from TMDb and need a free key. Get one at
-  <https://www.themoviedb.org/settings/api>, then create
-  `.scripts/.env` containing:
+- **Films and TV** come from Cinemeta and Metahub, the metadata and artwork
+  services the Stremio app uses. No key, and their IMDb-derived catalogue covers
+  Malayalam and Tamil releases better than TMDb does. Search is fuzzy, so the
+  spellings in the ledger resolve on their own (`Irratta` finds *Iratta*,
+  `Ratsasan` finds *Raatchasan*); a year match is preferred before falling back
+  to the top result, and any retitle is printed so you can spot a bad match.
+
+  These are undocumented internal endpoints rather than a supported public API.
+  They can change without notice. Because art is downloaded once and committed,
+  a future breakage only affects refetching, never the live site.
+
+  TMDb remains wired up if you ever want the licensed path. Put a key in
+  `.scripts/.env` and `--source auto` prefers it:
 
   ```
   TMDB_API_KEY=your_key_here
   OMDB_API_KEY=your_other_key_here
   ```
 
-  That file is gitignored. Without the key the script skips films and TV and
-  still does books.
+  That file is gitignored. Force either source with
+  `--source cinemeta` or `--source tmdb`.
+
+Cinemeta also yields an IMDb id, stored as `imdbid:` in the ledger. That makes
+`fetch_scores.py` exact (`?i=tt3417422`) instead of guessing from title and
+year, which matters for titles like *Drishyam* that name several films.
 
 Downloaded images are committed into `img/art/` and referenced from the ledger,
 so the live site makes **zero** API calls.

@@ -1015,6 +1015,9 @@ table.ledger .t-title { overflow-wrap: anywhere; }
   font-size: 1.02rem;
   font-variant-numeric: tabular-nums;
 }
+.score.link { transition: border-color .2s, color .2s; }
+.score.link:hover { border-color: var(--accent); color: var(--accent); }
+.score.link .val { font-size: .92rem; }
 .score.imdb .val { color: #D9A343; }
 .score.rt   .val { color: #E2703F; }
 .score.mc   .val { color: var(--teal); }

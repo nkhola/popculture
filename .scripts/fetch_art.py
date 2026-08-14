@@ -37,6 +37,15 @@ TMDB = "https://api.themoviedb.org/3"
 TMDB_IMG = "https://image.tmdb.org/t/p/w500"
 OPENLIB_SEARCH = "https://openlibrary.org/search.json"
 OPENLIB_COVER = "https://covers.openlibrary.org/b/id/{}-L.jpg"
+
+# Cinemeta and Metahub are the metadata and artwork services the Stremio app
+# uses. No key, and their IMDb-derived catalogue covers Malayalam and Tamil
+# releases better than TMDb does. They are undocumented internal endpoints
+# rather than a supported public API, so treat a failure here as expected
+# rather than exceptional. Art is committed, so the live site never calls them.
+CINEMETA = "https://v3-cinemeta.strem.io/catalog/{type}/top/search={q}.json"
+METAHUB = "https://images.metahub.space/poster/{size}/{imdb}/img"
+
 UA = "nkhola-popculture/1.0 (+https://nkhola.github.io/popculture)"
 
 
@@ -108,6 +117,54 @@ def tmdb_lookup(entry, api_key: str) -> tuple[str, str] | None:
     return None
 
 
+def cinemeta_lookup(entry) -> tuple[str, str] | None:
+    """Return (poster_url, imdb_id) via Stremio's Cinemeta, or None.
+
+    Cinemeta search is fuzzy, which is what we want: it resolves the spellings
+    actually used in the ledger (Irratta -> Iratta, Ratsasan -> Raatchasan).
+    That same looseness means an unfiltered first result can be a different
+    film entirely, so prefer a result whose year matches before falling back.
+    """
+    kind = "series" if entry.get("kind") == "tv" else "movie"
+    title = strip_paren(entry.title)
+    year = entry.get("year")
+
+    url = CINEMETA.format(type=kind, q=urllib.parse.quote(title))
+    data = get_json(url)
+    metas = (data or {}).get("metas") or []
+    if not metas:
+        return None
+
+    best = None
+    if year:
+        for m in metas[:8]:
+            if str(m.get("releaseInfo", "")).startswith(str(year)):
+                best = m
+                break
+        if best is None:
+            # Accept a one year drift, common for festival vs general release.
+            for m in metas[:8]:
+                info = str(m.get("releaseInfo", ""))[:4]
+                if info.isdigit() and abs(int(info) - int(year)) <= 1:
+                    best = m
+                    break
+    if best is None:
+        if year:
+            print(f"    no year match for {year}, using top result")
+        best = metas[0]
+
+    imdb_id = best.get("imdb_id") or ""
+    got = best.get("name", "")
+    if got.lower() != title.lower():
+        print(f"    matched as {got!r} ({best.get('releaseInfo')})")
+
+    if imdb_id:
+        return METAHUB.format(size="large", imdb=imdb_id), imdb_id
+    if best.get("poster"):
+        return best["poster"], ""
+    return None
+
+
 def surname(name: str) -> str:
     parts = [p for p in re.split(r"[\s.]+", name.strip()) if len(p) > 1]
     return parts[-1].lower() if parts else ""
@@ -163,10 +220,20 @@ def main() -> int:
     ap.add_argument("--title", help="only entries whose title contains this (case insensitive)")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--limit", type=int, default=0, help="stop after N successful fetches")
+    ap.add_argument("--source", choices=["auto", "cinemeta", "tmdb"], default="auto",
+                    help="art source for film and TV. auto prefers TMDb when a key "
+                         "is present, otherwise Cinemeta. Books always use Open Library.")
     args = ap.parse_args()
 
     load_env()
     tmdb_key = os.environ.get("TMDB_API_KEY", "").strip()
+
+    source = args.source
+    if source == "auto":
+        source = "tmdb" if tmdb_key else "cinemeta"
+    if source == "tmdb" and not tmdb_key:
+        print("error: --source tmdb needs TMDB_API_KEY. Use --source cinemeta instead.")
+        return 1
 
     _, entries = load()
     targets = [e for e in entries if args.only is None or e.get("kind") == args.only]
@@ -176,17 +243,13 @@ def main() -> int:
     if not args.force:
         targets = [e for e in targets if not e.get("art")]
 
-    needs_tmdb = any(e.get("kind") in {"film", "tv"} for e in targets)
-    if needs_tmdb and not tmdb_key:
-        print("note: TMDB_API_KEY not set, skipping films and TV. Books will still run.")
-        print("      get a free key at https://www.themoviedb.org/settings/api")
-        targets = [e for e in targets if e.get("kind") == "book"]
-
     if not targets:
         print("nothing to fetch")
         return 0
 
-    print(f"fetching art for {len(targets)} entries\n")
+    screen = sum(1 for e in targets if e.get("kind") in {"film", "tv"})
+    print(f"fetching art for {len(targets)} entries"
+          + (f"  ({screen} via {source})" if screen else "") + "\n")
     updates: dict[str, dict[str, str]] = {}
     ok = missing = 0
 
@@ -195,11 +258,19 @@ def main() -> int:
         kind = entry.get("kind")
         print(f"[{i}/{len(targets)}] {entry.title} ({kind})")
 
+        extra: dict[str, str] = {}
         if kind == "book":
-            url, tmdb_id = openlibrary_lookup(entry), None
+            url = openlibrary_lookup(entry)
+        elif source == "cinemeta":
+            found = cinemeta_lookup(entry)
+            url = found[0] if found else None
+            if found and found[1]:
+                extra["imdbid"] = found[1]
         else:
             found = tmdb_lookup(entry, tmdb_key)
-            url, tmdb_id = found if found else (None, None)
+            url = found[0] if found else None
+            if found and found[1]:
+                extra["tmdb"] = found[1]
 
         if not url:
             print("    no art found")
@@ -218,12 +289,15 @@ def main() -> int:
         if args.dry_run:
             print(f"    would save {url} -> {dest.relative_to(ROOT)}")
             ok += 1
-        elif download(url, dest):
+        elif download(url, dest) or (
+            # Metahub does not hold every size for every title. Step down before
+            # giving up, and keep the IMDb id either way since scores use it.
+            "/poster/large/" in url and download(url.replace("/poster/large/", "/poster/medium/"), dest)
+        ):
             rel = f"img/art/{slug}.jpg"
             print(f"    saved {rel}")
             updates.setdefault(slug, {})["art"] = rel
-            if tmdb_id:
-                updates[slug]["tmdb"] = tmdb_id
+            updates[slug].update(extra)
             ok += 1
         else:
             missing += 1

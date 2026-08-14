@@ -542,8 +542,11 @@
           ${it.by ? `<p class="detail-by">${it.by.split(',').map((n) =>
             `<a href="#/by/${slugify(n.trim())}">${esc(n.trim())}</a>`).join(', ')}</p>` : ''}
           ${it.note ? `<blockquote class="detail-note">${esc(it.note)}</blockquote>` : ''}
-          ${scores.length ? `<div class="scorebar">${scores.map(([c, src, v]) =>
-            `<div class="score ${c}"><span class="src">${src}</span><span class="val">${v}</span></div>`).join('')}</div>` : ''}
+          ${scores.length || it.imdbid ? `<div class="scorebar">${scores.map(([c, src, v]) =>
+            `<div class="score ${c}"><span class="src">${src}</span><span class="val">${v}</span></div>`).join('')}
+            ${it.imdbid ? `<a class="score link" href="https://www.imdb.com/title/${esc(it.imdbid)}/"
+              target="_blank" rel="noopener noreferrer"><span class="src">Look up</span>
+              <span class="val">IMDb &#8599;</span></a>` : ''}</div>` : ''}
           <div class="facts">${facts.map(([k, v]) =>
             `<div class="fact"><span class="k">${k}</span><span class="v">${esc(v)}</span></div>`).join('')}</div>
           ${it.flag ? `<p class="flagnote">Needs your correction: ${esc(it.flag)}</p>` : ''}

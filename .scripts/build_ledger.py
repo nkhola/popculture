@@ -196,6 +196,8 @@ def normalise(entries: list[dict]) -> tuple[list[dict], list[str]]:
             record["flag"] = e["flag"].strip()
         if e.get("tmdb", "").strip():
             record["tmdb"] = e["tmdb"].strip()
+        if e.get("imdbid", "").strip():
+            record["imdbid"] = e["imdbid"].strip()
 
         out.append(record)
 

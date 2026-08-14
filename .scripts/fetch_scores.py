@@ -77,6 +77,15 @@ def lookup(entry, api_key: str) -> dict[str, str]:
     title = strip_paren(entry.title)
     year = entry.get("year")
 
+    # An IMDb id from fetch_art.py makes this exact. Title matching has to guess,
+    # and guesses wrongly on titles like Drishyam that name several films.
+    imdb_id = entry.get("imdbid")
+    if imdb_id:
+        data = get_json(f"{OMDB}?{urllib.parse.urlencode({'apikey': api_key, 'i': imdb_id})}")
+        if data and data.get("Response") == "True":
+            return parse_ratings(data)
+        print(f"    imdb id {imdb_id} returned nothing, falling back to title search")
+
     params = {"apikey": api_key, "t": title, "type": kind}
     if year:
         params["y"] = year
