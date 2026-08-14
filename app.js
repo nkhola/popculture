@@ -171,12 +171,16 @@
 
   /* --- selectors --------------------------------------------------------- */
 
-  const byRating = (a, b) =>
-    (RATING_N[b.rating] - RATING_N[a.rating]) || (b.year || 0) - (a.year || 0);
+  /* Everything on the site reads newest first. Year is the primary key; rating
+     and title only break ties so ordering stays stable between renders. */
+  const byRecent = (a, b) =>
+    (b.year || 0) - (a.year || 0) ||
+    (RATING_N[b.rating] - RATING_N[a.rating]) ||
+    a.title.localeCompare(b.title);
 
   const musts  = (kind, region) => ITEMS.filter((i) =>
     i.must && (kind ? (kind === 'screen' ? i.kind !== 'book' : i.kind === kind) : true) &&
-    (region ? i.region === region : true)).sort(byRating);
+    (region ? i.region === region : true)).sort(byRecent);
 
   const nowItems = (kinds) => ITEMS.filter((i) => i.status === 'now' && kinds.includes(i.kind));
 
@@ -298,7 +302,7 @@
 
   function personBlock(name) {
     const items = ITEMS.filter((i) => i.by && i.by.split(',').map((s) => s.trim()).includes(name))
-      .sort((a, b) => (a.year || 0) - (b.year || 0));
+      .sort(byRecent);
     if (!items.length) return '';
     const ess = items.filter((i) => i.rating === 'essential').length;
     return `<div class="person rv">
@@ -315,7 +319,7 @@
     const kinds = kind === 'films' ? ['film'] : kind === 'tv' ? ['tv'] : ['book'];
     let items = ITEMS.filter((i) => kinds.includes(i.kind));
     if (region) items = items.filter((i) => i.region === region);
-    items.sort(byRating);
+    items.sort(byRecent);
 
     const title = opts.title || (kind === 'films' ? 'Cinema' : kind === 'tv' ? 'Television' : 'Books');
     const base = `#/${kind}`;
@@ -370,7 +374,7 @@
     const person = DATA.facets.people.find((p) => p.slug === personSlug);
     if (!person) return notFound('No such director or author');
     const items = ITEMS.filter((i) => i.by && i.by.split(',').map((s) => s.trim()).includes(person.name))
-      .sort((a, b) => (a.year || 0) - (b.year || 0));
+      .sort(byRecent);
 
     return `<section class="sec">
       <a class="backlink" href="#/people">&larr; All names</a>
@@ -380,7 +384,7 @@
   }
 
   function viewTag(tag) {
-    const items = ITEMS.filter((i) => i.tags.includes(tag)).sort(byRating);
+    const items = ITEMS.filter((i) => i.tags.includes(tag)).sort(byRecent);
     const related = new Map();
     items.forEach((i) => i.tags.forEach((t) => {
       if (t !== tag) related.set(t, (related.get(t) || 0) + 1);
@@ -408,7 +412,7 @@
 
   /* --- ledger table ------------------------------------------------------ */
 
-  let ledgerSort = { key: 'title', dir: 1 };
+  let ledgerSort = { key: 'year', dir: -1 };
 
   function viewLedger() {
     return `<section class="sec">
@@ -507,7 +511,7 @@
     if (!it) return notFound('No such entry');
 
     const sameBy = it.by
-      ? ITEMS.filter((x) => x.slug !== it.slug && x.by === it.by).sort((a, b) => (a.year || 0) - (b.year || 0))
+      ? ITEMS.filter((x) => x.slug !== it.slug && x.by === it.by).sort(byRecent)
       : [];
     const related = ITEMS
       .filter((x) => x.slug !== it.slug && x.by !== it.by)
@@ -781,7 +785,7 @@
     const navHits = NAV_CMDS.filter(([label]) => !q || label.toLowerCase().includes(q))
       .map(([label, href]) => ({ nav: true, label, href }));
 
-    const hits = !q ? ITEMS.filter((i) => i.must).sort(byRating).slice(0, 8)
+    const hits = !q ? ITEMS.filter((i) => i.must).sort(byRecent).slice(0, 8)
       : ITEMS.map((i) => ({ i, s: score(i, q) })).filter((r) => r.s > 0)
           .sort((a, b) => b.s - a.s || RATING_N[b.i.rating] - RATING_N[a.i.rating])
           .slice(0, 30).map((r) => r.i);

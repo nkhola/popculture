@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 105,
+ "count": 134,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -720,8 +720,224 @@
    "imdbid": "tt0074991"
   },
   {
-   "slug": "irratta-rohit-m-g-krishnan",
-   "title": "Irratta",
+   "slug": "searching-aneesh-chaganty",
+   "title": "Searching",
+   "kind": "film",
+   "region": "world",
+   "by": "Aneesh Chaganty",
+   "year": 2018,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "thriller",
+    "screenlife",
+    "mystery",
+    "family",
+    "technical"
+   ],
+   "note": "Technically brilliant and emotionally tense, told entirely through screens without ever feeling like a gimmick. The format should not work this well and it does.",
+   "art": "img/art/searching-aneesh-chaganty.jpg?v=4cb1927a",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt7668870"
+  },
+  {
+   "slug": "baby-driver-edgar-wright",
+   "title": "Baby Driver",
+   "kind": "film",
+   "region": "world",
+   "by": "Edgar Wright",
+   "year": 2017,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "edgar-wright",
+    "heist",
+    "music",
+    "visual-storytelling",
+    "editing"
+   ],
+   "note": "Visual storytelling at the highest level, every cut married to the beat. Wright showing off and earning every second of it.",
+   "art": "img/art/baby-driver-edgar-wright.jpg?v=d855e79d",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt3890160"
+  },
+  {
+   "slug": "shaun-of-the-dead-edgar-wright",
+   "title": "Shaun of the Dead",
+   "kind": "film",
+   "region": "world",
+   "by": "Edgar Wright",
+   "year": 2004,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "edgar-wright",
+    "cornetto-trilogy",
+    "comedy",
+    "horror",
+    "visual-storytelling"
+   ],
+   "note": "Wright's visual grammar arriving fully formed, with the jokes built into the cuts rather than the lines. Funnier on the fourth watch once you start noticing the setups.",
+   "art": "img/art/shaun-of-the-dead-edgar-wright.jpg?v=ad9e57ba",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt0365748"
+  },
+  {
+   "slug": "hot-fuzz-edgar-wright",
+   "title": "Hot Fuzz",
+   "kind": "film",
+   "region": "world",
+   "by": "Edgar Wright",
+   "year": 2007,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "edgar-wright",
+    "cornetto-trilogy",
+    "comedy",
+    "action",
+    "visual-storytelling"
+   ],
+   "note": "An action parody that is a better action film than the ones it parodies. The editing does more of the comedy than the script does.",
+   "art": "img/art/hot-fuzz-edgar-wright.jpg?v=0ec8b9b5",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt0425112"
+  },
+  {
+   "slug": "the-world-s-end-edgar-wright",
+   "title": "The World's End",
+   "kind": "film",
+   "region": "world",
+   "by": "Edgar Wright",
+   "year": 2013,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "edgar-wright",
+    "cornetto-trilogy",
+    "comedy",
+    "sci-fi",
+    "visual-storytelling"
+   ],
+   "note": "The last Cornetto and the saddest of the three, which sneaks up on you. Same visual precision, much heavier heart.",
+   "art": "img/art/the-world-s-end-edgar-wright.jpg?v=ea9075a9",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt1213663"
+  },
+  {
+   "slug": "john-wick-chad-stahelski",
+   "title": "John Wick",
+   "kind": "film",
+   "region": "world",
+   "by": "Chad Stahelski",
+   "year": 2014,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "action",
+    "john-wick",
+    "choreography",
+    "revenge",
+    "gun-fu"
+   ],
+   "note": "Brilliant action, choreographed so you can actually see it, which almost nobody bothers with anymore. Thin on everything else and it does not matter.",
+   "art": "img/art/john-wick-chad-stahelski.jpg?v=b02edf1e",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt2911666"
+  },
+  {
+   "slug": "john-wick-chapter-2-chad-stahelski",
+   "title": "John Wick: Chapter 2",
+   "kind": "film",
+   "region": "world",
+   "by": "Chad Stahelski",
+   "year": 2017,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "action",
+    "john-wick",
+    "choreography",
+    "sequel",
+    "gun-fu"
+   ],
+   "note": "Bigger, and the world building starts getting silly in the right way. Still the cleanest action shooting around.",
+   "art": "img/art/john-wick-chapter-2-chad-stahelski.jpg?v=5bb21354",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt4425200"
+  },
+  {
+   "slug": "john-wick-chapter-3-parabellum-chad-stahelski",
+   "title": "John Wick: Chapter 3 - Parabellum",
+   "kind": "film",
+   "region": "world",
+   "by": "Chad Stahelski",
+   "year": 2019,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "action",
+    "john-wick",
+    "choreography",
+    "sequel",
+    "gun-fu"
+   ],
+   "note": "The horse sequence and the knife room justify the whole film. Plot is now openly an excuse and everybody involved knows it.",
+   "art": "img/art/john-wick-chapter-3-parabellum-chad-stahelski.jpg?v=e2bc09cc",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt6146586"
+  },
+  {
+   "slug": "john-wick-chapter-4-chad-stahelski",
+   "title": "John Wick: Chapter 4",
+   "kind": "film",
+   "region": "world",
+   "by": "Chad Stahelski",
+   "year": 2023,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "action",
+    "john-wick",
+    "choreography",
+    "sequel",
+    "gun-fu"
+   ],
+   "note": "Three hours of set pieces and the stairs sequence alone is worth the ticket. The best looking of the four.",
+   "art": "img/art/john-wick-chapter-4-chad-stahelski.jpg?v=b19e583e",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt10366206"
+  },
+  {
+   "slug": "iratta-rohit-m-g-krishnan",
+   "title": "Iratta",
    "kind": "film",
    "region": "indian",
    "by": "Rohit M. G. Krishnan",
@@ -739,7 +955,7 @@
     "recent-watch"
    ],
    "note": "Two brothers, one uniform, and a film that refuses to raise its voice even once. Malayalam cinema doing in two hours what Hindi thrillers cannot manage in three.",
-   "art": "img/art/irratta-rohit-m-g-krishnan.jpg?v=d64e2567",
+   "art": "img/art/iratta-rohit-m-g-krishnan.jpg?v=d64e2567",
    "imdb": null,
    "rt": null,
    "mc": null,
@@ -900,19 +1116,18 @@
    "year": 2025,
    "status": "done",
    "must": false,
-   "rating": "decent",
+   "rating": "strong",
    "tags": [
     "hindi",
     "action",
     "spy",
     "recent-watch"
    ],
-   "note": "Not a must watch but perfectly decent for what it is. Goes big when it should go quiet, which is the standard Hindi problem.",
+   "note": "Part one of two, and a solid two on craft. Goes big when it should go quiet, which is the standard Hindi problem.",
    "art": "img/art/dhurandhar-aditya-dhar.jpg?v=d6867e60",
    "imdb": null,
    "rt": null,
    "mc": null,
-   "flag": "you called this a series, confirm whether you mean the film or a show",
    "imdbid": "tt33014583"
   },
   {
@@ -924,7 +1139,7 @@
    "year": 2006,
    "status": "done",
    "must": true,
-   "rating": "essential",
+   "rating": "strong",
    "tags": [
     "dibakar",
     "hindi",
@@ -934,7 +1149,7 @@
     "middle-class",
     "realism"
    ],
-   "note": "The film that proved you could make a Delhi middle class comedy with real people in it. Anupam Kher's small dignified fury is the best performance in either of these decades.",
+   "note": "Good rather than great, a Delhi middle class comedy built out of real people. Anupam Kher's small dignified fury is the best thing in it.",
    "art": "img/art/khosla-ka-ghosla-dibakar-banerjee.jpg?v=0725054c",
    "imdb": null,
    "rt": null,
@@ -1051,7 +1266,7 @@
    "year": 2021,
    "status": "done",
    "must": true,
-   "rating": "strong",
+   "rating": "decent",
    "tags": [
     "dibakar",
     "hindi",
@@ -1060,7 +1275,7 @@
     "gender",
     "realism"
    ],
-   "note": "Sat on a shelf for years and came out better than most of what released alongside it. Two people who despise each other stuck in the same escape, and it is really about who gets to be believed.",
+   "note": "Did not land for me. Interesting on paper, a one in practice.",
    "art": "img/art/sandeep-aur-pinky-faraar-dibakar-banerjee.jpg?v=01577c21",
    "imdb": null,
    "rt": null,
@@ -1127,7 +1342,7 @@
    "year": 2009,
    "status": "done",
    "must": true,
-   "rating": "strong",
+   "rating": "essential",
    "tags": [
     "kashyap",
     "hindi",
@@ -1136,7 +1351,7 @@
     "delhi",
     "neon"
    ],
-   "note": "Devdas rebuilt for people who find Devdas insufferable. Amit Trivedi's soundtrack is the actual protagonist.",
+   "note": "Genre defining and still ahead of its time. Devdas rebuilt for people who find Devdas insufferable, and Amit Trivedi's soundtrack is the actual protagonist.",
    "art": "img/art/dev-d-anurag-kashyap.jpg?v=1cdd6a21",
    "imdb": null,
    "rt": null,
@@ -1226,7 +1441,7 @@
    "year": 2015,
    "status": "done",
    "must": true,
-   "rating": "strong",
+   "rating": "essential",
    "tags": [
     "raghavan",
     "hindi",
@@ -1234,7 +1449,7 @@
     "moral-ambiguity",
     "dark"
    ],
-   "note": "A revenge film where revenge slowly turns the hero into the worse man. Nawazuddin walks off with it and the film knows it.",
+   "note": "Technically brilliant, and a revenge film where revenge slowly turns the hero into the worse man. Nawazuddin walks off with it and the film knows it.",
    "art": "img/art/badlapur-sriram-raghavan.jpg?v=cdef67f9",
    "imdb": null,
    "rt": null,
@@ -1292,6 +1507,149 @@
    "imdbid": "tt15392282"
   },
   {
+   "slug": "animal-sandeep-reddy-vanga",
+   "title": "Animal",
+   "kind": "film",
+   "region": "indian",
+   "by": "Sandeep Reddy Vanga",
+   "year": 2023,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "action",
+    "drama",
+    "technical",
+    "screenplay",
+    "editing"
+   ],
+   "note": "Technically brilliant, excelling in screenplay and editing, whatever you make of the rest of it. The craft is not the part that is in question.",
+   "art": "img/art/animal-sandeep-reddy-vanga.jpg?v=259c7fcb",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt13751694"
+  },
+  {
+   "slug": "dhurandhar-2-aditya-dhar",
+   "title": "Dhurandhar 2",
+   "kind": "film",
+   "region": "indian",
+   "by": "Aditya Dhar",
+   "year": 2026,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "action",
+    "spy",
+    "sequel"
+   ],
+   "note": "A bit lengthy, and it spends real time whitewashing demonetisation. Still a two on craft alone.",
+   "art": "img/art/dhurandhar-2-aditya-dhar.jpg?v=77a75bdc",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt39139925"
+  },
+  {
+   "slug": "laapataa-ladies-kiran-rao",
+   "title": "Laapataa Ladies",
+   "kind": "film",
+   "region": "indian",
+   "by": "Kiran Rao",
+   "year": 2023,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "comedy",
+    "family",
+    "gentle",
+    "rural"
+   ],
+   "note": "A nice family friendly film, warmer than it is sharp. Pleasant, well made, and nobody gets hurt.",
+   "art": "img/art/laapataa-ladies-kiran-rao.jpg?v=bd20cc2a",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt21626284"
+  },
+  {
+   "slug": "bareilly-ki-barfi-ashwiny-iyer-tiwari",
+   "title": "Bareilly Ki Barfi",
+   "kind": "film",
+   "region": "indian",
+   "by": "Ashwiny Iyer Tiwari",
+   "year": 2017,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "comedy",
+    "romance",
+    "small-town",
+    "entertainer"
+   ],
+   "note": "A nice entertainer with a light touch and good small town texture. Does exactly what it sets out to do.",
+   "art": "img/art/bareilly-ki-barfi-ashwiny-iyer-tiwari.jpg?v=e57e7980",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt6967980"
+  },
+  {
+   "slug": "vicky-donor-shoojit-sircar",
+   "title": "Vicky Donor",
+   "kind": "film",
+   "region": "indian",
+   "by": "Shoojit Sircar",
+   "year": 2012,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "comedy",
+    "delhi",
+    "entertainer",
+    "debut"
+   ],
+   "note": "A passtime, and a good natured one. Ayushmann's debut and still one of his easiest films to sit through.",
+   "art": "img/art/vicky-donor-shoojit-sircar.jpg?v=ba989936",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt2317337"
+  },
+  {
+   "slug": "ugly-anurag-kashyap",
+   "title": "Ugly",
+   "kind": "film",
+   "region": "indian",
+   "by": "Anurag Kashyap",
+   "year": 2013,
+   "status": "done",
+   "must": false,
+   "rating": "decent",
+   "tags": [
+    "kashyap",
+    "hindi",
+    "thriller",
+    "bleak"
+   ],
+   "note": "Kashyap at his most punishing, and not in a way that earns it. A one, and I have no interest in going back.",
+   "art": "img/art/ugly-anurag-kashyap.jpg?v=dc018894",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt2882328"
+  },
+  {
    "slug": "severance-dan-erickson-ben-stiller",
    "title": "Severance",
    "kind": "tv",
@@ -1337,6 +1695,344 @@
    "mc": null,
    "flag": "title uncertain, you wrote \"fuious\". Confirm the show and I will fix the entry.",
    "imdbid": "tt36303968"
+  },
+  {
+   "slug": "the-chestnut-man-soren-sveistrup",
+   "title": "The Chestnut Man",
+   "kind": "tv",
+   "region": "world",
+   "by": "Soren Sveistrup",
+   "year": 2021,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "nordic-noir",
+    "crime",
+    "danish",
+    "thriller",
+    "must-watch"
+   ],
+   "note": "Danish crime at its bleakest and most controlled, which is saying something. Trusts you to keep up rather than explaining itself every ten minutes.",
+   "art": "img/art/the-chestnut-man-soren-sveistrup.jpg?v=487aa6d3",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt10834220"
+  },
+  {
+   "slug": "mindhunter-joe-penhall-david-fincher",
+   "title": "Mindhunter",
+   "kind": "tv",
+   "region": "world",
+   "by": "Joe Penhall, David Fincher",
+   "year": 2017,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "fincher",
+    "crime",
+    "procedural",
+    "psychology",
+    "true-crime",
+    "must-watch"
+   ],
+   "note": "Two men interviewing killers in rooms, and it is tenser than any chase ever filmed. Fincher's fingerprints are all over the pacing, and cancelling it was a genuine crime.",
+   "art": "img/art/mindhunter-joe-penhall-david-fincher.jpg?v=777a88cb",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt5290382"
+  },
+  {
+   "slug": "dept-q-scott-frank",
+   "title": "Dept. Q",
+   "kind": "tv",
+   "region": "world",
+   "by": "Scott Frank",
+   "year": 2025,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "crime",
+    "procedural",
+    "cold-case",
+    "scottish",
+    "must-watch"
+   ],
+   "note": "A cold case unit staffed by the people nobody else wanted, and the show is smart enough to make that the point. Properly plotted, properly acted, no filler.",
+   "art": "img/art/dept-q-scott-frank.jpg?v=8bc49f19",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt27995114"
+  },
+  {
+   "slug": "black-bird-dennis-lehane",
+   "title": "Black Bird",
+   "kind": "tv",
+   "region": "world",
+   "by": "Dennis Lehane",
+   "year": 2022,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "crime",
+    "true-crime",
+    "prison",
+    "performances",
+    "apple-tv",
+    "must-watch"
+   ],
+   "note": "The two lead performances are the whole thing and both are extraordinary. Hauser in particular does something genuinely unsettling with very little.",
+   "art": "img/art/black-bird-dennis-lehane.jpg?v=73f27641",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt4301160"
+  },
+  {
+   "slug": "sherlock-mark-gatiss-steven-moffat",
+   "title": "Sherlock",
+   "kind": "tv",
+   "region": "world",
+   "by": "Mark Gatiss, Steven Moffat",
+   "year": 2010,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "detective",
+    "british",
+    "visual-storytelling",
+    "technical",
+    "adaptation",
+    "must-watch"
+   ],
+   "note": "The technical transitions and the visual storytelling are what make it, not the plots. Text on screen, cuts inside a thought, beautiful imagery doing work that dialogue would have ruined.",
+   "art": "img/art/sherlock-mark-gatiss-steven-moffat.jpg?v=332c46c3",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt1475582"
+  },
+  {
+   "slug": "better-call-saul-vince-gilligan-peter-gould",
+   "title": "Better Call Saul",
+   "kind": "tv",
+   "region": "world",
+   "by": "Vince Gilligan, Peter Gould",
+   "year": 2015,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "crime",
+    "prequel",
+    "character-study",
+    "subtle",
+    "gilligan",
+    "must-watch"
+   ],
+   "note": "Better than Breaking Bad on character work and it is not close. Subtler, slower, and it trusts you to notice things instead of pointing at them.",
+   "art": "img/art/better-call-saul-vince-gilligan-peter-gould.jpg?v=f8912b83",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt3032476"
+  },
+  {
+   "slug": "breaking-bad-vince-gilligan",
+   "title": "Breaking Bad",
+   "kind": "tv",
+   "region": "world",
+   "by": "Vince Gilligan",
+   "year": 2008,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "crime",
+    "drama",
+    "gilligan",
+    "transformation"
+   ],
+   "note": "Great, but a bit masala, a bit in your face, everything underlined twice in case you missed it. A two next to what came after it.",
+   "art": "img/art/breaking-bad-vince-gilligan.jpg?v=fdb50ef1",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt0903747"
+  },
+  {
+   "slug": "pluribus-vince-gilligan",
+   "title": "Pluribus",
+   "kind": "tv",
+   "region": "world",
+   "by": "Vince Gilligan",
+   "year": 2025,
+   "status": "done",
+   "must": false,
+   "rating": "decent",
+   "tags": [
+    "sci-fi",
+    "dystopia",
+    "hive-mind",
+    "gilligan",
+    "slow"
+   ],
+   "note": "Interesting concept and great filming, but super slow and it does not come together crisply. Skip it if you want, I would not argue.",
+   "art": "img/art/pluribus-vince-gilligan.jpg?v=1b66ed8d",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt22202452"
+  },
+  {
+   "slug": "the-office-uk-ricky-gervais-stephen-merchant",
+   "title": "The Office (UK)",
+   "kind": "tv",
+   "region": "world",
+   "by": "Ricky Gervais, Stephen Merchant",
+   "year": 2001,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "comedy",
+    "mockumentary",
+    "british",
+    "workplace",
+    "must-watch"
+   ],
+   "note": "Twelve episodes and a special, then it stopped, which is the most British thing about it. Bleaker and more uncomfortable than the American one ever tried to be.",
+   "art": "img/art/the-office-uk-ricky-gervais-stephen-merchant.jpg?v=a5299872",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt0290978"
+  },
+  {
+   "slug": "the-office-us-greg-daniels",
+   "title": "The Office (US)",
+   "kind": "tv",
+   "region": "world",
+   "by": "Greg Daniels",
+   "year": 2005,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "comedy",
+    "mockumentary",
+    "workplace",
+    "rewatchable",
+    "must-watch"
+   ],
+   "note": "Takes a season to find itself and then becomes the most rewatchable thing on television. Warmer than the original and better for it.",
+   "art": "img/art/the-office-us-greg-daniels.jpg?v=55fb8f47",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt0386676"
+  },
+  {
+   "slug": "parks-and-recreation-greg-daniels-michael-schur",
+   "title": "Parks and Recreation",
+   "kind": "tv",
+   "region": "world",
+   "by": "Greg Daniels, Michael Schur",
+   "year": 2009,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "comedy",
+    "mockumentary",
+    "workplace",
+    "warm",
+    "must-watch"
+   ],
+   "note": "The most generous comedy ever made, where the joke is never cruelty. Leslie Knope is the only fictional character I would actually vote for.",
+   "art": "img/art/parks-and-recreation-greg-daniels-michael-schur.jpg?v=e2bf66d4",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt1266020"
+  },
+  {
+   "slug": "seinfeld-larry-david-jerry-seinfeld",
+   "title": "Seinfeld",
+   "kind": "tv",
+   "region": "world",
+   "by": "Larry David, Jerry Seinfeld",
+   "year": 1989,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "comedy",
+    "sitcom",
+    "90s",
+    "plotting",
+    "must-watch"
+   ],
+   "note": "The show about nothing that is actually about how awful everyone is. Thirty years on and the plotting is still tighter than anything current.",
+   "art": "img/art/seinfeld-larry-david-jerry-seinfeld.jpg?v=af93af8f",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt0098904"
+  },
+  {
+   "slug": "arrested-development-mitchell-hurwitz",
+   "title": "Arrested Development",
+   "kind": "tv",
+   "region": "world",
+   "by": "Mitchell Hurwitz",
+   "year": 2003,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "comedy",
+    "sitcom",
+    "dense",
+    "callback",
+    "must-watch"
+   ],
+   "note": "Every joke is planted three episodes early and pays off once you have forgotten it. Denser than anything else in the genre.",
+   "art": "img/art/arrested-development-mitchell-hurwitz.jpg?v=5282f1b3",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt0367279"
+  },
+  {
+   "slug": "the-lincoln-lawyer-david-e-kelley-ted-humphrey",
+   "title": "The Lincoln Lawyer",
+   "kind": "tv",
+   "region": "world",
+   "by": "David E. Kelley, Ted Humphrey",
+   "year": 2022,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "legal",
+    "procedural",
+    "netflix",
+    "easy-watch"
+   ],
+   "note": "A great passtime when you are multitasking, which is exactly the right use for it. Nothing demanded of you and nothing wasted either.",
+   "art": "img/art/the-lincoln-lawyer-david-e-kelley-ted-humphrey.jpg?v=376e3486",
+   "imdb": null,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt13833978"
   },
   {
    "slug": "your-erroneous-zones-wayne-dyer",
@@ -1392,14 +2088,14 @@
    "year": 2018,
    "status": "done",
    "must": false,
-   "rating": "strong",
+   "rating": "essential",
    "tags": [
     "psychology",
     "power",
     "greene",
     "recent-read"
    ],
-   "note": "Greene at his most useful and least cynical, which is a low bar he clears well. Too long by a third and still worth the time.",
+   "note": "The same great description of human nature, at more length and with more patience. Greene is very good at this.",
    "art": "img/art/the-laws-of-human-nature-robert-greene.jpg?v=50ae66c8",
    "imdb": null,
    "rt": null,
@@ -1436,7 +2132,7 @@
    "year": 1998,
    "status": "done",
    "must": false,
-   "rating": "strong",
+   "rating": "essential",
    "tags": [
     "power",
     "strategy",
@@ -1444,7 +2140,7 @@
     "recent-read",
     "amoral"
    ],
-   "note": "Best read as a description of how people actually behave, not as instructions. Half of it is genuinely useful and half of it will make you insufferable.",
+   "note": "A great description of human nature, which is what it is actually for. Read it as observation, not as instruction.",
    "art": "img/art/the-48-laws-of-power-robert-greene.jpg?v=0ff35087",
    "imdb": null,
    "rt": null,
@@ -2096,7 +2792,7 @@
    "year": 1925,
    "status": "done",
    "must": true,
-   "rating": "essential",
+   "rating": "strong",
    "tags": [
     "hindi",
     "short-story",
@@ -2105,7 +2801,7 @@
     "integrity",
     "favourite"
    ],
-   "note": "One of my two favourites of his. Honesty costs the man everything and the story is clear eyed enough to admit that, then finds him something better anyway.",
+   "note": "Honesty costs the man everything and the story is clear eyed enough to admit that. A two, and still one I go back to.",
    "art": "",
    "imdb": null,
    "rt": null,
@@ -2495,26 +3191,34 @@
   "tags": [
    {
     "tag": "hindi",
-    "count": 23
+    "count": 29
+   },
+   {
+    "tag": "thriller",
+    "count": 24
    },
    {
     "tag": "shelf",
     "count": 23
    },
    {
-    "tag": "thriller",
-    "count": 21
+    "tag": "crime",
+    "count": 17
    },
    {
     "tag": "realism",
     "count": 15
    },
    {
-    "tag": "fincher",
-    "count": 12
+    "tag": "comedy",
+    "count": 14
    },
    {
-    "tag": "crime",
+    "tag": "fincher",
+    "count": 13
+   },
+   {
+    "tag": "must-watch",
     "count": 11
    },
    {
@@ -2522,19 +3226,31 @@
     "count": 10
    },
    {
+    "tag": "action",
+    "count": 9
+   },
+   {
     "tag": "short-story",
     "count": 9
+   },
+   {
+    "tag": "90s",
+    "count": 8
    },
    {
     "tag": "philosophy",
     "count": 8
    },
    {
-    "tag": "90s",
+    "tag": "english",
     "count": 7
    },
    {
-    "tag": "english",
+    "tag": "procedural",
+    "count": 7
+   },
+   {
+    "tag": "psychology",
     "count": 7
    },
    {
@@ -2542,7 +3258,15 @@
     "count": 7
    },
    {
+    "tag": "revenge",
+    "count": 7
+   },
+   {
     "tag": "dibakar",
+    "count": 6
+   },
+   {
+    "tag": "drama",
     "count": 6
    },
    {
@@ -2550,15 +3274,7 @@
     "count": 6
    },
    {
-    "tag": "psychology",
-    "count": 6
-   },
-   {
     "tag": "raghavan",
-    "count": 6
-   },
-   {
-    "tag": "revenge",
     "count": 6
    },
    {
@@ -2568,6 +3284,14 @@
    {
     "tag": "twist",
     "count": 6
+   },
+   {
+    "tag": "delhi",
+    "count": 5
+   },
+   {
+    "tag": "family",
+    "count": 5
    },
    {
     "tag": "gladwell",
@@ -2590,7 +3314,15 @@
     "count": 5
    },
    {
-    "tag": "delhi",
+    "tag": "sequel",
+    "count": 5
+   },
+   {
+    "tag": "visual-storytelling",
+    "count": 5
+   },
+   {
+    "tag": "choreography",
     "count": 4
    },
    {
@@ -2598,7 +3330,11 @@
     "count": 4
    },
    {
-    "tag": "drama",
+    "tag": "edgar-wright",
+    "count": 4
+   },
+   {
+    "tag": "gun-fu",
     "count": 4
    },
    {
@@ -2607,6 +3343,14 @@
    },
    {
     "tag": "history",
+    "count": 4
+   },
+   {
+    "tag": "john-wick",
+    "count": 4
+   },
+   {
+    "tag": "kashyap",
     "count": 4
    },
    {
@@ -2622,16 +3366,28 @@
     "count": 4
    },
    {
-    "tag": "procedural",
+    "tag": "recent-read",
     "count": 4
    },
    {
-    "tag": "recent-read",
+    "tag": "sci-fi",
     "count": 4
    },
    {
     "tag": "slow-burn",
     "count": 4
+   },
+   {
+    "tag": "true-crime",
+    "count": 4
+   },
+   {
+    "tag": "workplace",
+    "count": 4
+   },
+   {
+    "tag": "adaptation",
+    "count": 3
    },
    {
     "tag": "american",
@@ -2646,11 +3402,11 @@
     "count": 3
    },
    {
-    "tag": "comedy",
+    "tag": "cornetto-trilogy",
     "count": 3
    },
    {
-    "tag": "family",
+    "tag": "debut",
     "count": 3
    },
    {
@@ -2658,11 +3414,23 @@
     "count": 3
    },
    {
+    "tag": "gilligan",
+    "count": 3
+   },
+   {
+    "tag": "heist",
+    "count": 3
+   },
+   {
     "tag": "hollywood",
     "count": 3
    },
    {
-    "tag": "kashyap",
+    "tag": "mockumentary",
+    "count": 3
+   },
+   {
+    "tag": "mystery",
     "count": 3
    },
    {
@@ -2682,20 +3450,28 @@
     "count": 3
    },
    {
+    "tag": "romance",
+    "count": 3
+   },
+   {
+    "tag": "rural",
+    "count": 3
+   },
+   {
+    "tag": "spy",
+    "count": 3
+   },
+   {
+    "tag": "technical",
+    "count": 3
+   },
+   {
     "tag": "tms",
     "count": 3
    },
    {
     "tag": "western",
     "count": 3
-   },
-   {
-    "tag": "action",
-    "count": 2
-   },
-   {
-    "tag": "adaptation",
-    "count": 2
    },
    {
     "tag": "ancient",
@@ -2706,7 +3482,15 @@
     "count": 2
    },
    {
+    "tag": "bleak",
+    "count": 2
+   },
+   {
     "tag": "bombay",
+    "count": 2
+   },
+   {
+    "tag": "british",
     "count": 2
    },
    {
@@ -2730,7 +3514,15 @@
     "count": 2
    },
    {
-    "tag": "debut",
+    "tag": "detective",
+    "count": 2
+   },
+   {
+    "tag": "editing",
+    "count": 2
+   },
+   {
+    "tag": "entertainer",
     "count": 2
    },
    {
@@ -2750,11 +3542,11 @@
     "count": 2
    },
    {
-    "tag": "heist",
+    "tag": "homage",
     "count": 2
    },
    {
-    "tag": "homage",
+    "tag": "horror",
     "count": 2
    },
    {
@@ -2774,7 +3566,11 @@
     "count": 2
    },
    {
-    "tag": "mystery",
+    "tag": "music",
+    "count": 2
+   },
+   {
+    "tag": "netflix",
     "count": 2
    },
    {
@@ -2798,23 +3594,11 @@
     "count": 2
    },
    {
-    "tag": "romance",
-    "count": 2
-   },
-   {
-    "tag": "rural",
-    "count": 2
-   },
-   {
     "tag": "rushdie",
     "count": 2
    },
    {
     "tag": "sanyal",
-    "count": 2
-   },
-   {
-    "tag": "sci-fi",
     "count": 2
    },
    {
@@ -2838,11 +3622,15 @@
     "count": 2
    },
    {
-    "tag": "snow",
+    "tag": "sitcom",
     "count": 2
    },
    {
-    "tag": "spy",
+    "tag": "slow",
+    "count": 2
+   },
+   {
+    "tag": "snow",
     "count": 2
    },
    {
@@ -2859,10 +3647,6 @@
    },
    {
     "tag": "tamil",
-    "count": 2
-   },
-   {
-    "tag": "true-crime",
     "count": 2
    },
    {
@@ -2902,6 +3686,10 @@
     "count": 1
    },
    {
+    "tag": "apple-tv",
+    "count": 1
+   },
+   {
     "tag": "biology",
     "count": 1
    },
@@ -2911,10 +3699,6 @@
    },
    {
     "tag": "blaxploitation",
-    "count": 1
-   },
-   {
-    "tag": "bleak",
     "count": 1
    },
    {
@@ -2942,7 +3726,15 @@
     "count": 1
    },
    {
+    "tag": "callback",
+    "count": 1
+   },
+   {
     "tag": "car-chase",
+    "count": 1
+   },
+   {
+    "tag": "character-study",
     "count": 1
    },
    {
@@ -2951,6 +3743,10 @@
    },
    {
     "tag": "cold",
+    "count": 1
+   },
+   {
+    "tag": "cold-case",
     "count": 1
    },
    {
@@ -2994,6 +3790,10 @@
     "count": 1
    },
    {
+    "tag": "danish",
+    "count": 1
+   },
+   {
     "tag": "de-palma",
     "count": 1
    },
@@ -3002,11 +3802,11 @@
     "count": 1
    },
    {
-    "tag": "desai",
+    "tag": "dense",
     "count": 1
    },
    {
-    "tag": "detective",
+    "tag": "desai",
     "count": 1
    },
    {
@@ -3019,6 +3819,14 @@
    },
    {
     "tag": "dream-logic",
+    "count": 1
+   },
+   {
+    "tag": "dystopia",
+    "count": 1
+   },
+   {
+    "tag": "easy-watch",
     "count": 1
    },
    {
@@ -3066,6 +3874,10 @@
     "count": 1
    },
    {
+    "tag": "gentle",
+    "count": 1
+   },
+   {
     "tag": "geography",
     "count": 1
    },
@@ -3102,11 +3914,11 @@
     "count": 1
    },
    {
-    "tag": "holiday",
+    "tag": "hive-mind",
     "count": 1
    },
    {
-    "tag": "horror",
+    "tag": "holiday",
     "count": 1
    },
    {
@@ -3158,6 +3970,10 @@
     "count": 1
    },
    {
+    "tag": "legal",
+    "count": 1
+   },
+   {
     "tag": "lyrical",
     "count": 1
    },
@@ -3202,15 +4018,7 @@
     "count": 1
    },
    {
-    "tag": "music",
-    "count": 1
-   },
-   {
     "tag": "neon",
-    "count": 1
-   },
-   {
-    "tag": "netflix",
     "count": 1
    },
    {
@@ -3219,6 +4027,10 @@
    },
    {
     "tag": "nonfiction-novel",
+    "count": 1
+   },
+   {
+    "tag": "nordic-noir",
     "count": 1
    },
    {
@@ -3254,6 +4066,10 @@
     "count": 1
    },
    {
+    "tag": "performances",
+    "count": 1
+   },
+   {
     "tag": "period",
     "count": 1
    },
@@ -3267,6 +4083,10 @@
    },
    {
     "tag": "piyush-mishra",
+    "count": 1
+   },
+   {
+    "tag": "plotting",
     "count": 1
    },
    {
@@ -3290,7 +4110,15 @@
     "count": 1
    },
    {
+    "tag": "prequel",
+    "count": 1
+   },
+   {
     "tag": "prestige",
+    "count": 1
+   },
+   {
+    "tag": "prison",
     "count": 1
    },
    {
@@ -3322,6 +4150,10 @@
     "count": 1
    },
    {
+    "tag": "rewatchable",
+    "count": 1
+   },
+   {
     "tag": "risk",
     "count": 1
    },
@@ -3342,11 +4174,19 @@
     "count": 1
    },
    {
-    "tag": "sequel",
+    "tag": "scottish",
     "count": 1
    },
    {
-    "tag": "slow",
+    "tag": "screenlife",
+    "count": 1
+   },
+   {
+    "tag": "screenplay",
+    "count": 1
+   },
+   {
+    "tag": "small-town",
     "count": 1
    },
    {
@@ -3374,6 +4214,10 @@
     "count": 1
    },
    {
+    "tag": "subtle",
+    "count": 1
+   },
+   {
     "tag": "success",
     "count": 1
    },
@@ -3395,6 +4239,10 @@
    },
    {
     "tag": "tragedy",
+    "count": 1
+   },
+   {
+    "tag": "transformation",
     "count": 1
    },
    {
@@ -3434,15 +4282,15 @@
     "count": 1
    },
    {
+    "tag": "warm",
+    "count": 1
+   },
+   {
     "tag": "whodunit",
     "count": 1
    },
    {
     "tag": "workbook",
-    "count": 1
-   },
-   {
-    "tag": "workplace",
     "count": 1
    }
   ],
@@ -3450,9 +4298,10 @@
    {
     "name": "David Fincher",
     "slug": "david-fincher",
-    "count": 12,
+    "count": 13,
     "kinds": [
-     "film"
+     "film",
+     "tv"
     ]
    },
    {
@@ -3498,7 +4347,39 @@
    {
     "name": "Anurag Kashyap",
     "slug": "anurag-kashyap",
+    "count": 4,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Chad Stahelski",
+    "slug": "chad-stahelski",
+    "count": 4,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Edgar Wright",
+    "slug": "edgar-wright",
+    "count": 4,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Vince Gilligan",
+    "slug": "vince-gilligan",
     "count": 3,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Aditya Dhar",
+    "slug": "aditya-dhar",
+    "count": 2,
     "kinds": [
      "film"
     ]
@@ -3517,6 +4398,14 @@
     "count": 2,
     "kinds": [
      "film"
+    ]
+   },
+   {
+    "name": "Greg Daniels",
+    "slug": "greg-daniels",
+    "count": 2,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -3576,19 +4465,19 @@
     ]
    },
    {
-    "name": "Aditya Dhar",
-    "slug": "aditya-dhar",
-    "count": 1,
-    "kinds": [
-     "film"
-    ]
-   },
-   {
     "name": "Alan Gordon",
     "slug": "alan-gordon",
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Aneesh Chaganty",
+    "slug": "aneesh-chaganty",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {
@@ -3629,6 +4518,14 @@
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Ashwiny Iyer Tiwari",
+    "slug": "ashwiny-iyer-tiwari",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {
@@ -3704,6 +4601,22 @@
     ]
    },
    {
+    "name": "David E. Kelley",
+    "slug": "david-e-kelley",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Dennis Lehane",
+    "slug": "dennis-lehane",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
     "name": "Erin Meyer",
     "slug": "erin-meyer",
     "count": 1,
@@ -3744,11 +4657,27 @@
     ]
    },
    {
+    "name": "Jerry Seinfeld",
+    "slug": "jerry-seinfeld",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
     "name": "Jiddu Krishnamurti",
     "slug": "jiddu-krishnamurti",
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Joe Penhall",
+    "slug": "joe-penhall",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -3792,11 +4721,51 @@
     ]
    },
    {
+    "name": "Kiran Rao",
+    "slug": "kiran-rao",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Larry David",
+    "slug": "larry-david",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
     "name": "Marcus Aurelius",
     "slug": "marcus-aurelius",
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Mark Gatiss",
+    "slug": "mark-gatiss",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Michael Schur",
+    "slug": "michael-schur",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Mitchell Hurwitz",
+    "slug": "mitchell-hurwitz",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -3813,6 +4782,14 @@
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Peter Gould",
+    "slug": "peter-gould",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -3837,6 +4814,14 @@
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Ricky Gervais",
+    "slug": "ricky-gervais",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -3872,6 +4857,22 @@
     ]
    },
    {
+    "name": "Sandeep Reddy Vanga",
+    "slug": "sandeep-reddy-vanga",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Scott Frank",
+    "slug": "scott-frank",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
     "name": "Sheryl Sandberg",
     "slug": "sheryl-sandberg",
     "count": 1,
@@ -3880,11 +4881,51 @@
     ]
    },
    {
+    "name": "Shoojit Sircar",
+    "slug": "shoojit-sircar",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Siddhartha Mukherjee",
     "slug": "siddhartha-mukherjee",
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Soren Sveistrup",
+    "slug": "soren-sveistrup",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Stephen Merchant",
+    "slug": "stephen-merchant",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Steven Moffat",
+    "slug": "steven-moffat",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Ted Humphrey",
+    "slug": "ted-humphrey",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {

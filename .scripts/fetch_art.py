@@ -20,6 +20,7 @@ makes zero API calls.
 from __future__ import annotations
 
 import argparse
+import http.client
 import json
 import os
 import re
@@ -61,23 +62,52 @@ def load_env() -> None:
         os.environ.setdefault(k.strip(), v.strip().strip('"').strip("'"))
 
 
+# A dropped keep-alive raises http.client.RemoteDisconnected, which is an
+# HTTPException and NOT a URLError, so catching urllib's own errors is not
+# enough. URLError, HTTPError and TimeoutError are all OSError subclasses,
+# so this pair covers every transport failure these hosts produce.
+NET_ERRORS = (OSError, http.client.HTTPException, ValueError)
+
+
+def _fetch(url: str, timeout: int, accept: str | None = None, tries: int = 3) -> bytes | None:
+    """GET with retries. Returns the body, or None once the retries run out."""
+    headers = {"User-Agent": UA}
+    if accept:
+        headers["Accept"] = accept
+    req = urllib.request.Request(url, headers=headers)
+
+    for attempt in range(1, tries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read()
+        except urllib.error.HTTPError as e:
+            # A real answer from the server. Retrying a 404 just wastes time.
+            if e.code < 500:
+                print(f"    HTTP {e.code}")
+                return None
+            last = e
+        except NET_ERRORS as e:
+            last = e
+        if attempt < tries:
+            time.sleep(0.6 * attempt)
+    print(f"    request failed after {tries} tries: {last}")
+    return None
+
+
 def get_json(url: str, timeout: int = 20) -> dict | None:
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+    body = _fetch(url, timeout, accept="application/json")
+    if body is None:
+        return None
     try:
-        with urllib.request.urlopen(req, timeout=timeout) as r:
-            return json.loads(r.read().decode("utf-8"))
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, ValueError) as e:
-        print(f"    request failed: {e}")
+        return json.loads(body.decode("utf-8"))
+    except (ValueError, UnicodeDecodeError) as e:
+        print(f"    bad JSON: {e}")
         return None
 
 
 def download(url: str, dest: Path, timeout: int = 30) -> bool:
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as r:
-            data = r.read()
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
-        print(f"    download failed: {e}")
+    data = _fetch(url, timeout)
+    if data is None:
         return False
     # Open Library serves a 43 byte 1x1 gif when it has no cover.
     if len(data) < 3000:
@@ -253,6 +283,31 @@ def main() -> int:
     updates: dict[str, dict[str, str]] = {}
     ok = missing = 0
 
+    def flush() -> None:
+        """Write what we have so far. Called on the normal path and on the way
+        out of an interrupt or crash, because a long run that dies at entry 3
+        used to discard the two images it had already downloaded."""
+        if updates and not args.dry_run:
+            written = apply_updates(updates)
+            print(f"\nwrote {written} field(s) back into ledger.md")
+            updates.clear()
+
+    try:
+        run(targets, args, source, tmdb_key, updates)
+    except KeyboardInterrupt:
+        print("\ninterrupted")
+        flush()
+        return 130
+    except Exception:
+        flush()
+        raise
+    flush()
+    return 0
+
+
+def run(targets, args, source, tmdb_key, updates) -> None:
+    ok = missing = 0
+
     for i, entry in enumerate(targets, 1):
         slug = entry.slug
         kind = entry.get("kind")
@@ -306,14 +361,9 @@ def main() -> int:
         if args.limit and ok >= args.limit:
             break
 
-    if updates and not args.dry_run:
-        written = apply_updates(updates)
-        print(f"\nwrote {written} field(s) back into ledger.md")
-
     print(f"\ndone: {ok} fetched, {missing} missing")
     if not args.dry_run and updates:
-        print("now run: python3 .scripts/popculture/build_ledger.py")
-    return 0
+        print("then run: python3 .scripts/build_ledger.py")
 
 
 if __name__ == "__main__":

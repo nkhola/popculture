@@ -431,11 +431,129 @@ note: De Palma doing Vertigo without pretending otherwise, and the Herrmann scor
 art: img/art/obsession-brian-de-palma.jpg
 imdbid: tt0074991
 
+## Searching
+kind: film
+region: world
+by: Aneesh Chaganty
+year: 2018
+status: done
+must: yes
+rating: essential
+tags: thriller, screenlife, mystery, family, technical
+note: Technically brilliant and emotionally tense, told entirely through screens without ever feeling like a gimmick. The format should not work this well and it does.
+art: img/art/searching-aneesh-chaganty.jpg
+imdbid: tt7668870
+
+## Baby Driver
+kind: film
+region: world
+by: Edgar Wright
+year: 2017
+status: done
+must: yes
+rating: essential
+tags: edgar-wright, heist, music, visual-storytelling, editing
+note: Visual storytelling at the highest level, every cut married to the beat. Wright showing off and earning every second of it.
+art: img/art/baby-driver-edgar-wright.jpg
+imdbid: tt3890160
+
+## Shaun of the Dead
+kind: film
+region: world
+by: Edgar Wright
+year: 2004
+status: done
+must: yes
+rating: essential
+tags: edgar-wright, cornetto-trilogy, comedy, horror, visual-storytelling
+note: Wright's visual grammar arriving fully formed, with the jokes built into the cuts rather than the lines. Funnier on the fourth watch once you start noticing the setups.
+art: img/art/shaun-of-the-dead-edgar-wright.jpg
+imdbid: tt0365748
+
+## Hot Fuzz
+kind: film
+region: world
+by: Edgar Wright
+year: 2007
+status: done
+must: yes
+rating: essential
+tags: edgar-wright, cornetto-trilogy, comedy, action, visual-storytelling
+note: An action parody that is a better action film than the ones it parodies. The editing does more of the comedy than the script does.
+art: img/art/hot-fuzz-edgar-wright.jpg
+imdbid: tt0425112
+
+## The World's End
+kind: film
+region: world
+by: Edgar Wright
+year: 2013
+status: done
+must: yes
+rating: essential
+tags: edgar-wright, cornetto-trilogy, comedy, sci-fi, visual-storytelling
+note: The last Cornetto and the saddest of the three, which sneaks up on you. Same visual precision, much heavier heart.
+art: img/art/the-world-s-end-edgar-wright.jpg
+imdbid: tt1213663
+
+## John Wick
+kind: film
+region: world
+by: Chad Stahelski
+year: 2014
+status: done
+must: no
+rating: strong
+tags: action, john-wick, choreography, revenge, gun-fu
+note: Brilliant action, choreographed so you can actually see it, which almost nobody bothers with anymore. Thin on everything else and it does not matter.
+art: img/art/john-wick-chad-stahelski.jpg
+imdbid: tt2911666
+
+## John Wick: Chapter 2
+kind: film
+region: world
+by: Chad Stahelski
+year: 2017
+status: done
+must: no
+rating: strong
+tags: action, john-wick, choreography, sequel, gun-fu
+note: Bigger, and the world building starts getting silly in the right way. Still the cleanest action shooting around.
+art: img/art/john-wick-chapter-2-chad-stahelski.jpg
+imdbid: tt4425200
+
+## John Wick: Chapter 3 - Parabellum
+kind: film
+region: world
+by: Chad Stahelski
+year: 2019
+status: done
+must: no
+rating: strong
+tags: action, john-wick, choreography, sequel, gun-fu
+note: The horse sequence and the knife room justify the whole film. Plot is now openly an excuse and everybody involved knows it.
+art: img/art/john-wick-chapter-3-parabellum-chad-stahelski.jpg
+imdbid: tt6146586
+
+## John Wick: Chapter 4
+kind: film
+region: world
+by: Chad Stahelski
+year: 2023
+status: done
+must: no
+rating: strong
+tags: action, john-wick, choreography, sequel, gun-fu
+note: Three hours of set pieces and the stairs sequence alone is worth the ticket. The best looking of the four.
+art: img/art/john-wick-chapter-4-chad-stahelski.jpg
+imdbid: tt10366206
+
+
 ---
 
 # CINEMA / INDIA
 
-## Irratta
+## Iratta
 kind: film
 region: indian
 by: Rohit M. G. Krishnan
@@ -445,7 +563,7 @@ must: yes
 rating: essential
 tags: malayalam, thriller, crime, police, twins, slow-burn, recent-watch
 note: Two brothers, one uniform, and a film that refuses to raise its voice even once. Malayalam cinema doing in two hours what Hindi thrillers cannot manage in three.
-art: img/art/irratta-rohit-m-g-krishnan.jpg
+art: img/art/iratta-rohit-m-g-krishnan.jpg
 imdbid: tt25406500
 
 ## Titli
@@ -533,10 +651,9 @@ by: Aditya Dhar
 year: 2025
 status: done
 must: no
-rating: decent
+rating: strong
 tags: hindi, action, spy, recent-watch
-flag: you called this a series, confirm whether you mean the film or a show
-note: Not a must watch but perfectly decent for what it is. Goes big when it should go quiet, which is the standard Hindi problem.
+note: Part one of two, and a solid two on craft. Goes big when it should go quiet, which is the standard Hindi problem.
 art: img/art/dhurandhar-aditya-dhar.jpg
 imdbid: tt33014583
 
@@ -547,9 +664,9 @@ by: Dibakar Banerjee
 year: 2006
 status: done
 must: yes
-rating: essential
+rating: strong
 tags: dibakar, hindi, comedy, satire, delhi, middle-class, realism
-note: The film that proved you could make a Delhi middle class comedy with real people in it. Anupam Kher's small dignified fury is the best performance in either of these decades.
+note: Good rather than great, a Delhi middle class comedy built out of real people. Anupam Kher's small dignified fury is the best thing in it.
 art: img/art/khosla-ka-ghosla-dibakar-banerjee.jpg
 imdbid: tt0466460
 
@@ -612,9 +729,9 @@ by: Dibakar Banerjee
 year: 2021
 status: done
 must: yes
-rating: strong
+rating: decent
 tags: dibakar, hindi, road-movie, class, gender, realism
-note: Sat on a shelf for years and came out better than most of what released alongside it. Two people who despise each other stuck in the same escape, and it is really about who gets to be believed.
+note: Did not land for me. Interesting on paper, a one in practice.
 art: img/art/sandeep-aur-pinky-faraar-dibakar-banerjee.jpg
 imdbid: tt7094488
 
@@ -651,9 +768,9 @@ by: Anurag Kashyap
 year: 2009
 status: done
 must: yes
-rating: strong
+rating: essential
 tags: kashyap, hindi, adaptation, music, delhi, neon
-note: Devdas rebuilt for people who find Devdas insufferable. Amit Trivedi's soundtrack is the actual protagonist.
+note: Genre defining and still ahead of its time. Devdas rebuilt for people who find Devdas insufferable, and Amit Trivedi's soundtrack is the actual protagonist.
 art: img/art/dev-d-anurag-kashyap.jpg
 imdbid: tt1327035
 
@@ -703,9 +820,9 @@ by: Sriram Raghavan
 year: 2015
 status: done
 must: yes
-rating: strong
+rating: essential
 tags: raghavan, hindi, revenge, moral-ambiguity, dark
-note: A revenge film where revenge slowly turns the hero into the worse man. Nawazuddin walks off with it and the film knows it.
+note: Technically brilliant, and a revenge film where revenge slowly turns the hero into the worse man. Nawazuddin walks off with it and the film knows it.
 art: img/art/badlapur-sriram-raghavan.jpg
 imdbid: tt3678782
 
@@ -734,6 +851,85 @@ tags: raghavan, hindi, thriller, one-night, bombay, romance
 note: One night, two strangers, and Raghavan patiently doing his thing while everyone waits for a twist. Slower than the marketing promised and better than the reception suggested.
 art: img/art/merry-christmas-sriram-raghavan.jpg
 imdbid: tt15392282
+
+## Animal
+kind: film
+region: indian
+by: Sandeep Reddy Vanga
+year: 2023
+status: done
+must: no
+rating: strong
+tags: hindi, action, drama, technical, screenplay, editing
+note: Technically brilliant, excelling in screenplay and editing, whatever you make of the rest of it. The craft is not the part that is in question.
+art: img/art/animal-sandeep-reddy-vanga.jpg
+imdbid: tt13751694
+
+## Dhurandhar 2
+kind: film
+region: indian
+by: Aditya Dhar
+year: 2026
+status: done
+must: no
+rating: strong
+tags: hindi, action, spy, sequel
+note: A bit lengthy, and it spends real time whitewashing demonetisation. Still a two on craft alone.
+art: img/art/dhurandhar-2-aditya-dhar.jpg
+imdbid: tt39139925
+
+## Laapataa Ladies
+kind: film
+region: indian
+by: Kiran Rao
+year: 2023
+status: done
+must: no
+rating: strong
+tags: hindi, comedy, family, gentle, rural
+note: A nice family friendly film, warmer than it is sharp. Pleasant, well made, and nobody gets hurt.
+art: img/art/laapataa-ladies-kiran-rao.jpg
+imdbid: tt21626284
+
+## Bareilly Ki Barfi
+kind: film
+region: indian
+by: Ashwiny Iyer Tiwari
+year: 2017
+status: done
+must: no
+rating: strong
+tags: hindi, comedy, romance, small-town, entertainer
+note: A nice entertainer with a light touch and good small town texture. Does exactly what it sets out to do.
+art: img/art/bareilly-ki-barfi-ashwiny-iyer-tiwari.jpg
+imdbid: tt6967980
+
+## Vicky Donor
+kind: film
+region: indian
+by: Shoojit Sircar
+year: 2012
+status: done
+must: no
+rating: strong
+tags: hindi, comedy, delhi, entertainer, debut
+note: A passtime, and a good natured one. Ayushmann's debut and still one of his easiest films to sit through.
+art: img/art/vicky-donor-shoojit-sircar.jpg
+imdbid: tt2317337
+
+## Ugly
+kind: film
+region: indian
+by: Anurag Kashyap
+year: 2013
+status: done
+must: no
+rating: decent
+tags: kashyap, hindi, thriller, bleak
+note: Kashyap at his most punishing, and not in a way that earns it. A one, and I have no interest in going back.
+art: img/art/ugly-anurag-kashyap.jpg
+imdbid: tt2882328
+
 
 ---
 
@@ -765,6 +961,189 @@ flag: title uncertain, you wrote "fuious". Confirm the show and I will fix the e
 note: Not bad, kinda mid. Watchable enough to keep going, not good enough to recommend to anybody.
 art: img/art/furious-unknown.jpg
 imdbid: tt36303968
+
+## The Chestnut Man
+kind: tv
+region: world
+by: Soren Sveistrup
+year: 2021
+status: done
+must: yes
+rating: essential
+tags: nordic-noir, crime, danish, thriller, must-watch
+note: Danish crime at its bleakest and most controlled, which is saying something. Trusts you to keep up rather than explaining itself every ten minutes.
+art: img/art/the-chestnut-man-soren-sveistrup.jpg
+imdbid: tt10834220
+
+## Mindhunter
+kind: tv
+region: world
+by: Joe Penhall, David Fincher
+year: 2017
+status: done
+must: yes
+rating: essential
+tags: fincher, crime, procedural, psychology, true-crime, must-watch
+note: Two men interviewing killers in rooms, and it is tenser than any chase ever filmed. Fincher's fingerprints are all over the pacing, and cancelling it was a genuine crime.
+art: img/art/mindhunter-joe-penhall-david-fincher.jpg
+imdbid: tt5290382
+
+## Dept. Q
+kind: tv
+region: world
+by: Scott Frank
+year: 2025
+status: done
+must: yes
+rating: essential
+tags: crime, procedural, cold-case, scottish, must-watch
+note: A cold case unit staffed by the people nobody else wanted, and the show is smart enough to make that the point. Properly plotted, properly acted, no filler.
+art: img/art/dept-q-scott-frank.jpg
+imdbid: tt27995114
+
+## Black Bird
+kind: tv
+region: world
+by: Dennis Lehane
+year: 2022
+status: done
+must: yes
+rating: essential
+tags: crime, true-crime, prison, performances, apple-tv, must-watch
+note: The two lead performances are the whole thing and both are extraordinary. Hauser in particular does something genuinely unsettling with very little.
+art: img/art/black-bird-dennis-lehane.jpg
+imdbid: tt4301160
+
+## Sherlock
+kind: tv
+region: world
+by: Mark Gatiss, Steven Moffat
+year: 2010
+status: done
+must: yes
+rating: essential
+tags: detective, british, visual-storytelling, technical, adaptation, must-watch
+note: The technical transitions and the visual storytelling are what make it, not the plots. Text on screen, cuts inside a thought, beautiful imagery doing work that dialogue would have ruined.
+art: img/art/sherlock-mark-gatiss-steven-moffat.jpg
+imdbid: tt1475582
+
+## Better Call Saul
+kind: tv
+region: world
+by: Vince Gilligan, Peter Gould
+year: 2015
+status: done
+must: yes
+rating: essential
+tags: crime, prequel, character-study, subtle, gilligan, must-watch
+note: Better than Breaking Bad on character work and it is not close. Subtler, slower, and it trusts you to notice things instead of pointing at them.
+art: img/art/better-call-saul-vince-gilligan-peter-gould.jpg
+imdbid: tt3032476
+
+## Breaking Bad
+kind: tv
+region: world
+by: Vince Gilligan
+year: 2008
+status: done
+must: no
+rating: strong
+tags: crime, drama, gilligan, transformation
+note: Great, but a bit masala, a bit in your face, everything underlined twice in case you missed it. A two next to what came after it.
+art: img/art/breaking-bad-vince-gilligan.jpg
+imdbid: tt0903747
+
+## Pluribus
+kind: tv
+region: world
+by: Vince Gilligan
+year: 2025
+status: done
+must: no
+rating: decent
+tags: sci-fi, dystopia, hive-mind, gilligan, slow
+note: Interesting concept and great filming, but super slow and it does not come together crisply. Skip it if you want, I would not argue.
+art: img/art/pluribus-vince-gilligan.jpg
+imdbid: tt22202452
+
+## The Office (UK)
+kind: tv
+region: world
+by: Ricky Gervais, Stephen Merchant
+year: 2001
+status: done
+must: yes
+rating: essential
+tags: comedy, mockumentary, british, workplace, must-watch
+note: Twelve episodes and a special, then it stopped, which is the most British thing about it. Bleaker and more uncomfortable than the American one ever tried to be.
+art: img/art/the-office-uk-ricky-gervais-stephen-merchant.jpg
+imdbid: tt0290978
+
+## The Office (US)
+kind: tv
+region: world
+by: Greg Daniels
+year: 2005
+status: done
+must: yes
+rating: essential
+tags: comedy, mockumentary, workplace, rewatchable, must-watch
+note: Takes a season to find itself and then becomes the most rewatchable thing on television. Warmer than the original and better for it.
+art: img/art/the-office-us-greg-daniels.jpg
+imdbid: tt0386676
+
+## Parks and Recreation
+kind: tv
+region: world
+by: Greg Daniels, Michael Schur
+year: 2009
+status: done
+must: yes
+rating: essential
+tags: comedy, mockumentary, workplace, warm, must-watch
+note: The most generous comedy ever made, where the joke is never cruelty. Leslie Knope is the only fictional character I would actually vote for.
+art: img/art/parks-and-recreation-greg-daniels-michael-schur.jpg
+imdbid: tt1266020
+
+## Seinfeld
+kind: tv
+region: world
+by: Larry David, Jerry Seinfeld
+year: 1989
+status: done
+must: yes
+rating: essential
+tags: comedy, sitcom, 90s, plotting, must-watch
+note: The show about nothing that is actually about how awful everyone is. Thirty years on and the plotting is still tighter than anything current.
+art: img/art/seinfeld-larry-david-jerry-seinfeld.jpg
+imdbid: tt0098904
+
+## Arrested Development
+kind: tv
+region: world
+by: Mitchell Hurwitz
+year: 2003
+status: done
+must: yes
+rating: essential
+tags: comedy, sitcom, dense, callback, must-watch
+note: Every joke is planted three episodes early and pays off once you have forgotten it. Denser than anything else in the genre.
+art: img/art/arrested-development-mitchell-hurwitz.jpg
+imdbid: tt0367279
+
+## The Lincoln Lawyer
+kind: tv
+region: world
+by: David E. Kelley, Ted Humphrey
+year: 2022
+status: done
+must: no
+rating: strong
+tags: legal, procedural, netflix, easy-watch
+note: A great passtime when you are multitasking, which is exactly the right use for it. Nothing demanded of you and nothing wasted either.
+art: img/art/the-lincoln-lawyer-david-e-kelley-ted-humphrey.jpg
+imdbid: tt13833978
+
 
 ---
 
@@ -801,9 +1180,9 @@ by: Robert Greene
 year: 2018
 status: done
 must: no
-rating: strong
+rating: essential
 tags: psychology, power, greene, recent-read
-note: Greene at his most useful and least cynical, which is a low bar he clears well. Too long by a third and still worth the time.
+note: The same great description of human nature, at more length and with more patience. Greene is very good at this.
 art: img/art/the-laws-of-human-nature-robert-greene.jpg
 
 ## Ego Is the Enemy
@@ -825,9 +1204,9 @@ by: Robert Greene
 year: 1998
 status: done
 must: no
-rating: strong
+rating: essential
 tags: power, strategy, greene, recent-read, amoral
-note: Best read as a description of how people actually behave, not as instructions. Half of it is genuinely useful and half of it will make you insufferable.
+note: A great description of human nature, which is what it is actually for. Read it as observation, not as instruction.
 art: img/art/the-48-laws-of-power-robert-greene.jpg
 
 ## Fooled by Randomness
@@ -1176,9 +1555,9 @@ by: Premchand
 year: 1925
 status: done
 must: yes
-rating: essential
+rating: strong
 tags: hindi, short-story, premchand, realism, integrity, favourite
-note: One of my two favourites of his. Honesty costs the man everything and the story is clear eyed enough to admit that, then finds him something better anyway.
+note: Honesty costs the man everything and the story is clear eyed enough to admit that. A two, and still one I go back to.
 
 ## Khudai Fojdar
 kind: book
