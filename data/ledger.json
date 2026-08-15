@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 134,
+ "count": 145,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -936,6 +936,155 @@
    "imdbid": "tt10366206"
   },
   {
+   "slug": "the-batman-matt-reeves",
+   "title": "The Batman",
+   "kind": "film",
+   "region": "world",
+   "by": "Matt Reeves",
+   "year": 2022,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "batman",
+    "noir",
+    "detective",
+    "cinematography",
+    "pattinson",
+    "must-watch"
+   ],
+   "note": "Brilliant and genuinely cinematic, the best looking comic book film anybody has made. The only real problem with it is how far away the sequel still is.",
+   "art": "img/art/the-batman-matt-reeves.jpg?v=723d0e18",
+   "imdb": 7.8,
+   "rt": 85,
+   "mc": 72,
+   "flag": "rating is my read of \"brilliant cinematic\", correct it if you meant a two",
+   "imdbid": "tt1877830"
+  },
+  {
+   "slug": "caught-stealing-darren-aronofsky",
+   "title": "Caught Stealing",
+   "kind": "film",
+   "region": "world",
+   "by": "Darren Aronofsky",
+   "year": 2025,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "crime",
+    "thriller",
+    "new-york",
+    "production-design",
+    "recent-watch"
+   ],
+   "note": "Gritty production design and real ambience, it genuinely gives you the Lock Stock feeling. Aronofsky loosening up and clearly enjoying himself.",
+   "art": "img/art/caught-stealing-darren-aronofsky.jpg?v=69c9f8e7",
+   "imdb": 6.8,
+   "rt": 85,
+   "mc": 65,
+   "imdbid": "tt1493274"
+  },
+  {
+   "slug": "snatch-guy-ritchie",
+   "title": "Snatch",
+   "kind": "film",
+   "region": "world",
+   "by": "Guy Ritchie",
+   "year": 2000,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "guy-ritchie",
+    "crime",
+    "british",
+    "comedy",
+    "ensemble",
+    "must-watch"
+   ],
+   "note": "Ritchie at his sharpest. The plot is a watch mechanism and every single part clicks into the next one, and it has not aged a day.",
+   "art": "img/art/snatch-guy-ritchie.jpg?v=6d29741b",
+   "imdb": 8.2,
+   "rt": 74,
+   "mc": 55,
+   "imdbid": "tt0208092"
+  },
+  {
+   "slug": "lock-stock-and-two-smoking-barrels-guy-ritchie",
+   "title": "Lock, Stock and Two Smoking Barrels",
+   "kind": "film",
+   "region": "world",
+   "by": "Guy Ritchie",
+   "year": 1998,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "guy-ritchie",
+    "crime",
+    "british",
+    "comedy",
+    "debut",
+    "must-watch"
+   ],
+   "note": "The one that started all of it, made for nothing and still funnier than anything that has tried the same trick since. You can watch the whole British crime revival begin here.",
+   "art": "img/art/lock-stock-and-two-smoking-barrels-guy-ritchie.jpg?v=ce6bae32",
+   "imdb": 8.1,
+   "rt": 75,
+   "mc": 67,
+   "imdbid": "tt0120735"
+  },
+  {
+   "slug": "sherlock-holmes-guy-ritchie",
+   "title": "Sherlock Holmes",
+   "kind": "film",
+   "region": "world",
+   "by": "Guy Ritchie",
+   "year": 2009,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "guy-ritchie",
+    "detective",
+    "action",
+    "victorian",
+    "entertainer"
+   ],
+   "note": "A perfectly good time, and Downey and Law have real chemistry. Style over substance and it never pretends otherwise.",
+   "art": "img/art/sherlock-holmes-guy-ritchie.jpg?v=86d2a52e",
+   "imdb": 7.5,
+   "rt": 69,
+   "mc": 57,
+   "imdbid": "tt0988045"
+  },
+  {
+   "slug": "sherlock-holmes-a-game-of-shadows-guy-ritchie",
+   "title": "Sherlock Holmes: A Game of Shadows",
+   "kind": "film",
+   "region": "world",
+   "by": "Guy Ritchie",
+   "year": 2011,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "guy-ritchie",
+    "detective",
+    "action",
+    "victorian",
+    "sequel",
+    "entertainer"
+   ],
+   "note": "More of the same, slightly bigger, still fun. A two and no complaints.",
+   "art": "img/art/sherlock-holmes-a-game-of-shadows-guy-ritchie.jpg?v=febe858f",
+   "imdb": 7.4,
+   "rt": 60,
+   "mc": 48,
+   "imdbid": "tt1515091"
+  },
+  {
    "slug": "iratta-rohit-m-g-krishnan",
    "title": "Iratta",
    "kind": "film",
@@ -1138,7 +1287,7 @@
    "by": "Dibakar Banerjee",
    "year": 2006,
    "status": "done",
-   "must": true,
+   "must": false,
    "rating": "strong",
    "tags": [
     "dibakar",
@@ -1265,7 +1414,7 @@
    "by": "Dibakar Banerjee",
    "year": 2021,
    "status": "done",
-   "must": true,
+   "must": false,
    "rating": "decent",
    "tags": [
     "dibakar",
@@ -2035,6 +2184,132 @@
    "imdbid": "tt13833978"
   },
   {
+   "slug": "the-penguin-lauren-lefranc",
+   "title": "The Penguin",
+   "kind": "tv",
+   "region": "world",
+   "by": "Lauren LeFranc",
+   "year": 2024,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "crime",
+    "batman",
+    "character-study",
+    "hbo",
+    "performances",
+    "must-watch"
+   ],
+   "note": "Great character development, which is not what anybody expected from a Batman spinoff. Farrell disappears completely and Milioti walks off with the back half.",
+   "art": "img/art/the-penguin-lauren-lefranc.jpg?v=4e36fd4a",
+   "imdb": 8.6,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt15435876"
+  },
+  {
+   "slug": "the-gentlemen-guy-ritchie",
+   "title": "The Gentlemen",
+   "kind": "tv",
+   "region": "world",
+   "by": "Guy Ritchie",
+   "year": 2024,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "guy-ritchie",
+    "crime",
+    "comedy",
+    "british",
+    "netflix",
+    "must-watch"
+   ],
+   "note": "Ritchie doing Ritchie at series length and it holds across all eight. Sharp, funny, and cast perfectly down to the smallest part.",
+   "art": "img/art/the-gentlemen-guy-ritchie.jpg?v=57acc85e",
+   "imdb": 8.0,
+   "rt": null,
+   "mc": null,
+   "flag": "you said the Netflix series, not the 2019 film. Say the word and I will add the film too",
+   "imdbid": "tt13210838"
+  },
+  {
+   "slug": "mobland-ronan-bennett-guy-ritchie",
+   "title": "MobLand",
+   "kind": "tv",
+   "region": "world",
+   "by": "Ronan Bennett, Guy Ritchie",
+   "year": 2025,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "guy-ritchie",
+    "crime",
+    "british",
+    "entertainer",
+    "recent-watch",
+    "must-watch"
+   ],
+   "note": "Entertaining, and it knows exactly what it is. Hardy and Brosnan circling each other for ten hours is a perfectly good reason to watch anything.",
+   "art": "img/art/mobland-ronan-bennett-guy-ritchie.jpg?v=b5a48df6",
+   "imdb": 8.3,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt31510819"
+  },
+  {
+   "slug": "the-day-of-the-jackal-ronan-bennett",
+   "title": "The Day of the Jackal",
+   "kind": "tv",
+   "region": "world",
+   "by": "Ronan Bennett",
+   "year": 2024,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "thriller",
+    "assassin",
+    "redmayne",
+    "performances",
+    "must-watch"
+   ],
+   "note": "Redmayne is the whole reason to watch and he is genuinely excellent, cold and precise and never once showing you the inside. The show around him is solid rather than special.",
+   "art": "img/art/the-day-of-the-jackal-ronan-bennett.jpg?v=d60685d1",
+   "imdb": 8.1,
+   "rt": null,
+   "mc": null,
+   "flag": "you wrote \"night of the jackal\", assuming the 2024 Redmayne series",
+   "imdbid": "tt24053860"
+  },
+  {
+   "slug": "daredevil-drew-goddard",
+   "title": "Daredevil",
+   "kind": "tv",
+   "region": "world",
+   "by": "Drew Goddard",
+   "year": 2015,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "marvel",
+    "action",
+    "netflix",
+    "choreography",
+    "cinematography",
+    "must-watch"
+   ],
+   "note": "The action sequences and the camera work are what set it apart, that corridor fight above all. Shot like a film back when nobody else on streaming was bothering.",
+   "art": "img/art/daredevil-drew-goddard.jpg?v=ff1941e3",
+   "imdb": 8.6,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt3322312"
+  },
+  {
    "slug": "your-erroneous-zones-wayne-dyer",
    "title": "Your Erroneous Zones",
    "kind": "book",
@@ -2791,7 +3066,7 @@
    "by": "Premchand",
    "year": 1925,
    "status": "done",
-   "must": true,
+   "must": false,
    "rating": "strong",
    "tags": [
     "hindi",
@@ -3195,14 +3470,22 @@
    },
    {
     "tag": "thriller",
-    "count": 24
+    "count": 26
+   },
+   {
+    "tag": "crime",
+    "count": 23
    },
    {
     "tag": "shelf",
     "count": 23
    },
    {
-    "tag": "crime",
+    "tag": "must-watch",
+    "count": 19
+   },
+   {
+    "tag": "comedy",
     "count": 17
    },
    {
@@ -3210,23 +3493,19 @@
     "count": 15
    },
    {
-    "tag": "comedy",
-    "count": 14
-   },
-   {
     "tag": "fincher",
     "count": 13
    },
    {
-    "tag": "must-watch",
-    "count": 11
+    "tag": "action",
+    "count": 12
    },
    {
     "tag": "tarantino",
     "count": 10
    },
    {
-    "tag": "action",
+    "tag": "recent-watch",
     "count": 9
    },
    {
@@ -3254,12 +3533,12 @@
     "count": 7
    },
    {
-    "tag": "recent-watch",
+    "tag": "revenge",
     "count": 7
    },
    {
-    "tag": "revenge",
-    "count": 7
+    "tag": "british",
+    "count": 6
    },
    {
     "tag": "dibakar",
@@ -3267,6 +3546,10 @@
    },
    {
     "tag": "drama",
+    "count": 6
+   },
+   {
+    "tag": "guy-ritchie",
     "count": 6
    },
    {
@@ -3282,11 +3565,27 @@
     "count": 6
    },
    {
+    "tag": "sequel",
+    "count": 6
+   },
+   {
     "tag": "twist",
     "count": 6
    },
    {
+    "tag": "choreography",
+    "count": 5
+   },
+   {
     "tag": "delhi",
+    "count": 5
+   },
+   {
+    "tag": "detective",
+    "count": 5
+   },
+   {
+    "tag": "entertainer",
     "count": 5
    },
    {
@@ -3314,15 +3613,11 @@
     "count": 5
    },
    {
-    "tag": "sequel",
-    "count": 5
-   },
-   {
     "tag": "visual-storytelling",
     "count": 5
    },
    {
-    "tag": "choreography",
+    "tag": "debut",
     "count": 4
    },
    {
@@ -3359,6 +3654,10 @@
    },
    {
     "tag": "mind-body",
+    "count": 4
+   },
+   {
+    "tag": "netflix",
     "count": 4
    },
    {
@@ -3406,10 +3705,6 @@
     "count": 3
    },
    {
-    "tag": "debut",
-    "count": 3
-   },
-   {
     "tag": "formative",
     "count": 3
    },
@@ -3446,6 +3741,10 @@
     "count": 3
    },
    {
+    "tag": "performances",
+    "count": 3
+   },
+   {
     "tag": "revisionist",
     "count": 3
    },
@@ -3470,11 +3769,19 @@
     "count": 3
    },
    {
+    "tag": "victorian",
+    "count": 3
+   },
+   {
     "tag": "western",
     "count": 3
    },
    {
     "tag": "ancient",
+    "count": 2
+   },
+   {
+    "tag": "batman",
     "count": 2
    },
    {
@@ -3490,11 +3797,15 @@
     "count": 2
    },
    {
-    "tag": "british",
+    "tag": "caste",
     "count": 2
    },
    {
-    "tag": "caste",
+    "tag": "character-study",
+    "count": 2
+   },
+   {
+    "tag": "cinematography",
     "count": 2
    },
    {
@@ -3514,15 +3825,7 @@
     "count": 2
    },
    {
-    "tag": "detective",
-    "count": 2
-   },
-   {
     "tag": "editing",
-    "count": 2
-   },
-   {
-    "tag": "entertainer",
     "count": 2
    },
    {
@@ -3570,7 +3873,7 @@
     "count": 2
    },
    {
-    "tag": "netflix",
+    "tag": "noir",
     "count": 2
    },
    {
@@ -3583,6 +3886,10 @@
    },
    {
     "tag": "power",
+    "count": 2
+   },
+   {
+    "tag": "production-design",
     "count": 2
    },
    {
@@ -3690,6 +3997,10 @@
     "count": 1
    },
    {
+    "tag": "assassin",
+    "count": 1
+   },
+   {
     "tag": "biology",
     "count": 1
    },
@@ -3731,10 +4042,6 @@
    },
    {
     "tag": "car-chase",
-    "count": 1
-   },
-   {
-    "tag": "character-study",
     "count": 1
    },
    {
@@ -3838,6 +4145,10 @@
     "count": 1
    },
    {
+    "tag": "ensemble",
+    "count": 1
+   },
+   {
     "tag": "essays",
     "count": 1
    },
@@ -3903,6 +4214,10 @@
    },
    {
     "tag": "hard",
+    "count": 1
+   },
+   {
+    "tag": "hbo",
     "count": 1
    },
    {
@@ -3994,6 +4309,10 @@
     "count": 1
    },
    {
+    "tag": "marvel",
+    "count": 1
+   },
+   {
     "tag": "masterpiece",
     "count": 1
    },
@@ -4022,7 +4341,7 @@
     "count": 1
    },
    {
-    "tag": "noir",
+    "tag": "new-york",
     "count": 1
    },
    {
@@ -4062,11 +4381,11 @@
     "count": 1
    },
    {
-    "tag": "perfect-plot",
+    "tag": "pattinson",
     "count": 1
    },
    {
-    "tag": "performances",
+    "tag": "perfect-plot",
     "count": 1
    },
    {
@@ -4130,10 +4449,6 @@
     "count": 1
    },
    {
-    "tag": "production-design",
-    "count": 1
-   },
-   {
     "tag": "prose",
     "count": 1
    },
@@ -4143,6 +4458,10 @@
    },
    {
     "tag": "rajasthan",
+    "count": 1
+   },
+   {
+    "tag": "redmayne",
     "count": 1
    },
    {
@@ -4274,10 +4593,6 @@
     "count": 1
    },
    {
-    "tag": "victorian",
-    "count": 1
-   },
-   {
     "tag": "war",
     "count": 1
    },
@@ -4318,6 +4633,15 @@
     "count": 6,
     "kinds": [
      "film"
+    ]
+   },
+   {
+    "name": "Guy Ritchie",
+    "slug": "guy-ritchie",
+    "count": 6,
+    "kinds": [
+     "film",
+     "tv"
     ]
    },
    {
@@ -4438,6 +4762,14 @@
     "count": 2,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Ronan Bennett",
+    "slug": "ronan-bennett",
+    "count": 2,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -4593,6 +4925,14 @@
     ]
    },
    {
+    "name": "Darren Aronofsky",
+    "slug": "darren-aronofsky",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "David Deutsch",
     "slug": "david-deutsch",
     "count": 1,
@@ -4611,6 +4951,14 @@
    {
     "name": "Dennis Lehane",
     "slug": "dennis-lehane",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Drew Goddard",
+    "slug": "drew-goddard",
     "count": 1,
     "kinds": [
      "tv"
@@ -4737,6 +5085,14 @@
     ]
    },
    {
+    "name": "Lauren LeFranc",
+    "slug": "lauren-lefranc",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
     "name": "Marcus Aurelius",
     "slug": "marcus-aurelius",
     "count": 1,
@@ -4750,6 +5106,14 @@
     "count": 1,
     "kinds": [
      "tv"
+    ]
+   },
+   {
+    "name": "Matt Reeves",
+    "slug": "matt-reeves",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {

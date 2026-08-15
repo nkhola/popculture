@@ -664,6 +664,104 @@ imdb: 7.6
 mc: 78
 rt: 94
 
+## The Batman
+kind: film
+region: world
+by: Matt Reeves
+year: 2022
+status: done
+must: yes
+rating: essential
+tags: batman, noir, detective, cinematography, pattinson, must-watch
+flag: rating is my read of "brilliant cinematic", correct it if you meant a two
+note: Brilliant and genuinely cinematic, the best looking comic book film anybody has made. The only real problem with it is how far away the sequel still is.
+art: img/art/the-batman-matt-reeves.jpg
+imdbid: tt1877830
+imdb: 7.8
+mc: 72
+rt: 85
+
+## Caught Stealing
+kind: film
+region: world
+by: Darren Aronofsky
+year: 2025
+status: done
+must: no
+rating: strong
+tags: crime, thriller, new-york, production-design, recent-watch
+note: Gritty production design and real ambience, it genuinely gives you the Lock Stock feeling. Aronofsky loosening up and clearly enjoying himself.
+art: img/art/caught-stealing-darren-aronofsky.jpg
+imdbid: tt1493274
+imdb: 6.8
+mc: 65
+rt: 85
+
+## Snatch
+kind: film
+region: world
+by: Guy Ritchie
+year: 2000
+status: done
+must: yes
+rating: essential
+tags: guy-ritchie, crime, british, comedy, ensemble, must-watch
+note: Ritchie at his sharpest. The plot is a watch mechanism and every single part clicks into the next one, and it has not aged a day.
+art: img/art/snatch-guy-ritchie.jpg
+imdbid: tt0208092
+imdb: 8.2
+mc: 55
+rt: 74
+
+## Lock, Stock and Two Smoking Barrels
+kind: film
+region: world
+by: Guy Ritchie
+year: 1998
+status: done
+must: yes
+rating: essential
+tags: guy-ritchie, crime, british, comedy, debut, must-watch
+note: The one that started all of it, made for nothing and still funnier than anything that has tried the same trick since. You can watch the whole British crime revival begin here.
+art: img/art/lock-stock-and-two-smoking-barrels-guy-ritchie.jpg
+imdbid: tt0120735
+imdb: 8.1
+mc: 67
+rt: 75
+
+## Sherlock Holmes
+kind: film
+region: world
+by: Guy Ritchie
+year: 2009
+status: done
+must: no
+rating: strong
+tags: guy-ritchie, detective, action, victorian, entertainer
+note: A perfectly good time, and Downey and Law have real chemistry. Style over substance and it never pretends otherwise.
+art: img/art/sherlock-holmes-guy-ritchie.jpg
+imdbid: tt0988045
+imdb: 7.5
+mc: 57
+rt: 69
+
+## Sherlock Holmes: A Game of Shadows
+kind: film
+region: world
+by: Guy Ritchie
+year: 2011
+status: done
+must: no
+rating: strong
+tags: guy-ritchie, detective, action, victorian, sequel, entertainer
+note: More of the same, slightly bigger, still fun. A two and no complaints.
+art: img/art/sherlock-holmes-a-game-of-shadows-guy-ritchie.jpg
+imdbid: tt1515091
+imdb: 7.4
+mc: 48
+rt: 60
+
+
 
 ---
 
@@ -791,7 +889,7 @@ region: indian
 by: Dibakar Banerjee
 year: 2006
 status: done
-must: yes
+must: no
 rating: strong
 tags: dibakar, hindi, comedy, satire, delhi, middle-class, realism
 note: Good rather than great, a Delhi middle class comedy built out of real people. Anupam Kher's small dignified fury is the best thing in it.
@@ -862,7 +960,7 @@ region: indian
 by: Dibakar Banerjee
 year: 2021
 status: done
-must: yes
+must: no
 rating: decent
 tags: dibakar, hindi, road-movie, class, gender, realism
 note: Did not land for me. Interesting on paper, a one in practice.
@@ -1321,6 +1419,79 @@ art: img/art/the-lincoln-lawyer-david-e-kelley-ted-humphrey.jpg
 imdbid: tt13833978
 imdb: 7.8
 
+## The Penguin
+kind: tv
+region: world
+by: Lauren LeFranc
+year: 2024
+status: done
+must: yes
+rating: essential
+tags: crime, batman, character-study, hbo, performances, must-watch
+note: Great character development, which is not what anybody expected from a Batman spinoff. Farrell disappears completely and Milioti walks off with the back half.
+art: img/art/the-penguin-lauren-lefranc.jpg
+imdbid: tt15435876
+imdb: 8.6
+
+## The Gentlemen
+kind: tv
+region: world
+by: Guy Ritchie
+year: 2024
+status: done
+must: yes
+rating: essential
+tags: guy-ritchie, crime, comedy, british, netflix, must-watch
+flag: you said the Netflix series, not the 2019 film. Say the word and I will add the film too
+note: Ritchie doing Ritchie at series length and it holds across all eight. Sharp, funny, and cast perfectly down to the smallest part.
+art: img/art/the-gentlemen-guy-ritchie.jpg
+imdbid: tt13210838
+imdb: 8.0
+
+## MobLand
+kind: tv
+region: world
+by: Ronan Bennett, Guy Ritchie
+year: 2025
+status: done
+must: yes
+rating: strong
+tags: guy-ritchie, crime, british, entertainer, recent-watch, must-watch
+note: Entertaining, and it knows exactly what it is. Hardy and Brosnan circling each other for ten hours is a perfectly good reason to watch anything.
+art: img/art/mobland-ronan-bennett-guy-ritchie.jpg
+imdbid: tt31510819
+imdb: 8.3
+
+## The Day of the Jackal
+kind: tv
+region: world
+by: Ronan Bennett
+year: 2024
+status: done
+must: yes
+rating: strong
+tags: thriller, assassin, redmayne, performances, must-watch
+flag: you wrote "night of the jackal", assuming the 2024 Redmayne series
+note: Redmayne is the whole reason to watch and he is genuinely excellent, cold and precise and never once showing you the inside. The show around him is solid rather than special.
+art: img/art/the-day-of-the-jackal-ronan-bennett.jpg
+imdbid: tt24053860
+imdb: 8.1
+
+## Daredevil
+kind: tv
+region: world
+by: Drew Goddard
+year: 2015
+status: done
+must: yes
+rating: strong
+tags: marvel, action, netflix, choreography, cinematography, must-watch
+note: The action sequences and the camera work are what set it apart, that corridor fight above all. Shot like a film back when nobody else on streaming was bothering.
+art: img/art/daredevil-drew-goddard.jpg
+imdbid: tt3322312
+imdb: 8.6
+
+
 
 ---
 
@@ -1731,7 +1902,7 @@ region: indian
 by: Premchand
 year: 1925
 status: done
-must: yes
+must: no
 rating: strong
 tags: hindi, short-story, premchand, realism, integrity, favourite
 note: Honesty costs the man everything and the story is clear eyed enough to admit that. A two, and still one I go back to.
