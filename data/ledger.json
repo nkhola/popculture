@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 145,
+ "count": 146,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -1799,6 +1799,32 @@
    "imdbid": "tt2882328"
   },
   {
+   "slug": "aamis-bhaskar-hazarika",
+   "title": "Aamis",
+   "kind": "film",
+   "region": "indian",
+   "by": "Bhaskar Hazarika",
+   "year": 2019,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "assamese",
+    "drama",
+    "romance",
+    "transgressive",
+    "poetic",
+    "imagery",
+    "must-watch"
+   ],
+   "note": "Super poetic, with imagery that stays with you long after. A film that could easily have been lurid and instead handles its subject with real delicacy.",
+   "art": "img/art/aamis-bhaskar-hazarika.jpg?v=b7b24826",
+   "imdb": 7.8,
+   "rt": 88,
+   "mc": null,
+   "imdbid": "tt9010522"
+  },
+  {
    "slug": "severance-dan-erickson-ben-stiller",
    "title": "Severance",
    "kind": "tv",
@@ -3482,7 +3508,7 @@
    },
    {
     "tag": "must-watch",
-    "count": 19
+    "count": 20
    },
    {
     "tag": "comedy",
@@ -3521,6 +3547,10 @@
     "count": 8
    },
    {
+    "tag": "drama",
+    "count": 7
+   },
+   {
     "tag": "english",
     "count": 7
    },
@@ -3542,10 +3572,6 @@
    },
    {
     "tag": "dibakar",
-    "count": 6
-   },
-   {
-    "tag": "drama",
     "count": 6
    },
    {
@@ -3669,6 +3695,10 @@
     "count": 4
    },
    {
+    "tag": "romance",
+    "count": 4
+   },
+   {
     "tag": "sci-fi",
     "count": 4
    },
@@ -3746,10 +3776,6 @@
    },
    {
     "tag": "revisionist",
-    "count": 3
-   },
-   {
-    "tag": "romance",
     "count": 3
    },
    {
@@ -3997,6 +4023,10 @@
     "count": 1
    },
    {
+    "tag": "assamese",
+    "count": 1
+   },
+   {
     "tag": "assassin",
     "count": 1
    },
@@ -4241,6 +4271,10 @@
     "count": 1
    },
    {
+    "tag": "imagery",
+    "count": 1
+   },
+   {
     "tag": "incentives",
     "count": 1
    },
@@ -4409,6 +4443,10 @@
     "count": 1
    },
    {
+    "tag": "poetic",
+    "count": 1
+   },
+   {
     "tag": "poetry",
     "count": 1
    },
@@ -4562,6 +4600,10 @@
    },
    {
     "tag": "transformation",
+    "count": 1
+   },
+   {
+    "tag": "transgressive",
     "count": 1
    },
    {
@@ -4890,6 +4932,14 @@
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Bhaskar Hazarika",
+    "slug": "bhaskar-hazarika",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {

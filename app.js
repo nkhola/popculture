@@ -194,6 +194,13 @@
 
   const nowItems = (kinds) => ITEMS.filter((i) => i.status === 'now' && kinds.includes(i.kind));
 
+  /* The Latest rails are deliberately unfiltered by rating or must: the point
+     is what was recently seen, including the twos. Shelf entries are excluded
+     because nothing has been watched or read there yet. */
+  const latest = (region) => ITEMS
+    .filter((i) => i.region === region && i.status !== 'shelf')
+    .sort(byChrono);
+
   /* --- views ------------------------------------------------------------- */
 
   function viewHome() {
@@ -253,7 +260,26 @@
       </section>
 
       <section class="sec">
-        ${secHead('02', 'Must watch', `${musts('screen').length} titles`, '#/must', 'Full list')}
+        ${secHead('02', 'Latest', 'most recent first')}
+        <p class="sec-lede">Everything most recently seen or read, whatever I made of it.
+          The Must lists below are the filtered view, so anything rated below a three
+          shows up here and not there.</p>
+        <div class="person">
+          <div class="person-head"><h3 class="person-name">India</h3>
+            <span class="person-count">${latest('indian').length}</span><span class="person-line"></span>
+            <a class="sec-more" href="#/films/indian">All Indian cinema &rarr;</a></div>
+          ${railHTML(latest('indian').slice(0, 14))}
+        </div>
+        <div class="person">
+          <div class="person-head"><h3 class="person-name">World</h3>
+            <span class="person-count">${latest('world').length}</span><span class="person-line"></span>
+            <a class="sec-more" href="#/films/world">All world cinema &rarr;</a></div>
+          ${railHTML(latest('world').slice(0, 14))}
+        </div>
+      </section>
+
+      <section class="sec">
+        ${secHead('03', 'Must watch', `${musts('screen').length} titles`, '#/must', 'Full list')}
         <p class="sec-lede">The ones I would put in front of somebody who had never seen anything.</p>
         <div class="person">
           <div class="person-head"><h3 class="person-name">India</h3>
@@ -270,7 +296,7 @@
       </section>
 
       <section class="sec">
-        ${secHead('03', 'Must read', `${musts('book').length} titles`, '#/must', 'Full list')}
+        ${secHead('04', 'Must read', `${musts('book').length} titles`, '#/must', 'Full list')}
         <p class="sec-lede">Mostly realism, mostly short stories, and a few that rearranged something.</p>
         <div class="person">
           <div class="person-head"><h3 class="person-name">India</h3>
@@ -287,13 +313,13 @@
       </section>
 
       <section class="sec">
-        ${secHead('04', 'By director', `${auteurs.length} auteurs`, '#/people', 'Everyone')}
+        ${secHead('05', 'By director', `${auteurs.length} auteurs`, '#/people', 'Everyone')}
         <p class="sec-lede">The filmmakers I follow rather than the films I stumble into.</p>
         ${auteurs.map((p) => personBlock(p.name)).join('')}
       </section>
 
       <section class="sec">
-        ${secHead('05', 'On the shelf', `${ITEMS.filter((i) => i.status === 'shelf').length} waiting`, '#/shelf', 'All')}
+        ${secHead('06', 'On the shelf', `${ITEMS.filter((i) => i.status === 'shelf').length} waiting`, '#/shelf', 'All')}
         <p class="sec-lede">Bought, queued, not yet started. Honest about the backlog.</p>
         ${gridHTML(ITEMS.filter((i) => i.status === 'shelf').sort(byChrono).slice(0, 12))}
       </section>`;

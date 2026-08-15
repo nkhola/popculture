@@ -1189,6 +1189,22 @@ imdbid: tt2882328
 imdb: 7.9
 rt: 60
 
+## Aamis
+kind: film
+region: indian
+by: Bhaskar Hazarika
+year: 2019
+status: done
+must: yes
+rating: essential
+tags: assamese, drama, romance, transgressive, poetic, imagery, must-watch
+note: Super poetic, with imagery that stays with you long after. A film that could easily have been lurid and instead handles its subject with real delicacy.
+art: img/art/aamis-bhaskar-hazarika.jpg
+imdbid: tt9010522
+imdb: 7.8
+rt: 88
+
+
 
 ---
 
