@@ -285,7 +285,7 @@
       <section class="sec">
         ${secHead('05', 'On the shelf', `${ITEMS.filter((i) => i.status === 'shelf').length} waiting`, '#/shelf', 'All')}
         <p class="sec-lede">Bought, queued, not yet started. Honest about the backlog.</p>
-        ${gridHTML(ITEMS.filter((i) => i.status === 'shelf').slice(0, 12))}
+        ${gridHTML(ITEMS.filter((i) => i.status === 'shelf').sort(byRecent).slice(0, 12))}
       </section>`;
   }
 
@@ -401,7 +401,7 @@
   }
 
   function viewShelf() {
-    const items = ITEMS.filter((i) => i.status === 'shelf');
+    const items = ITEMS.filter((i) => i.status === 'shelf').sort(byRecent);
     return `<section class="sec">
       ${secHead('', 'On the shelf', `${items.length} waiting`)}
       <p class="sec-lede">Owned or queued, not started. No ratings here, because rating something
@@ -518,7 +518,7 @@
       .map((x) => ({ x, n: x.tags.filter((t) => it.tags.includes(t)).length }))
       .filter((r) => r.n >= 2)
       .sort((a, b) => b.n - a.n || RATING_N[b.x.rating] - RATING_N[a.x.rating])
-      .slice(0, 12).map((r) => r.x);
+      .slice(0, 12).map((r) => r.x).sort(byRecent);
 
     const backHref = it.kind === 'book' ? `#/books/${it.region}`
       : it.kind === 'tv' ? '#/tv' : `#/films/${it.region}`;
