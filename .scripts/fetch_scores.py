@@ -33,19 +33,9 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from ledger_io import apply_updates, load  # noqa: E402
-from fetch_art import UA, load_env, strip_paren  # noqa: E402
+from fetch_art import get_json, load_env, strip_paren  # noqa: E402
 
 OMDB = "http://www.omdbapi.com/"
-
-
-def get_json(url: str, timeout: int = 20) -> dict | None:
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as r:
-            return json.loads(r.read().decode("utf-8"))
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, ValueError) as e:
-        print(f"    request failed: {e}")
-        return None
 
 
 def parse_ratings(data: dict) -> dict[str, str]:

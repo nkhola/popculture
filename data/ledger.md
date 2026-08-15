@@ -52,6 +52,9 @@ tags: fincher, thriller, neo-noir, serial-killer, 90s, bleak
 note: The ending is still the most ruthless thing a studio has ever let through, and nothing since has earned its darkness half as honestly. Fincher invented his entire visual grammar here, all rain and rot and things you only half see.
 art: img/art/se7en-david-fincher.jpg
 imdbid: tt0114369
+imdb: 8.6
+mc: 65
+rt: 84
 
 ## Fight Club
 kind: film
@@ -65,6 +68,9 @@ tags: fincher, satire, cult, 90s, unreliable-narrator
 note: Everyone quotes it for the wrong reasons, which is sort of the joke and sort of the tragedy. Watch it again past thirty and it stops being cool and starts being sad, which is the better film.
 art: img/art/fight-club-david-fincher.jpg
 imdbid: tt0137523
+imdb: 8.8
+mc: 67
+rt: 81
 
 ## Zodiac
 kind: film
@@ -78,6 +84,9 @@ tags: fincher, thriller, procedural, obsession, true-crime
 note: A film about the case never closing, so of course it refuses to close. Probably his best, and the one people skip because there is no payoff, which is the entire point.
 art: img/art/zodiac-david-fincher.jpg
 imdbid: tt0443706
+imdb: 7.7
+mc: 79
+rt: 90
 
 ## The Social Network
 kind: film
@@ -91,6 +100,9 @@ tags: fincher, drama, tech, sorkin, dialogue
 note: Dialogue at a hundred miles an hour and every single line lands. Aged into a documentary without changing a frame.
 art: img/art/the-social-network-david-fincher.jpg
 imdbid: tt1285016
+imdb: 7.8
+mc: 95
+rt: 96
 
 ## Gone Girl
 kind: film
@@ -104,6 +116,9 @@ tags: fincher, thriller, marriage, twist
 note: The nastiest film ever made about marriage and it is having a great time being nasty. That mid film turn is structurally perfect.
 art: img/art/gone-girl-david-fincher.jpg
 imdbid: tt2267998
+imdb: 8.1
+mc: 79
+rt: 88
 
 ## The Girl with the Dragon Tattoo
 kind: film
@@ -117,6 +132,9 @@ tags: fincher, thriller, remake, procedural, cold
 note: A remake nobody asked for that turned out better than it had any right to be. Freezing, methodical, and that title sequence is its own short film.
 art: img/art/the-girl-with-the-dragon-tattoo-david-fincher.jpg
 imdbid: tt1568346
+imdb: 7.8
+mc: 71
+rt: 86
 
 ## Panic Room
 kind: film
@@ -130,6 +148,9 @@ tags: fincher, thriller, single-location, craft
 note: One house, one night, and a camera that goes wherever it likes. Minor Fincher, but minor Fincher is still better built than most people's best.
 art: img/art/panic-room-david-fincher.jpg
 imdbid: tt0258000
+imdb: 6.8
+mc: 65
+rt: 76
 
 ## The Game
 kind: film
@@ -143,6 +164,9 @@ tags: fincher, thriller, paranoia, 90s
 note: Works completely the first time and collapses a little if you think too hard afterwards. Worth it for the ride and for Douglas slowly coming apart.
 art: img/art/the-game-david-fincher.jpg
 imdbid: tt0119174
+imdb: 7.7
+mc: 63
+rt: 77
 
 ## Alien 3
 kind: film
@@ -156,6 +180,9 @@ tags: fincher, sci-fi, horror, troubled-production
 note: The studio broke it before he ever finished it, and you can see the better film underneath. The bleak monastery-in-space idea deserved a director with final cut.
 art: img/art/alien-3-david-fincher.jpg
 imdbid: tt0103644
+imdb: 6.4
+mc: 59
+rt: 43
 
 ## The Curious Case of Benjamin Button
 kind: film
@@ -169,6 +196,9 @@ tags: fincher, drama, fantasy, prestige
 note: Beautiful and strangely weightless, like an award ceremony that lasts three hours. The one Fincher where the technique is doing all the feeling for you.
 art: img/art/the-curious-case-of-benjamin-button-david-fincher.jpg
 imdbid: tt0421715
+imdb: 7.8
+mc: 70
+rt: 72
 
 ## Mank
 kind: film
@@ -182,6 +212,9 @@ tags: fincher, drama, black-and-white, hollywood, slow
 note: The black and white Gary Oldman one, and the only Fincher I would call boring. A film made for his father rather than for anybody watching.
 art: img/art/mank-david-fincher.jpg
 imdbid: tt10618286
+imdb: 6.8
+mc: 79
+rt: 83
 
 ## The Killer
 kind: film
@@ -195,6 +228,9 @@ tags: fincher, thriller, hitman, process
 note: Two hours of a man being extremely good at a job while narrating nonsense to himself. The gap between what he says and what he does is the whole film.
 art: img/art/the-killer-david-fincher.jpg
 imdbid: tt1136617
+imdb: 6.7
+mc: 73
+rt: 85
 
 ## Mulholland Drive
 kind: film
@@ -208,6 +244,9 @@ tags: lynch, surreal, mystery, hollywood, dream-logic
 note: The best film ever made about wanting something so badly you rewrite reality to get it. Do not try to solve it on the first pass, just let it happen to you.
 art: img/art/mulholland-drive-david-lynch.jpg
 imdbid: tt0166924
+imdb: 7.9
+mc: 87
+rt: 83
 
 ## Lost Highway
 kind: film
@@ -221,6 +260,9 @@ tags: lynch, surreal, neo-noir, identity, dread
 note: A Mobius strip about guilt where the man literally becomes somebody else rather than admit what he did. That video tape sequence is the most frightening thing Lynch ever shot.
 art: img/art/lost-highway-david-lynch.jpg
 imdbid: tt0116922
+imdb: 7.6
+mc: 53
+rt: 70
 
 ## The Departed
 kind: film
@@ -234,6 +276,9 @@ tags: scorsese, crime, thriller, remake, boston
 note: A remake of Infernal Affairs that is louder, meaner and somehow better paced than the original. Everybody in it is lying and every scene is a rat looking for a rat.
 art: img/art/the-departed-martin-scorsese.jpg
 imdbid: tt0407887
+imdb: 8.5
+mc: 85
+rt: 91
 
 ## Shutter Island
 kind: film
@@ -247,6 +292,9 @@ tags: scorsese, thriller, psychological, twist, gothic
 note: Scorsese doing full gothic horror and clearly enjoying himself. The last line is the whole film and it reframes everything you just sat through.
 art: img/art/shutter-island-martin-scorsese.jpg
 imdbid: tt1130884
+imdb: 8.2
+mc: 63
+rt: 69
 
 ## Reservoir Dogs
 kind: film
@@ -260,6 +308,9 @@ tags: tarantino, crime, heist, dialogue, debut, 90s
 note: A heist film that never shows the heist, made for the price of a decent car. You can hear a whole decade of cinema starting in the opening diner scene.
 art: img/art/reservoir-dogs-quentin-tarantino.jpg
 imdbid: tt0105236
+imdb: 8.3
+mc: 81
+rt: 90
 
 ## Pulp Fiction
 kind: film
@@ -273,6 +324,9 @@ tags: tarantino, crime, nonlinear, dialogue, 90s, formative
 note: Rearranged what I thought a film was allowed to do with time. Still the high water mark for making people talking in a room more tense than a shootout.
 art: img/art/pulp-fiction-quentin-tarantino.jpg
 imdbid: tt0110912
+imdb: 8.8
+mc: 95
+rt: 92
 
 ## Jackie Brown
 kind: film
@@ -286,6 +340,9 @@ tags: tarantino, crime, elmore-leonard, slow-burn, blaxploitation
 note: His most patient and most adult film, and the one that will age best. Pam Grier carries an entire con on her face in the mall sequence.
 art: img/art/jackie-brown-quentin-tarantino.jpg
 imdbid: tt0119396
+imdb: 7.5
+mc: 62
+rt: 88
 
 ## Kill Bill Vol. 1
 kind: film
@@ -299,6 +356,9 @@ tags: tarantino, revenge, martial-arts, stylized, anime
 note: Pure style with the throttle stuck open, and the anime detour is the best part. The House of Blue Leaves fight is choreography as showing off, in the good way.
 art: img/art/kill-bill-vol-1-quentin-tarantino.jpg
 imdbid: tt0266697
+imdb: 8.2
+mc: 69
+rt: 85
 
 ## Kill Bill Vol. 2
 kind: film
@@ -312,6 +372,9 @@ tags: tarantino, revenge, western, dialogue, slow-burn
 note: The talking half, and the better half. Pai Mei and the Superman speech justify the whole two film gamble.
 art: img/art/kill-bill-vol-2-quentin-tarantino.jpg
 imdbid: tt0378194
+imdb: 8.0
+mc: 83
+rt: 84
 
 ## Death Proof
 kind: film
@@ -325,6 +388,8 @@ tags: tarantino, grindhouse, car-chase, pastiche
 note: Half of it is people chatting in a bar and half of it is the best car stunt of the century. Lopsided on purpose, still lopsided.
 art: img/art/death-proof-quentin-tarantino.jpg
 imdbid: tt1028528
+imdb: 7.0
+rt: 66
 
 ## Inglourious Basterds
 kind: film
@@ -338,6 +403,9 @@ tags: tarantino, war, revisionist, suspense, multilingual
 note: That opening farmhouse scene is a masterclass in stretching a conversation until it snaps. Landa is the best villain he ever wrote and it is not close.
 art: img/art/inglourious-basterds-quentin-tarantino.jpg
 imdbid: tt0361748
+imdb: 8.4
+mc: 69
+rt: 89
 
 ## Django Unchained
 kind: film
@@ -351,6 +419,9 @@ tags: tarantino, western, revenge, revisionist
 note: A spaghetti western aimed straight at American history with no interest in being polite about it. Runs long in the last act but the dinner table scene earns the ticket.
 art: img/art/django-unchained-quentin-tarantino.jpg
 imdbid: tt1853728
+imdb: 8.5
+mc: 81
+rt: 87
 
 ## The Hateful Eight
 kind: film
@@ -364,6 +435,9 @@ tags: tarantino, western, single-location, whodunit, snow
 note: A locked room mystery shot in 70mm, which is a joke only he would commit to. Slow, mean, and better on a rewatch when you stop waiting for it to move.
 art: img/art/the-hateful-eight-quentin-tarantino.jpg
 imdbid: tt3460252
+imdb: 7.8
+mc: 68
+rt: 74
 
 ## Once Upon a Time in Hollywood
 kind: film
@@ -377,6 +451,9 @@ tags: tarantino, hollywood, hangout, revisionist, 60s
 note: A hangout film about being washed up, and then the ending arrives like a slap. The most affectionate thing he has made.
 art: img/art/once-upon-a-time-in-hollywood-quentin-tarantino.jpg
 imdbid: tt7131622
+imdb: 7.6
+mc: 84
+rt: 86
 
 ## True Romance
 kind: film
@@ -390,6 +467,9 @@ tags: tarantino-written, crime, romance, 90s, cult
 note: Tarantino's script with Tony Scott's heart on top, which turns out to be the perfect trade. The Hopper and Walken scene is the best five minutes either of them ever had.
 art: img/art/true-romance-tony-scott.jpg
 imdbid: tt0108399
+imdb: 7.9
+mc: 59
+rt: 93
 
 ## Nightcrawler
 kind: film
@@ -403,6 +483,9 @@ tags: thriller, media, sociopath, la-noir, formative
 note: One of the few films that genuinely got under my skin and stayed there. Gyllenhaal plays a man with no inside, and the film is smart enough never to explain him.
 art: img/art/nightcrawler-dan-gilroy.jpg
 imdbid: tt2872718
+imdb: 7.8
+mc: 76
+rt: 95
 
 ## Fargo
 kind: film
@@ -416,6 +499,9 @@ tags: coens, crime, black-comedy, snow, 90s, formative
 note: Everybody is polite and everybody is doomed, and the film finds that hilarious right up until it does not. Marge is the only decent person in it and she wins by simply doing her job.
 art: img/art/fargo-joel-coen-ethan-coen.jpg
 imdbid: tt0116282
+imdb: 8.1
+mc: 88
+rt: 95
 
 ## Obsession
 kind: film
@@ -430,6 +516,9 @@ flag: confirm this is the De Palma 1976 one and not a different Obsession
 note: De Palma doing Vertigo without pretending otherwise, and the Herrmann score does most of the heavy lifting. Silly if you look at the plot straight on, hypnotic if you do not.
 art: img/art/obsession-brian-de-palma.jpg
 imdbid: tt0074991
+imdb: 6.7
+mc: 59
+rt: 77
 
 ## Searching
 kind: film
@@ -443,6 +532,9 @@ tags: thriller, screenlife, mystery, family, technical
 note: Technically brilliant and emotionally tense, told entirely through screens without ever feeling like a gimmick. The format should not work this well and it does.
 art: img/art/searching-aneesh-chaganty.jpg
 imdbid: tt7668870
+imdb: 7.6
+mc: 71
+rt: 92
 
 ## Baby Driver
 kind: film
@@ -456,6 +548,9 @@ tags: edgar-wright, heist, music, visual-storytelling, editing
 note: Visual storytelling at the highest level, every cut married to the beat. Wright showing off and earning every second of it.
 art: img/art/baby-driver-edgar-wright.jpg
 imdbid: tt3890160
+imdb: 7.5
+mc: 86
+rt: 92
 
 ## Shaun of the Dead
 kind: film
@@ -469,6 +564,9 @@ tags: edgar-wright, cornetto-trilogy, comedy, horror, visual-storytelling
 note: Wright's visual grammar arriving fully formed, with the jokes built into the cuts rather than the lines. Funnier on the fourth watch once you start noticing the setups.
 art: img/art/shaun-of-the-dead-edgar-wright.jpg
 imdbid: tt0365748
+imdb: 7.8
+mc: 76
+rt: 92
 
 ## Hot Fuzz
 kind: film
@@ -482,6 +580,9 @@ tags: edgar-wright, cornetto-trilogy, comedy, action, visual-storytelling
 note: An action parody that is a better action film than the ones it parodies. The editing does more of the comedy than the script does.
 art: img/art/hot-fuzz-edgar-wright.jpg
 imdbid: tt0425112
+imdb: 7.8
+mc: 81
+rt: 91
 
 ## The World's End
 kind: film
@@ -495,6 +596,9 @@ tags: edgar-wright, cornetto-trilogy, comedy, sci-fi, visual-storytelling
 note: The last Cornetto and the saddest of the three, which sneaks up on you. Same visual precision, much heavier heart.
 art: img/art/the-world-s-end-edgar-wright.jpg
 imdbid: tt1213663
+imdb: 6.9
+mc: 81
+rt: 89
 
 ## John Wick
 kind: film
@@ -508,6 +612,9 @@ tags: action, john-wick, choreography, revenge, gun-fu
 note: Brilliant action, choreographed so you can actually see it, which almost nobody bothers with anymore. Thin on everything else and it does not matter.
 art: img/art/john-wick-chad-stahelski.jpg
 imdbid: tt2911666
+imdb: 7.5
+mc: 68
+rt: 87
 
 ## John Wick: Chapter 2
 kind: film
@@ -521,6 +628,9 @@ tags: action, john-wick, choreography, sequel, gun-fu
 note: Bigger, and the world building starts getting silly in the right way. Still the cleanest action shooting around.
 art: img/art/john-wick-chapter-2-chad-stahelski.jpg
 imdbid: tt4425200
+imdb: 7.4
+mc: 75
+rt: 89
 
 ## John Wick: Chapter 3 - Parabellum
 kind: film
@@ -534,6 +644,9 @@ tags: action, john-wick, choreography, sequel, gun-fu
 note: The horse sequence and the knife room justify the whole film. Plot is now openly an excuse and everybody involved knows it.
 art: img/art/john-wick-chapter-3-parabellum-chad-stahelski.jpg
 imdbid: tt6146586
+imdb: 7.4
+mc: 73
+rt: 89
 
 ## John Wick: Chapter 4
 kind: film
@@ -547,6 +660,9 @@ tags: action, john-wick, choreography, sequel, gun-fu
 note: Three hours of set pieces and the stairs sequence alone is worth the ticket. The best looking of the four.
 art: img/art/john-wick-chapter-4-chad-stahelski.jpg
 imdbid: tt10366206
+imdb: 7.6
+mc: 78
+rt: 94
 
 
 ---
@@ -565,6 +681,7 @@ tags: malayalam, thriller, crime, police, twins, slow-burn, recent-watch
 note: Two brothers, one uniform, and a film that refuses to raise its voice even once. Malayalam cinema doing in two hours what Hindi thrillers cannot manage in three.
 art: img/art/iratta-rohit-m-g-krishnan.jpg
 imdbid: tt25406500
+imdb: 7.7
 
 ## Titli
 kind: film
@@ -578,6 +695,8 @@ tags: hindi, crime, family, realism, delhi, brutal, recent-watch
 note: The most honest film about an Indian family I have seen, and it is horrifying. No score, no relief, just people trapped in a house doing damage to each other.
 art: img/art/titli-kanu-behl.jpg
 imdbid: tt3019620
+imdb: 7.5
+rt: 93
 
 ## Ratsasan
 kind: film
@@ -591,6 +710,7 @@ tags: tamil, thriller, serial-killer, procedural, original
 note: Watch the Tamil original, the remakes all sanded off the edges. Genuinely tense, properly plotted, and it does not cheat you at the reveal.
 art: img/art/ratsasan-ram-kumar.jpg
 imdbid: tt7060344
+imdb: 8.3
 
 ## Drishyam
 kind: film
@@ -604,6 +724,8 @@ tags: malayalam, thriller, family, original, perfect-plot
 note: The original Malayalam one, everything after is a photocopy. A perfect machine of a script where an ordinary man out-thinks the entire police force using only what he already knew.
 art: img/art/drishyam-jeethu-joseph.jpg
 imdbid: tt3417422
+imdb: 8.3
+rt: 78
 
 ## Drishyam 2
 kind: film
@@ -617,6 +739,8 @@ tags: malayalam, thriller, sequel, original, slow-burn
 note: A sequel nobody needed that justified itself completely, which almost never happens. Spends an hour on ordinary life before you realise the trap was being built the whole time.
 art: img/art/drishyam-2-jeethu-joseph.jpg
 imdbid: tt12361178
+imdb: 8.4
+rt: 88
 
 ## Maharaja
 kind: film
@@ -630,6 +754,8 @@ tags: tamil, thriller, revenge, nonlinear, recent-watch
 note: The timeline trick is doing a lot of work but it works, and Vijay Sethupathi is very good at looking like a man holding something in. Wobbles in places, sticks the landing.
 art: img/art/maharaja-nithilan-swaminathan.jpg
 imdbid: tt26548265
+imdb: 8.3
+rt: 83
 
 ## Thudarum
 kind: film
@@ -643,6 +769,7 @@ tags: malayalam, drama, thriller, mohanlal, recent-watch
 note: Decent. Mohanlal is excellent and the film around him is only fine, which is a fair trade for two hours.
 art: img/art/thudarum-tharun-moorthy.jpg
 imdbid: tt31969600
+imdb: 8.1
 
 ## Dhurandhar
 kind: film
@@ -656,6 +783,7 @@ tags: hindi, action, spy, recent-watch
 note: Part one of two, and a solid two on craft. Goes big when it should go quiet, which is the standard Hindi problem.
 art: img/art/dhurandhar-aditya-dhar.jpg
 imdbid: tt33014583
+imdb: 8.3
 
 ## Khosla Ka Ghosla!
 kind: film
@@ -669,6 +797,7 @@ tags: dibakar, hindi, comedy, satire, delhi, middle-class, realism
 note: Good rather than great, a Delhi middle class comedy built out of real people. Anupam Kher's small dignified fury is the best thing in it.
 art: img/art/khosla-ka-ghosla-dibakar-banerjee.jpg
 imdbid: tt0466460
+imdb: 8.2
 
 ## Oye Lucky! Lucky Oye!
 kind: film
@@ -682,6 +811,7 @@ tags: dibakar, hindi, comedy, crime, delhi, class, realism
 note: A thief film that is really a class film, and it is funny enough that you barely notice. Paresh Rawal playing three men who are all the same man is the joke of the decade.
 art: img/art/oye-lucky-lucky-oye-dibakar-banerjee.jpg
 imdbid: tt1292703
+imdb: 7.7
 
 ## Love Sex Aur Dhokha
 kind: film
@@ -695,6 +825,7 @@ tags: dibakar, hindi, found-footage, satire, experimental, media
 note: Made in 2010 and it predicted the next fifteen years of Indian internet culture. Formally braver than anything Bollywood has attempted since.
 art: img/art/love-sex-aur-dhokha-dibakar-banerjee.jpg
 imdbid: tt1608777
+imdb: 7.1
 
 ## Shanghai
 kind: film
@@ -708,6 +839,7 @@ tags: dibakar, hindi, political, thriller, adaptation, realism
 note: A cold, unsentimental political thriller that assumes you are paying attention. Emraan Hashmi is a genuine surprise and the ending refuses to comfort anyone.
 art: img/art/shanghai-dibakar-banerjee.jpg
 imdbid: tt2072227
+imdb: 7.2
 
 ## Detective Byomkesh Bakshy!
 kind: film
@@ -721,6 +853,8 @@ tags: dibakar, hindi, detective, period, calcutta, style
 note: 1940s Calcutta rendered better than the plot deserves. Overstuffed, and I still want the four sequels we never got.
 art: img/art/detective-byomkesh-bakshy-dibakar-banerjee.jpg
 imdbid: tt3447364
+imdb: 7.6
+rt: 67
 
 ## Sandeep Aur Pinky Faraar
 kind: film
@@ -734,6 +868,7 @@ tags: dibakar, hindi, road-movie, class, gender, realism
 note: Did not land for me. Interesting on paper, a one in practice.
 art: img/art/sandeep-aur-pinky-faraar-dibakar-banerjee.jpg
 imdbid: tt7094488
+imdb: 6.3
 
 ## Black Friday
 kind: film
@@ -747,6 +882,9 @@ tags: kashyap, hindi, crime, true-story, bombay, procedural, realism
 note: The best Indian procedural ever made and it took three years to get past the courts. That foot chase through the chawls is the single best sequence in Hindi cinema.
 art: img/art/black-friday-anurag-kashyap.jpg
 imdbid: tt0400234
+imdb: 8.4
+mc: 76
+rt: 90
 
 ## Gulaal
 kind: film
@@ -760,6 +898,7 @@ tags: kashyap, hindi, political, rajasthan, tragedy, piyush-mishra
 note: Messy, operatic, furious, and the songs are doing half the storytelling. Piyush Mishra wrote and performed his way into a film that is still underseen.
 art: img/art/gulaal-anurag-kashyap.jpg
 imdbid: tt1261047
+imdb: 8.0
 
 ## Dev.D
 kind: film
@@ -773,6 +912,7 @@ tags: kashyap, hindi, adaptation, music, delhi, neon
 note: Genre defining and still ahead of its time. Devdas rebuilt for people who find Devdas insufferable, and Amit Trivedi's soundtrack is the actual protagonist.
 art: img/art/dev-d-anurag-kashyap.jpg
 imdbid: tt1327035
+imdb: 7.9
 
 ## Ek Hasina Thi
 kind: film
@@ -786,6 +926,7 @@ tags: raghavan, hindi, thriller, revenge, debut, noir
 note: A lean revenge thriller with no fat on it, made before anyone knew who Raghavan was. Urmila is genuinely frightening in the back half.
 art: img/art/ek-hasina-thi-sriram-raghavan.jpg
 imdbid: tt0352314
+imdb: 7.5
 
 ## Johnny Gaddaar
 kind: film
@@ -799,6 +940,7 @@ tags: raghavan, hindi, neo-noir, heist, homage, twist
 note: The purest genre film India has produced, a noir with no interest in a message. Every plan goes wrong in a way you could have predicted and never do.
 art: img/art/johnny-gaddaar-sriram-raghavan.jpg
 imdbid: tt1077248
+imdb: 7.9
 
 ## Agent Vinod
 kind: film
@@ -812,6 +954,8 @@ tags: raghavan, hindi, spy, action, homage
 note: The one that did not come together, though the single take Raabta sequence is worth the price alone. Ambitious in a way that failing is still interesting.
 art: img/art/agent-vinod-sriram-raghavan.jpg
 imdbid: tt1395025
+imdb: 5.2
+rt: 40
 
 ## Badlapur
 kind: film
@@ -825,6 +969,8 @@ tags: raghavan, hindi, revenge, moral-ambiguity, dark
 note: Technically brilliant, and a revenge film where revenge slowly turns the hero into the worse man. Nawazuddin walks off with it and the film knows it.
 art: img/art/badlapur-sriram-raghavan.jpg
 imdbid: tt3678782
+imdb: 7.4
+rt: 92
 
 ## AndhaDhun
 kind: film
@@ -838,6 +984,8 @@ tags: raghavan, hindi, black-comedy, thriller, twist, pune
 note: A black comedy thriller that keeps escalating past the point where any other film would stop. That last shot is an argument you can still have with people.
 art: img/art/andhadhun-sriram-raghavan.jpg
 imdbid: tt8108198
+imdb: 8.2
+rt: 100
 
 ## Merry Christmas
 kind: film
@@ -851,6 +999,8 @@ tags: raghavan, hindi, thriller, one-night, bombay, romance
 note: One night, two strangers, and Raghavan patiently doing his thing while everyone waits for a twist. Slower than the marketing promised and better than the reception suggested.
 art: img/art/merry-christmas-sriram-raghavan.jpg
 imdbid: tt15392282
+imdb: 6.9
+rt: 84
 
 ## Animal
 kind: film
@@ -864,6 +1014,9 @@ tags: hindi, action, drama, technical, screenplay, editing
 note: Technically brilliant, excelling in screenplay and editing, whatever you make of the rest of it. The craft is not the part that is in question.
 art: img/art/animal-sandeep-reddy-vanga.jpg
 imdbid: tt13751694
+imdb: 6.2
+mc: 33
+rt: 26
 
 ## Dhurandhar 2
 kind: film
@@ -877,6 +1030,7 @@ tags: hindi, action, spy, sequel
 note: A bit lengthy, and it spends real time whitewashing demonetisation. Still a two on craft alone.
 art: img/art/dhurandhar-2-aditya-dhar.jpg
 imdbid: tt39139925
+imdb: 8.5
 
 ## Laapataa Ladies
 kind: film
@@ -890,6 +1044,8 @@ tags: hindi, comedy, family, gentle, rural
 note: A nice family friendly film, warmer than it is sharp. Pleasant, well made, and nobody gets hurt.
 art: img/art/laapataa-ladies-kiran-rao.jpg
 imdbid: tt21626284
+imdb: 8.3
+rt: 100
 
 ## Bareilly Ki Barfi
 kind: film
@@ -903,6 +1059,8 @@ tags: hindi, comedy, romance, small-town, entertainer
 note: A nice entertainer with a light touch and good small town texture. Does exactly what it sets out to do.
 art: img/art/bareilly-ki-barfi-ashwiny-iyer-tiwari.jpg
 imdbid: tt6967980
+imdb: 7.5
+rt: 73
 
 ## Vicky Donor
 kind: film
@@ -916,6 +1074,7 @@ tags: hindi, comedy, delhi, entertainer, debut
 note: A passtime, and a good natured one. Ayushmann's debut and still one of his easiest films to sit through.
 art: img/art/vicky-donor-shoojit-sircar.jpg
 imdbid: tt2317337
+imdb: 7.7
 
 ## Ugly
 kind: film
@@ -929,6 +1088,8 @@ tags: kashyap, hindi, thriller, bleak
 note: Kashyap at his most punishing, and not in a way that earns it. A one, and I have no interest in going back.
 art: img/art/ugly-anurag-kashyap.jpg
 imdbid: tt2882328
+imdb: 7.9
+rt: 60
 
 
 ---
@@ -947,6 +1108,7 @@ tags: sci-fi, workplace, mystery, corporate, production-design, all-time
 note: The highest rated thing on this entire site. A perfect idea executed with total confidence, where the office satire and the existential horror are the same joke.
 art: img/art/severance-dan-erickson-ben-stiller.jpg
 imdbid: tt11280740
+imdb: 8.6
 
 ## Furious
 kind: tv
@@ -974,6 +1136,7 @@ tags: nordic-noir, crime, danish, thriller, must-watch
 note: Danish crime at its bleakest and most controlled, which is saying something. Trusts you to keep up rather than explaining itself every ten minutes.
 art: img/art/the-chestnut-man-soren-sveistrup.jpg
 imdbid: tt10834220
+imdb: 7.6
 
 ## Mindhunter
 kind: tv
@@ -987,6 +1150,7 @@ tags: fincher, crime, procedural, psychology, true-crime, must-watch
 note: Two men interviewing killers in rooms, and it is tenser than any chase ever filmed. Fincher's fingerprints are all over the pacing, and cancelling it was a genuine crime.
 art: img/art/mindhunter-joe-penhall-david-fincher.jpg
 imdbid: tt5290382
+imdb: 8.6
 
 ## Dept. Q
 kind: tv
@@ -1000,6 +1164,7 @@ tags: crime, procedural, cold-case, scottish, must-watch
 note: A cold case unit staffed by the people nobody else wanted, and the show is smart enough to make that the point. Properly plotted, properly acted, no filler.
 art: img/art/dept-q-scott-frank.jpg
 imdbid: tt27995114
+imdb: 8.1
 
 ## Black Bird
 kind: tv
@@ -1013,6 +1178,7 @@ tags: crime, true-crime, prison, performances, apple-tv, must-watch
 note: The two lead performances are the whole thing and both are extraordinary. Hauser in particular does something genuinely unsettling with very little.
 art: img/art/black-bird-dennis-lehane.jpg
 imdbid: tt4301160
+imdb: 8.1
 
 ## Sherlock
 kind: tv
@@ -1026,6 +1192,7 @@ tags: detective, british, visual-storytelling, technical, adaptation, must-watch
 note: The technical transitions and the visual storytelling are what make it, not the plots. Text on screen, cuts inside a thought, beautiful imagery doing work that dialogue would have ruined.
 art: img/art/sherlock-mark-gatiss-steven-moffat.jpg
 imdbid: tt1475582
+imdb: 9.0
 
 ## Better Call Saul
 kind: tv
@@ -1039,6 +1206,7 @@ tags: crime, prequel, character-study, subtle, gilligan, must-watch
 note: Better than Breaking Bad on character work and it is not close. Subtler, slower, and it trusts you to notice things instead of pointing at them.
 art: img/art/better-call-saul-vince-gilligan-peter-gould.jpg
 imdbid: tt3032476
+imdb: 9.0
 
 ## Breaking Bad
 kind: tv
@@ -1052,6 +1220,8 @@ tags: crime, drama, gilligan, transformation
 note: Great, but a bit masala, a bit in your face, everything underlined twice in case you missed it. A two next to what came after it.
 art: img/art/breaking-bad-vince-gilligan.jpg
 imdbid: tt0903747
+imdb: 9.5
+rt: 96
 
 ## Pluribus
 kind: tv
@@ -1065,6 +1235,7 @@ tags: sci-fi, dystopia, hive-mind, gilligan, slow
 note: Interesting concept and great filming, but super slow and it does not come together crisply. Skip it if you want, I would not argue.
 art: img/art/pluribus-vince-gilligan.jpg
 imdbid: tt22202452
+imdb: 8.0
 
 ## The Office (UK)
 kind: tv
@@ -1078,6 +1249,7 @@ tags: comedy, mockumentary, british, workplace, must-watch
 note: Twelve episodes and a special, then it stopped, which is the most British thing about it. Bleaker and more uncomfortable than the American one ever tried to be.
 art: img/art/the-office-uk-ricky-gervais-stephen-merchant.jpg
 imdbid: tt0290978
+imdb: 8.5
 
 ## The Office (US)
 kind: tv
@@ -1091,6 +1263,7 @@ tags: comedy, mockumentary, workplace, rewatchable, must-watch
 note: Takes a season to find itself and then becomes the most rewatchable thing on television. Warmer than the original and better for it.
 art: img/art/the-office-us-greg-daniels.jpg
 imdbid: tt0386676
+imdb: 9.0
 
 ## Parks and Recreation
 kind: tv
@@ -1104,6 +1277,7 @@ tags: comedy, mockumentary, workplace, warm, must-watch
 note: The most generous comedy ever made, where the joke is never cruelty. Leslie Knope is the only fictional character I would actually vote for.
 art: img/art/parks-and-recreation-greg-daniels-michael-schur.jpg
 imdbid: tt1266020
+imdb: 8.6
 
 ## Seinfeld
 kind: tv
@@ -1117,6 +1291,7 @@ tags: comedy, sitcom, 90s, plotting, must-watch
 note: The show about nothing that is actually about how awful everyone is. Thirty years on and the plotting is still tighter than anything current.
 art: img/art/seinfeld-larry-david-jerry-seinfeld.jpg
 imdbid: tt0098904
+imdb: 8.9
 
 ## Arrested Development
 kind: tv
@@ -1130,6 +1305,7 @@ tags: comedy, sitcom, dense, callback, must-watch
 note: Every joke is planted three episodes early and pays off once you have forgotten it. Denser than anything else in the genre.
 art: img/art/arrested-development-mitchell-hurwitz.jpg
 imdbid: tt0367279
+imdb: 8.6
 
 ## The Lincoln Lawyer
 kind: tv
@@ -1143,6 +1319,7 @@ tags: legal, procedural, netflix, easy-watch
 note: A great passtime when you are multitasking, which is exactly the right use for it. Nothing demanded of you and nothing wasted either.
 art: img/art/the-lincoln-lawyer-david-e-kelley-ted-humphrey.jpg
 imdbid: tt13833978
+imdb: 7.8
 
 
 ---
