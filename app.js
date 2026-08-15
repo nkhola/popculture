@@ -171,16 +171,26 @@
 
   /* --- selectors --------------------------------------------------------- */
 
-  /* Everything on the site reads newest first. Year is the primary key; rating
-     and title only break ties so ordering stays stable between renders. */
-  const byRecent = (a, b) =>
-    (b.year || 0) - (a.year || 0) ||
-    (RATING_N[b.rating] - RATING_N[a.rating]) ||
-    a.title.localeCompare(b.title);
+  /* Every list on the site is chronological, reading left to right and top to
+     bottom: newest first, oldest last, because the thing somebody is most
+     likely to want next is the recent one. Flip CHRONO_DIR to 1 to reverse
+     the whole site in one place. Year is the primary key; rating and title only
+     break ties so ordering stays stable between renders. */
+  const CHRONO_DIR = -1;
+
+  const byChrono = (a, b) => {
+    const ay = a.year || 0, by = b.year || 0;
+    // Entries with no known year sit at the end whichever way the site is
+    // pointed, rather than leading the list with a zero.
+    if (!ay !== !by) return ay ? -1 : 1;
+    return (ay - by) * CHRONO_DIR ||
+      (RATING_N[b.rating] - RATING_N[a.rating]) ||
+      a.title.localeCompare(b.title);
+  };
 
   const musts  = (kind, region) => ITEMS.filter((i) =>
     i.must && (kind ? (kind === 'screen' ? i.kind !== 'book' : i.kind === kind) : true) &&
-    (region ? i.region === region : true)).sort(byRecent);
+    (region ? i.region === region : true)).sort(byChrono);
 
   const nowItems = (kinds) => ITEMS.filter((i) => i.status === 'now' && kinds.includes(i.kind));
 
@@ -285,7 +295,7 @@
       <section class="sec">
         ${secHead('05', 'On the shelf', `${ITEMS.filter((i) => i.status === 'shelf').length} waiting`, '#/shelf', 'All')}
         <p class="sec-lede">Bought, queued, not yet started. Honest about the backlog.</p>
-        ${gridHTML(ITEMS.filter((i) => i.status === 'shelf').sort(byRecent).slice(0, 12))}
+        ${gridHTML(ITEMS.filter((i) => i.status === 'shelf').sort(byChrono).slice(0, 12))}
       </section>`;
   }
 
@@ -302,7 +312,7 @@
 
   function personBlock(name) {
     const items = ITEMS.filter((i) => i.by && i.by.split(',').map((s) => s.trim()).includes(name))
-      .sort(byRecent);
+      .sort(byChrono);
     if (!items.length) return '';
     const ess = items.filter((i) => i.rating === 'essential').length;
     return `<div class="person rv">
@@ -319,7 +329,7 @@
     const kinds = kind === 'films' ? ['film'] : kind === 'tv' ? ['tv'] : ['book'];
     let items = ITEMS.filter((i) => kinds.includes(i.kind));
     if (region) items = items.filter((i) => i.region === region);
-    items.sort(byRecent);
+    items.sort(byChrono);
 
     const title = opts.title || (kind === 'films' ? 'Cinema' : kind === 'tv' ? 'Television' : 'Books');
     const base = `#/${kind}`;
@@ -374,7 +384,7 @@
     const person = DATA.facets.people.find((p) => p.slug === personSlug);
     if (!person) return notFound('No such director or author');
     const items = ITEMS.filter((i) => i.by && i.by.split(',').map((s) => s.trim()).includes(person.name))
-      .sort(byRecent);
+      .sort(byChrono);
 
     return `<section class="sec">
       <a class="backlink" href="#/people">&larr; All names</a>
@@ -384,7 +394,7 @@
   }
 
   function viewTag(tag) {
-    const items = ITEMS.filter((i) => i.tags.includes(tag)).sort(byRecent);
+    const items = ITEMS.filter((i) => i.tags.includes(tag)).sort(byChrono);
     const related = new Map();
     items.forEach((i) => i.tags.forEach((t) => {
       if (t !== tag) related.set(t, (related.get(t) || 0) + 1);
@@ -401,7 +411,7 @@
   }
 
   function viewShelf() {
-    const items = ITEMS.filter((i) => i.status === 'shelf').sort(byRecent);
+    const items = ITEMS.filter((i) => i.status === 'shelf').sort(byChrono);
     return `<section class="sec">
       ${secHead('', 'On the shelf', `${items.length} waiting`)}
       <p class="sec-lede">Owned or queued, not started. No ratings here, because rating something
@@ -511,14 +521,14 @@
     if (!it) return notFound('No such entry');
 
     const sameBy = it.by
-      ? ITEMS.filter((x) => x.slug !== it.slug && x.by === it.by).sort(byRecent)
+      ? ITEMS.filter((x) => x.slug !== it.slug && x.by === it.by).sort(byChrono)
       : [];
     const related = ITEMS
       .filter((x) => x.slug !== it.slug && x.by !== it.by)
       .map((x) => ({ x, n: x.tags.filter((t) => it.tags.includes(t)).length }))
       .filter((r) => r.n >= 2)
       .sort((a, b) => b.n - a.n || RATING_N[b.x.rating] - RATING_N[a.x.rating])
-      .slice(0, 12).map((r) => r.x).sort(byRecent);
+      .slice(0, 12).map((r) => r.x).sort(byChrono);
 
     const backHref = it.kind === 'book' ? `#/books/${it.region}`
       : it.kind === 'tv' ? '#/tv' : `#/films/${it.region}`;
@@ -785,7 +795,7 @@
     const navHits = NAV_CMDS.filter(([label]) => !q || label.toLowerCase().includes(q))
       .map(([label, href]) => ({ nav: true, label, href }));
 
-    const hits = !q ? ITEMS.filter((i) => i.must).sort(byRecent).slice(0, 8)
+    const hits = !q ? ITEMS.filter((i) => i.must).sort(byChrono).slice(0, 8)
       : ITEMS.map((i) => ({ i, s: score(i, q) })).filter((r) => r.s > 0)
           .sort((a, b) => b.s - a.s || RATING_N[b.i.rating] - RATING_N[a.i.rating])
           .slice(0, 30).map((r) => r.i);
