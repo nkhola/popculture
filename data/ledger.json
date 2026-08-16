@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 199,
+ "count": 204,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -1903,6 +1903,131 @@
    "rt": 75,
    "mc": 51,
    "imdbid": "tt8367814"
+  },
+  {
+   "slug": "incendies-denis-villeneuve",
+   "title": "Incendies",
+   "kind": "film",
+   "region": "world",
+   "by": "Denis Villeneuve",
+   "year": 2010,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "villeneuve",
+    "drama",
+    "mystery",
+    "war",
+    "disturbing",
+    "canadian",
+    "must-watch"
+   ],
+   "note": "Disturbing, and it does not let you off at the end. The kind of film you sit with in silence for a while afterwards.",
+   "art": "img/art/incendies-denis-villeneuve.jpg?v=614f9dd9",
+   "imdb": 8.3,
+   "rt": 91,
+   "mc": 80,
+   "imdbid": "tt1255953"
+  },
+  {
+   "slug": "prisoners-denis-villeneuve",
+   "title": "Prisoners",
+   "kind": "film",
+   "region": "world",
+   "by": "Denis Villeneuve",
+   "year": 2013,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "villeneuve",
+    "thriller",
+    "mystery",
+    "kidnapping",
+    "moral-ambiguity",
+    "must-watch"
+   ],
+   "note": "A great mystery, patiently built and genuinely hard to call. Everybody in it is compromised and the film refuses to tell you who to side with.",
+   "art": "img/art/prisoners-denis-villeneuve.jpg?v=2062688f",
+   "imdb": 8.2,
+   "rt": 81,
+   "mc": 70,
+   "imdbid": "tt1392214"
+  },
+  {
+   "slug": "sicario-denis-villeneuve",
+   "title": "Sicario",
+   "kind": "film",
+   "region": "world",
+   "by": "Denis Villeneuve",
+   "year": 2015,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "villeneuve",
+    "thriller",
+    "crime",
+    "cartel",
+    "cinematography",
+    "performances",
+    "must-watch"
+   ],
+   "note": "Brilliant for the performances and the camera work above all. Del Toro and Blunt pulling opposite directions, and Deakins shooting the border like a war zone.",
+   "art": "img/art/sicario-denis-villeneuve.jpg?v=e5f12691",
+   "imdb": 7.7,
+   "rt": 91,
+   "mc": 82,
+   "imdbid": "tt3397884"
+  },
+  {
+   "slug": "arrival-denis-villeneuve",
+   "title": "Arrival",
+   "kind": "film",
+   "region": "world",
+   "by": "Denis Villeneuve",
+   "year": 2016,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "villeneuve",
+    "sci-fi",
+    "language",
+    "first-contact",
+    "must-watch"
+   ],
+   "note": "A two, and still a must watch. Science fiction that is actually about grammar and grief rather than spaceships.",
+   "art": "img/art/arrival-denis-villeneuve.jpg?v=aa1fb171",
+   "imdb": 7.9,
+   "rt": 94,
+   "mc": 81,
+   "imdbid": "tt2543164"
+  },
+  {
+   "slug": "enemy-denis-villeneuve",
+   "title": "Enemy",
+   "kind": "film",
+   "region": "world",
+   "by": "Denis Villeneuve",
+   "year": 2013,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "villeneuve",
+    "thriller",
+    "surreal",
+    "doppelganger",
+    "gyllenhaal"
+   ],
+   "note": "A two, not a must watch. Deliberately opaque, and the last shot is the only thing most people remember, fairly.",
+   "art": "img/art/enemy-denis-villeneuve.jpg?v=fa353f05",
+   "imdb": 6.9,
+   "rt": 73,
+   "mc": 61,
+   "imdbid": "tt2316411"
   },
   {
    "slug": "iratta-rohit-m-g-krishnan",
@@ -4740,11 +4865,11 @@
   "tags": [
    {
     "tag": "thriller",
-    "count": 45
+    "count": 48
    },
    {
     "tag": "must-watch",
-    "count": 43
+    "count": 47
    },
    {
     "tag": "hindi",
@@ -4752,7 +4877,7 @@
    },
    {
     "tag": "crime",
-    "count": 32
+    "count": 33
    },
    {
     "tag": "shelf",
@@ -4780,7 +4905,7 @@
    },
    {
     "tag": "drama",
-    "count": 11
+    "count": 12
    },
    {
     "tag": "procedural",
@@ -4807,6 +4932,10 @@
     "count": 9
    },
    {
+    "tag": "performances",
+    "count": 9
+   },
+   {
     "tag": "revenge",
     "count": 9
    },
@@ -4827,11 +4956,11 @@
     "count": 8
    },
    {
-    "tag": "performances",
+    "tag": "philosophy",
     "count": 8
    },
    {
-    "tag": "philosophy",
+    "tag": "sci-fi",
     "count": 8
    },
    {
@@ -4851,8 +4980,8 @@
     "count": 7
    },
    {
-    "tag": "sci-fi",
-    "count": 7
+    "tag": "cinematography",
+    "count": 6
    },
    {
     "tag": "dibakar",
@@ -4876,10 +5005,6 @@
    },
    {
     "tag": "choreography",
-    "count": 5
-   },
-   {
-    "tag": "cinematography",
     "count": 5
    },
    {
@@ -4915,6 +5040,10 @@
     "count": 5
    },
    {
+    "tag": "mystery",
+    "count": 5
+   },
+   {
     "tag": "netflix",
     "count": 5
    },
@@ -4944,6 +5073,10 @@
    },
    {
     "tag": "true-crime",
+    "count": 5
+   },
+   {
+    "tag": "villeneuve",
     "count": 5
    },
    {
@@ -5019,6 +5152,10 @@
     "count": 4
    },
    {
+    "tag": "war",
+    "count": 4
+   },
+   {
     "tag": "western",
     "count": 4
    },
@@ -5075,10 +5212,6 @@
     "count": 3
    },
    {
-    "tag": "mystery",
-    "count": 3
-   },
-   {
     "tag": "nonlinear",
     "count": 3
    },
@@ -5107,6 +5240,10 @@
     "count": 3
    },
    {
+    "tag": "surreal",
+    "count": 3
+   },
+   {
     "tag": "tms",
     "count": 3
    },
@@ -5120,10 +5257,6 @@
    },
    {
     "tag": "victorian",
-    "count": 3
-   },
-   {
-    "tag": "war",
     "count": 3
    },
    {
@@ -5171,6 +5304,10 @@
     "count": 2
    },
    {
+    "tag": "disturbing",
+    "count": 2
+   },
+   {
     "tag": "dread",
     "count": 2
    },
@@ -5215,6 +5352,10 @@
     "count": 2
    },
    {
+    "tag": "language",
+    "count": 2
+   },
+   {
     "tag": "long",
     "count": 2
    },
@@ -5232,6 +5373,10 @@
    },
    {
     "tag": "michael-mann",
+    "count": 2
+   },
+   {
+    "tag": "moral-ambiguity",
     "count": 2
    },
    {
@@ -5304,10 +5449,6 @@
    },
    {
     "tag": "stoicism",
-    "count": 2
-   },
-   {
-    "tag": "surreal",
     "count": 2
    },
    {
@@ -5419,11 +5560,19 @@
     "count": 1
    },
    {
+    "tag": "canadian",
+    "count": 1
+   },
+   {
     "tag": "car-chase",
     "count": 1
    },
    {
     "tag": "carpenter",
+    "count": 1
+   },
+   {
+    "tag": "cartel",
     "count": 1
    },
    {
@@ -5507,7 +5656,7 @@
     "count": 1
    },
    {
-    "tag": "disturbing",
+    "tag": "doppelganger",
     "count": 1
    },
    {
@@ -5559,6 +5708,10 @@
     "count": 1
    },
    {
+    "tag": "first-contact",
+    "count": 1
+   },
+   {
     "tag": "folk-horror",
     "count": 1
    },
@@ -5600,6 +5753,10 @@
    },
    {
     "tag": "guha",
+    "count": 1
+   },
+   {
+    "tag": "gyllenhaal",
     "count": 1
    },
    {
@@ -5683,6 +5840,10 @@
     "count": 1
    },
    {
+    "tag": "kidnapping",
+    "count": 1
+   },
+   {
     "tag": "krishnamurti",
     "count": 1
    },
@@ -5692,10 +5853,6 @@
    },
    {
     "tag": "la-noir",
-    "count": 1
-   },
-   {
-    "tag": "language",
     "count": 1
    },
    {
@@ -5768,10 +5925,6 @@
    },
    {
     "tag": "mohanlal",
-    "count": 1
-   },
-   {
-    "tag": "moral-ambiguity",
     "count": 1
    },
    {
@@ -6157,6 +6310,14 @@
     "kinds": [
      "film",
      "tv"
+    ]
+   },
+   {
+    "name": "Denis Villeneuve",
+    "slug": "denis-villeneuve",
+    "count": 5,
+    "kinds": [
+     "film"
     ]
    },
    {

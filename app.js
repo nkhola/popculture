@@ -216,7 +216,7 @@
 
     const auteurs = DATA.facets.people
       .filter((p) => p.count >= 3 && p.kinds.some((k) => k === 'film' || k === 'tv'))
-      .slice(0, 6);
+      .slice(0, 8);
 
     const nowPanel = (label, items, emptyMsg) => `
       <div class="now-panel rv">

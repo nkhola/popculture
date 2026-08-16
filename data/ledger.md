@@ -1315,6 +1315,87 @@ imdb: 7.8
 mc: 51
 rt: 75
 
+## Incendies
+kind: film
+region: world
+by: Denis Villeneuve
+year: 2010
+status: done
+must: yes
+rating: essential
+tags: villeneuve, drama, mystery, war, disturbing, canadian, must-watch
+note: Disturbing, and it does not let you off at the end. The kind of film you sit with in silence for a while afterwards.
+art: img/art/incendies-denis-villeneuve.jpg
+imdbid: tt1255953
+imdb: 8.3
+mc: 80
+rt: 91
+
+## Prisoners
+kind: film
+region: world
+by: Denis Villeneuve
+year: 2013
+status: done
+must: yes
+rating: essential
+tags: villeneuve, thriller, mystery, kidnapping, moral-ambiguity, must-watch
+note: A great mystery, patiently built and genuinely hard to call. Everybody in it is compromised and the film refuses to tell you who to side with.
+art: img/art/prisoners-denis-villeneuve.jpg
+imdbid: tt1392214
+imdb: 8.2
+mc: 70
+rt: 81
+
+## Sicario
+kind: film
+region: world
+by: Denis Villeneuve
+year: 2015
+status: done
+must: yes
+rating: essential
+tags: villeneuve, thriller, crime, cartel, cinematography, performances, must-watch
+note: Brilliant for the performances and the camera work above all. Del Toro and Blunt pulling opposite directions, and Deakins shooting the border like a war zone.
+art: img/art/sicario-denis-villeneuve.jpg
+imdbid: tt3397884
+imdb: 7.7
+mc: 82
+rt: 91
+
+## Arrival
+kind: film
+region: world
+by: Denis Villeneuve
+year: 2016
+status: done
+must: yes
+rating: strong
+tags: villeneuve, sci-fi, language, first-contact, must-watch
+note: A two, and still a must watch. Science fiction that is actually about grammar and grief rather than spaceships.
+art: img/art/arrival-denis-villeneuve.jpg
+imdbid: tt2543164
+imdb: 7.9
+mc: 81
+rt: 94
+
+## Enemy
+kind: film
+region: world
+by: Denis Villeneuve
+year: 2013
+status: done
+must: no
+rating: strong
+tags: villeneuve, thriller, surreal, doppelganger, gyllenhaal
+note: A two, not a must watch. Deliberately opaque, and the last shot is the only thing most people remember, fairly.
+art: img/art/enemy-denis-villeneuve.jpg
+imdbid: tt2316411
+imdb: 6.9
+mc: 61
+rt: 73
+
+
 
 
 
