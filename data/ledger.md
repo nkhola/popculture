@@ -1284,6 +1284,38 @@ imdb: 7.7
 mc: 86
 rt: 96
 
+## The Vanishing
+kind: film
+region: world
+by: George Sluizer
+year: 1988
+status: done
+must: yes
+rating: essential
+tags: dutch, thriller, disturbing, visceral, original, must-watch
+note: One of the truly disturbing films, and visceral in a way almost nothing else manages. The ending is the most frightening thing I have sat through and there is no violence in it at all.
+art: img/art/the-vanishing-george-sluizer.jpg
+imdbid: tt0096163
+imdb: 7.7
+rt: 96
+
+## The Gentlemen
+kind: film
+region: world
+by: Guy Ritchie
+year: 2019
+status: done
+must: yes
+rating: strong
+tags: guy-ritchie, crime, british, comedy, ensemble, must-watch
+note: Also good, and a must watch. Ritchie back on home turf after a long detour, with a cast clearly having a great time.
+art: img/art/the-gentlemen-guy-ritchie.jpg
+imdbid: tt8367814
+imdb: 7.8
+mc: 51
+rt: 75
+
+
 
 
 
@@ -1839,13 +1871,12 @@ imdb: 8.6
 ## Furious
 kind: tv
 region: world
-by: unknown
-year: 2025
+by: 
+year: 2026
 status: now
 must: no
 rating: decent
-tags: recent-watch, currently-watching
-flag: title uncertain, you wrote "fuious". Confirm the show and I will fix the entry.
+tags: crime, drama, thriller, currently-watching, recent-watch
 note: Not bad, kinda mid. Watchable enough to keep going, not good enough to recommend to anybody.
 art: img/art/furious-unknown.jpg
 imdbid: tt36303968
@@ -2072,7 +2103,7 @@ rating: essential
 tags: guy-ritchie, crime, comedy, british, netflix, must-watch
 flag: you said the Netflix series, not the 2019 film. Say the word and I will add the film too
 note: Ritchie doing Ritchie at series length and it holds across all eight. Sharp, funny, and cast perfectly down to the smallest part.
-art: img/art/the-gentlemen-guy-ritchie.jpg
+art: img/art/the-gentlemen-guy-ritchie-tv.jpg
 imdbid: tt13210838
 imdb: 8.0
 
@@ -2099,7 +2130,6 @@ status: done
 must: yes
 rating: strong
 tags: thriller, assassin, redmayne, performances, must-watch
-flag: you wrote "night of the jackal", assuming the 2024 Redmayne series
 note: Redmayne is the whole reason to watch and he is genuinely excellent, cold and precise and never once showing you the inside. The show around him is solid rather than special.
 art: img/art/the-day-of-the-jackal-ronan-bennett.jpg
 imdbid: tt24053860
@@ -2627,8 +2657,8 @@ status: done
 must: no
 rating: strong
 tags: short-story, americana
-flag: could not place author or year with confidence, fill this in
-note: Stuck with me long after I forgot where I found it. Placeholder until you tell me who wrote it.
+flag: the blog you linked carries no author credit, so this is still unattributed
+note: A poor family wins a Buick in a raffle and the father realises the winning ticket is his boss's. Stuck with me for the decision at the centre of it rather than for the writing.
 
 ## Collected Poems
 kind: book

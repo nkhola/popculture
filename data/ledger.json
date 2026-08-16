@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 197,
+ "count": 199,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -1855,6 +1855,56 @@
    "imdbid": "tt1024648"
   },
   {
+   "slug": "the-vanishing-george-sluizer",
+   "title": "The Vanishing",
+   "kind": "film",
+   "region": "world",
+   "by": "George Sluizer",
+   "year": 1988,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "dutch",
+    "thriller",
+    "disturbing",
+    "visceral",
+    "original",
+    "must-watch"
+   ],
+   "note": "One of the truly disturbing films, and visceral in a way almost nothing else manages. The ending is the most frightening thing I have sat through and there is no violence in it at all.",
+   "art": "img/art/the-vanishing-george-sluizer.jpg?v=979557ee",
+   "imdb": 7.7,
+   "rt": 96,
+   "mc": null,
+   "imdbid": "tt0096163"
+  },
+  {
+   "slug": "the-gentlemen-guy-ritchie",
+   "title": "The Gentlemen",
+   "kind": "film",
+   "region": "world",
+   "by": "Guy Ritchie",
+   "year": 2019,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "guy-ritchie",
+    "crime",
+    "british",
+    "comedy",
+    "ensemble",
+    "must-watch"
+   ],
+   "note": "Also good, and a must watch. Ritchie back on home turf after a long detour, with a cast clearly having a great time.",
+   "art": "img/art/the-gentlemen-guy-ritchie.jpg?v=a0334128",
+   "imdb": 7.8,
+   "rt": 75,
+   "mc": 51,
+   "imdbid": "tt8367814"
+  },
+  {
    "slug": "iratta-rohit-m-g-krishnan",
    "title": "Iratta",
    "kind": "film",
@@ -2764,25 +2814,27 @@
    "imdbid": "tt11280740"
   },
   {
-   "slug": "furious-unknown",
+   "slug": "furious",
    "title": "Furious",
    "kind": "tv",
    "region": "world",
-   "by": "unknown",
-   "year": 2025,
+   "by": "",
+   "year": 2026,
    "status": "now",
    "must": false,
    "rating": "decent",
    "tags": [
-    "recent-watch",
-    "currently-watching"
+    "crime",
+    "drama",
+    "thriller",
+    "currently-watching",
+    "recent-watch"
    ],
    "note": "Not bad, kinda mid. Watchable enough to keep going, not good enough to recommend to anybody.",
    "art": "img/art/furious-unknown.jpg?v=bf60454b",
    "imdb": null,
    "rt": null,
    "mc": null,
-   "flag": "title uncertain, you wrote \"fuious\". Confirm the show and I will fix the entry.",
    "imdbid": "tt36303968"
   },
   {
@@ -3149,7 +3201,7 @@
    "imdbid": "tt15435876"
   },
   {
-   "slug": "the-gentlemen-guy-ritchie",
+   "slug": "the-gentlemen-guy-ritchie-tv",
    "title": "The Gentlemen",
    "kind": "tv",
    "region": "world",
@@ -3167,7 +3219,7 @@
     "must-watch"
    ],
    "note": "Ritchie doing Ritchie at series length and it holds across all eight. Sharp, funny, and cast perfectly down to the smallest part.",
-   "art": "img/art/the-gentlemen-guy-ritchie.jpg?v=57acc85e",
+   "art": "img/art/the-gentlemen-guy-ritchie-tv.jpg?v=57acc85e",
    "imdb": 8.0,
    "rt": null,
    "mc": null,
@@ -3221,7 +3273,6 @@
    "imdb": 8.1,
    "rt": null,
    "mc": null,
-   "flag": "you wrote \"night of the jackal\", assuming the 2024 Redmayne series",
    "imdbid": "tt24053860"
   },
   {
@@ -4159,12 +4210,12 @@
     "short-story",
     "americana"
    ],
-   "note": "Stuck with me long after I forgot where I found it. Placeholder until you tell me who wrote it.",
+   "note": "A poor family wins a Buick in a raffle and the father realises the winning ticket is his boss's. Stuck with me for the decision at the centre of it rather than for the writing.",
    "art": "",
    "imdb": null,
    "rt": null,
    "mc": null,
-   "flag": "could not place author or year with confidence, fill this in"
+   "flag": "the blog you linked carries no author credit, so this is still unattributed"
   },
   {
    "slug": "collected-poems-charles-bukowski",
@@ -4690,6 +4741,10 @@
   "tags": [
    {
     "tag": "thriller",
+    "count": 45
+   },
+   {
+    "tag": "must-watch",
     "count": 43
    },
    {
@@ -4697,12 +4752,8 @@
     "count": 42
    },
    {
-    "tag": "must-watch",
-    "count": 41
-   },
-   {
     "tag": "crime",
-    "count": 30
+    "count": 32
    },
    {
     "tag": "shelf",
@@ -4710,7 +4761,7 @@
    },
    {
     "tag": "comedy",
-    "count": 22
+    "count": 23
    },
    {
     "tag": "action",
@@ -4729,6 +4780,10 @@
     "count": 13
    },
    {
+    "tag": "drama",
+    "count": 11
+   },
+   {
     "tag": "procedural",
     "count": 11
    },
@@ -4737,12 +4792,12 @@
     "count": 11
    },
    {
-    "tag": "drama",
+    "tag": "tarantino",
     "count": 10
    },
    {
-    "tag": "tarantino",
-    "count": 10
+    "tag": "british",
+    "count": 9
    },
    {
     "tag": "entertainer",
@@ -4773,10 +4828,6 @@
     "count": 8
    },
    {
-    "tag": "british",
-    "count": 8
-   },
-   {
     "tag": "performances",
     "count": 8
    },
@@ -4793,6 +4844,10 @@
     "count": 7
    },
    {
+    "tag": "guy-ritchie",
+    "count": 7
+   },
+   {
     "tag": "psychology",
     "count": 7
    },
@@ -4802,10 +4857,6 @@
    },
    {
     "tag": "dibakar",
-    "count": 6
-   },
-   {
-    "tag": "guy-ritchie",
     "count": 6
    },
    {
@@ -4870,6 +4921,10 @@
    },
    {
     "tag": "nonfiction",
+    "count": 5
+   },
+   {
+    "tag": "original",
     "count": 5
    },
    {
@@ -4946,10 +5001,6 @@
    },
    {
     "tag": "neo-noir",
-    "count": 4
-   },
-   {
-    "tag": "original",
     "count": 4
    },
    {
@@ -5126,6 +5177,10 @@
    },
    {
     "tag": "editing",
+    "count": 2
+   },
+   {
+    "tag": "ensemble",
     "count": 2
    },
    {
@@ -5453,11 +5508,19 @@
     "count": 1
    },
    {
+    "tag": "disturbing",
+    "count": 1
+   },
+   {
     "tag": "dream-logic",
     "count": 1
    },
    {
     "tag": "dreams",
+    "count": 1
+   },
+   {
+    "tag": "dutch",
     "count": 1
    },
    {
@@ -5474,10 +5537,6 @@
    },
    {
     "tag": "elmore-leonard",
-    "count": 1
-   },
-   {
-    "tag": "ensemble",
     "count": 1
    },
    {
@@ -6017,6 +6076,10 @@
     "count": 1
    },
    {
+    "tag": "visceral",
+    "count": 1
+   },
+   {
     "tag": "warm",
     "count": 1
    },
@@ -6064,20 +6127,20 @@
     ]
    },
    {
+    "name": "Guy Ritchie",
+    "slug": "guy-ritchie",
+    "count": 7,
+    "kinds": [
+     "film",
+     "tv"
+    ]
+   },
+   {
     "name": "Dibakar Banerjee",
     "slug": "dibakar-banerjee",
     "count": 6,
     "kinds": [
      "film"
-    ]
-   },
-   {
-    "name": "Guy Ritchie",
-    "slug": "guy-ritchie",
-    "count": 6,
-    "kinds": [
-     "film",
-     "tv"
     ]
    },
    {
@@ -6556,6 +6619,14 @@
    {
     "name": "Fede Alvarez",
     "slug": "fede-alvarez",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "George Sluizer",
+    "slug": "george-sluizer",
     "count": 1,
     "kinds": [
      "film"

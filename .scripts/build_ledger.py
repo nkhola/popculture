@@ -43,6 +43,29 @@ def slugify(*parts: str) -> str:
     return re.sub(r"-{2,}", "-", raw)
 
 
+def unique_slug(title: str, by: str, kind: str, year, seen: dict) -> str:
+    """Assign a stable, collision free slug and record it in `seen`.
+
+    Title plus creator is not always unique: Guy Ritchie made both a film and a
+    series called The Gentlemen. Disambiguate on kind, then year, before falling
+    back to a counter. Every script that maps entries by slug must use this, or
+    two entries collapse onto one key and overwrite each other's data.
+    """
+    slug = slugify(title, by) or slugify(title)
+    if slug in seen:
+        for suffix in (kind, str(year or "")):
+            if suffix and f"{slug}-{suffix}" not in seen:
+                slug = f"{slug}-{suffix}"
+                break
+    base = slug
+    n = 1
+    while slug in seen:
+        n += 1
+        slug = f"{base}-{n}"
+    seen[slug] = True
+    return slug
+
+
 def parse(text: str) -> tuple[list[dict], list[str]]:
     warnings: list[str] = []
 
@@ -120,7 +143,7 @@ def stamp_art(rel: str) -> str:
 def normalise(entries: list[dict]) -> tuple[list[dict], list[str]]:
     warnings: list[str] = []
     out: list[dict] = []
-    seen: dict[str, int] = {}
+    seen: dict[str, bool] = {}
 
     for e in entries:
         title = e.get("title", "").strip()
@@ -157,13 +180,7 @@ def normalise(entries: list[dict]) -> tuple[list[dict], list[str]]:
             warnings.append(f"line {line}: {title!r} has year={year_raw!r}, ignoring")
             year = None
 
-        slug = slugify(title, by) or slugify(title, str(line))
-        if slug in seen:
-            warnings.append(f"line {line}: duplicate slug {slug!r}, suffixing")
-            seen[slug] += 1
-            slug = f"{slug}-{seen[slug]}"
-        else:
-            seen[slug] = 1
+        slug = unique_slug(title, by, kind, year, seen)
 
         def score(key: str):
             v = e.get(key, "").strip()

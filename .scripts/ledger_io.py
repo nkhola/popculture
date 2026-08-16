@@ -23,22 +23,17 @@ DATA_START = "# CINEMA / WORLD"
 
 
 class Entry:
-    __slots__ = ("title", "fields", "field_lines", "last_field_line")
+    __slots__ = ("title", "fields", "field_lines", "last_field_line", "slug")
 
     def __init__(self, title: str):
         self.title = title
         self.fields: dict[str, str] = {}
         self.field_lines: dict[str, int] = {}
         self.last_field_line: int = -1
+        self.slug: str = ""
 
     def get(self, key: str, default: str = "") -> str:
         return self.fields.get(key, default).strip()
-
-    @property
-    def slug(self) -> str:
-        from build_ledger import slugify  # local import keeps this module standalone
-
-        return slugify(self.title, self.get("by"))
 
     def __repr__(self) -> str:
         return f"<Entry {self.title!r} {self.get('kind')}/{self.get('region')}>"
@@ -89,6 +84,15 @@ def load(path: Path = LEDGER_MD) -> tuple[list[str], list[Entry]]:
         elif last_key:
             current.fields[last_key] += " " + stripped
             current.last_field_line = i
+
+    # Slugs must be assigned across the whole list, not per entry, because
+    # disambiguating a collision depends on what came before it.
+    from build_ledger import unique_slug
+
+    seen: dict[str, bool] = {}
+    for e in entries:
+        year = e.get("year")
+        e.slug = unique_slug(e.title, e.get("by"), e.get("kind"), year, seen)
 
     return lines, entries
 
