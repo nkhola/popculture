@@ -2101,7 +2101,6 @@ status: done
 must: yes
 rating: essential
 tags: guy-ritchie, crime, comedy, british, netflix, must-watch
-flag: you said the Netflix series, not the 2019 film. Say the word and I will add the film too
 note: Ritchie doing Ritchie at series length and it holds across all eight. Sharp, funny, and cast perfectly down to the smallest part.
 art: img/art/the-gentlemen-guy-ritchie-tv.jpg
 imdbid: tt13210838
