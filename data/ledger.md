@@ -959,7 +959,6 @@ status: done
 must: yes
 rating: strong
 tags: horror, australian, grief, unsettling, must-watch
-flag: you were not sure of the title, this is the Philippou brothers' 2025 one
 note: The follow up, and properly unsettling. More of a two than Talk to Me but still worth your time.
 art: img/art/bring-her-back-danny-philippou-michael-philippou.jpg
 imdbid: tt32246771
@@ -1166,7 +1165,6 @@ status: done
 must: no
 rating: strong
 tags: michael-mann, thriller, serial-killer, stylish, lecter
-flag: you said Red Dragon by Mann. Mann's version is Manhunter (1986); Red Dragon (2002) is Brett Ratner. Say the word and I will swap or add it.
 note: The same remarkable modernity, and the first Lecter on screen. Cold, blue, and years ahead of itself.
 art: img/art/manhunter-michael-mann.jpg
 imdbid: tt0091474
