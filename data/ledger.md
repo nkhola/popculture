@@ -506,19 +506,18 @@ rt: 95
 ## Obsession
 kind: film
 region: world
-by: Brian De Palma
-year: 1976
+by: Curry Barker
+year: 2025
 status: done
 must: no
 rating: strong
-tags: de-palma, thriller, hitchcockian, 70s, recent-watch
-flag: confirm this is the De Palma 1976 one and not a different Obsession
-note: De Palma doing Vertigo without pretending otherwise, and the Herrmann score does most of the heavy lifting. Silly if you look at the plot straight on, hypnotic if you do not.
-art: img/art/obsession-brian-de-palma.jpg
-imdbid: tt0074991
-imdb: 6.7
-mc: 59
-rt: 77
+tags: horror, thriller, romance, recent-watch
+note: The recent one, and it commits hard to its premise. Nasty, funny in places, and it does not lose its nerve at the end.
+art: img/art/obsession-curry-barker.jpg
+imdbid: tt37287335
+imdb: 7.9
+mc: 77
+rt: 94
 
 ## Searching
 kind: film
@@ -673,7 +672,6 @@ status: done
 must: yes
 rating: essential
 tags: batman, noir, detective, cinematography, pattinson, must-watch
-flag: rating is my read of "brilliant cinematic", correct it if you meant a two
 note: Brilliant and genuinely cinematic, the best looking comic book film anybody has made. The only real problem with it is how far away the sequel still is.
 art: img/art/the-batman-matt-reeves.jpg
 imdbid: tt1877830
@@ -760,6 +758,534 @@ imdbid: tt1515091
 imdb: 7.4
 mc: 48
 rt: 60
+
+## Memento
+kind: film
+region: world
+by: Christopher Nolan
+year: 2000
+status: done
+must: yes
+rating: essential
+tags: nolan, thriller, nonlinear, memory, must-watch
+note: The structure is the story, and no one has done the trick better since. Built backwards and it still lands emotionally, which is the hard part.
+art: img/art/memento-christopher-nolan.jpg
+imdbid: tt0209144
+imdb: 8.4
+mc: 83
+rt: 94
+
+## The Dark Knight
+kind: film
+region: world
+by: Christopher Nolan
+year: 2008
+status: done
+must: yes
+rating: essential
+tags: nolan, batman, crime, ledger, must-watch
+note: Obviously. A crime film wearing a cape, and Ledger rewrote what the role could be.
+art: img/art/the-dark-knight-christopher-nolan.jpg
+imdbid: tt0468569
+imdb: 9.1
+mc: 85
+rt: 94
+
+## Batman Begins
+kind: film
+region: world
+by: Christopher Nolan
+year: 2005
+status: done
+must: no
+rating: strong
+tags: nolan, batman, origin
+note: A solid two. Does the hard work of making the origin believable so the next one could fly.
+art: img/art/batman-begins-christopher-nolan.jpg
+imdbid: tt0372784
+imdb: 8.2
+mc: 70
+rt: 85
+
+## Inception
+kind: film
+region: world
+by: Christopher Nolan
+year: 2010
+status: done
+must: no
+rating: strong
+tags: nolan, sci-fi, heist, dreams
+note: The dream inside a dream one. Impeccably built, a bit cold, and the rules take up more room than the feeling.
+art: img/art/inception-christopher-nolan.jpg
+imdbid: tt1375666
+imdb: 8.8
+mc: 74
+rt: 87
+
+## Interstellar
+kind: film
+region: world
+by: Christopher Nolan
+year: 2014
+status: done
+must: no
+rating: strong
+tags: nolan, sci-fi, space, score
+note: Gorgeous and overreaching in equal measure. The docking scene and the score do most of the lifting.
+art: img/art/interstellar-christopher-nolan.jpg
+imdbid: tt0816692
+imdb: 8.7
+mc: 74
+rt: 73
+
+## Tenet
+kind: film
+region: world
+by: Christopher Nolan
+year: 2020
+status: done
+must: no
+rating: strong
+tags: nolan, sci-fi, time, puzzle
+note: Technically astonishing and emotionally inert. You spend the whole film solving it rather than watching it.
+art: img/art/tenet-christopher-nolan.jpg
+imdbid: tt6723592
+imdb: 7.3
+mc: 69
+rt: 70
+
+## Dunkirk
+kind: film
+region: world
+by: Christopher Nolan
+year: 2017
+status: done
+must: no
+rating: strong
+tags: nolan, war, survival, tension
+note: The war one. Three timelines squeezed into one long held breath, more experiment than drama.
+art: img/art/dunkirk-christopher-nolan.jpg
+imdbid: tt5013056
+imdb: 7.8
+mc: 94
+rt: 92
+
+## Insomnia
+kind: film
+region: world
+by: Christopher Nolan
+year: 2002
+status: done
+must: no
+rating: decent
+tags: nolan, thriller, remake, alaska
+note: Mid. Pacino and Williams are worth watching and the film around them never quite wakes up.
+art: img/art/insomnia-christopher-nolan.jpg
+imdbid: tt0278504
+imdb: 7.2
+mc: 78
+rt: 92
+
+## Oppenheimer
+kind: film
+region: world
+by: Christopher Nolan
+year: 2023
+status: shelf
+must: no
+rating: unrated
+tags: nolan, biopic, history, shelf
+note: Not watched yet.
+art: img/art/oppenheimer-christopher-nolan.jpg
+imdbid: tt15398776
+imdb: 8.2
+mc: 90
+rt: 93
+
+## It Follows
+kind: film
+region: world
+by: David Robert Mitchell
+year: 2014
+status: done
+must: yes
+rating: essential
+tags: horror, indie, score, carpenter, must-watch
+note: Amazing, and the score is half of why. A Carpenter tribute that stands entirely on its own legs.
+art: img/art/it-follows-david-robert-mitchell.jpg
+imdbid: tt3235888
+imdb: 6.8
+mc: 83
+rt: 95
+
+## Let the Right One In
+kind: film
+region: world
+by: Tomas Alfredson
+year: 2008
+status: done
+must: yes
+rating: essential
+tags: horror, vampire, swedish, childhood, original, must-watch
+note: The Scandinavian original, and brilliant on visuals. Unsettling and genuinely beautiful about bullying and childhood at the same time.
+art: img/art/let-the-right-one-in-tomas-alfredson.jpg
+imdbid: tt1139797
+imdb: 7.8
+mc: 82
+rt: 98
+
+## Talk to Me
+kind: film
+region: world
+by: Danny Philippou, Michael Philippou
+year: 2022
+status: done
+must: yes
+rating: essential
+tags: horror, australian, modern, stylish, must-watch
+note: A great way to make a horror film. Slick, stylish, modern, and it never coasts on the gimmick.
+art: img/art/talk-to-me-danny-philippou-michael-philippou.jpg
+imdbid: tt10638522
+imdb: 7.1
+mc: 76
+
+## Bring Her Back
+kind: film
+region: world
+by: Danny Philippou, Michael Philippou
+year: 2025
+status: done
+must: yes
+rating: strong
+tags: horror, australian, grief, unsettling, must-watch
+flag: you were not sure of the title, this is the Philippou brothers' 2025 one
+note: The follow up, and properly unsettling. More of a two than Talk to Me but still worth your time.
+art: img/art/bring-her-back-danny-philippou-michael-philippou.jpg
+imdbid: tt32246771
+imdb: 7.1
+mc: 75
+rt: 89
+
+## Audition
+kind: film
+region: world
+by: Takashi Miike
+year: 1999
+status: done
+must: yes
+rating: essential
+tags: horror, japanese, slow-burn, unsettling, must-watch
+note: Massively unsettling, and it earns it by making you wait. The first hour is a different film entirely, which is the trap.
+art: img/art/audition-takashi-miike.jpg
+imdbid: tt0235198
+imdb: 7.1
+mc: 70
+rt: 81
+
+## Oldboy
+kind: film
+region: world
+by: Park Chan-wook
+year: 2003
+status: done
+must: yes
+rating: essential
+tags: korean, thriller, revenge, unsettling, must-watch
+note: Just as unsettling and just as good. The corridor fight, the ending, all of it still lands.
+art: img/art/oldboy-park-chan-wook.jpg
+imdbid: tt0364569
+imdb: 8.3
+mc: 78
+rt: 82
+
+## Hereditary
+kind: film
+region: world
+by: Ari Aster
+year: 2018
+status: done
+must: no
+rating: strong
+tags: horror, aster, grief, dread
+note: A two. Extremely well made and it never quite justifies how unpleasant it is.
+art: img/art/hereditary-ari-aster.jpg
+imdbid: tt7784604
+imdb: 7.3
+mc: 87
+rt: 90
+
+## Midsommar
+kind: film
+region: world
+by: Ari Aster
+year: 2019
+status: done
+must: no
+rating: strong
+tags: horror, aster, folk-horror, daylight
+note: Same as Hereditary, a two. Beautiful to look at and much too long for what it has to say.
+art: img/art/midsommar-ari-aster.jpg
+imdbid: tt8772262
+imdb: 7.1
+mc: 72
+rt: 83
+
+## Parasite
+kind: film
+region: world
+by: Bong Joon-ho
+year: 2019
+status: done
+must: no
+rating: strong
+tags: korean, class, satire, thriller
+note: A two. Immaculately built and a little too pleased with the metaphor.
+art: img/art/parasite-bong-joon-ho.jpg
+imdbid: tt6751668
+imdb: 8.5
+mc: 97
+rt: 99
+
+## Memories of Murder
+kind: film
+region: world
+by: Bong Joon-ho
+year: 2003
+status: done
+must: no
+rating: decent
+tags: korean, procedural, true-crime, open-ended
+note: Good technique, low on the entertainment quotient. Zodiac is open ended too and is the better film.
+art: img/art/memories-of-murder-bong-joon-ho.jpg
+imdbid: tt0353969
+imdb: 8.1
+mc: 82
+
+## Don't Breathe
+kind: film
+region: world
+by: Fede Alvarez
+year: 2016
+status: done
+must: no
+rating: strong
+tags: horror, thriller, home-invasion, entertainer
+note: A great entertainer. One house, one very bad idea, and it moves.
+art: img/art/don-t-breathe-fede-alvarez.jpg
+imdbid: tt4160708
+imdb: 7.1
+mc: 71
+rt: 88
+
+## Don't Breathe 2
+kind: film
+region: world
+by: Rodo Sayagues
+year: 2021
+status: done
+must: no
+rating: decent
+tags: horror, thriller, sequel
+note: Still entertaining, just not worth the time. A one.
+art: img/art/don-t-breathe-2-rodo-sayagues.jpg
+imdbid: tt6246322
+imdb: 6.0
+mc: 46
+
+## Sisu
+kind: film
+region: world
+by: Jalmari Helander
+year: 2022
+status: done
+must: yes
+rating: essential
+tags: action, finnish, war, cinematography, grit, must-watch
+note: Brilliant action, and worth it for the cinematography alone. Beautiful Finnish grit and almost no dialogue.
+art: img/art/sisu-jalmari-helander.jpg
+imdbid: tt14846026
+imdb: 6.9
+mc: 70
+rt: 94
+
+## Sisu: Road to Revenge
+kind: film
+region: world
+by: Jalmari Helander
+year: 2025
+status: done
+must: yes
+rating: strong
+tags: action, finnish, sequel, cinematography, must-watch
+note: A two rather than a three, and still shot beautifully. Same grit, slightly less surprise.
+art: img/art/sisu-road-to-revenge-jalmari-helander.jpg
+imdbid: tt31844586
+imdb: 6.8
+mc: 76
+rt: 93
+
+## The Silence of the Lambs
+kind: film
+region: world
+by: Jonathan Demme
+year: 1991
+status: done
+must: yes
+rating: essential
+tags: thriller, serial-killer, procedural, must-watch
+note: Obviously a three. Thrilling and visceral, and it rewards going back again and again.
+art: img/art/the-silence-of-the-lambs-jonathan-demme.jpg
+imdbid: tt0102926
+imdb: 8.6
+mc: 86
+rt: 95
+
+## Heat
+kind: film
+region: world
+by: Michael Mann
+year: 1995
+status: done
+must: no
+rating: strong
+tags: michael-mann, crime, heist, la, stylish
+note: Remarkably modern for its age. Mann shooting a city at night better than anyone before or since.
+art: img/art/heat-michael-mann.jpg
+imdbid: tt0113277
+imdb: 8.3
+mc: 76
+rt: 84
+
+## Manhunter
+kind: film
+region: world
+by: Michael Mann
+year: 1986
+status: done
+must: no
+rating: strong
+tags: michael-mann, thriller, serial-killer, stylish, lecter
+flag: you said Red Dragon by Mann. Mann's version is Manhunter (1986); Red Dragon (2002) is Brett Ratner. Say the word and I will swap or add it.
+note: The same remarkable modernity, and the first Lecter on screen. Cold, blue, and years ahead of itself.
+art: img/art/manhunter-michael-mann.jpg
+imdbid: tt0091474
+imdb: 7.2
+mc: 75
+rt: 90
+
+## The Bourne Identity
+kind: film
+region: world
+by: Doug Liman
+year: 2002
+status: done
+must: yes
+rating: strong
+tags: spy, action, thriller, bourne, must-watch
+note: The one that reset the whole genre. Grounded, fast, and it still holds up.
+art: img/art/the-bourne-identity-doug-liman.jpg
+imdbid: tt0258463
+imdb: 7.8
+mc: 68
+rt: 84
+
+## The Bourne Supremacy
+kind: film
+region: world
+by: Paul Greengrass
+year: 2004
+status: done
+must: no
+rating: decent
+tags: spy, action, thriller, bourne, sequel
+note: The middle one, and the weakest. A one.
+art: img/art/the-bourne-supremacy-paul-greengrass.jpg
+imdbid: tt0372183
+imdb: 7.7
+mc: 73
+rt: 81
+
+## The Bourne Ultimatum
+kind: film
+region: world
+by: Paul Greengrass
+year: 2007
+status: done
+must: yes
+rating: strong
+tags: spy, action, thriller, bourne, must-watch
+note: Back up to a two and the best set pieces of the three. Waterloo station alone.
+art: img/art/the-bourne-ultimatum-paul-greengrass.jpg
+imdbid: tt0440963
+imdb: 8.0
+mc: 85
+rt: 92
+
+## My Cousin Vinny
+kind: film
+region: world
+by: Jonathan Lynn
+year: 1992
+status: done
+must: yes
+rating: essential
+tags: comedy, courtroom, rewatchable, must-watch
+note: Immense rewatchability and a brilliant, brilliant film. Essentially a textbook on how feel good movies should be made. What a movie.
+art: img/art/my-cousin-vinny-jonathan-lynn.jpg
+imdbid: tt0104952
+imdb: 7.6
+mc: 68
+rt: 85
+
+## The Big Lebowski
+kind: film
+region: world
+by: Joel Coen, Ethan Coen
+year: 1998
+status: done
+must: yes
+rating: essential
+tags: coens, comedy, cult, rewatchable, must-watch
+note: The same immense rewatchability. Nothing happens and every scene is quotable.
+art: img/art/the-big-lebowski-joel-coen-ethan-coen.jpg
+imdbid: tt0118715
+imdb: 8.1
+mc: 71
+rt: 79
+
+## Good Will Hunting
+kind: film
+region: world
+by: Gus Van Sant
+year: 1997
+status: done
+must: no
+rating: strong
+tags: drama, boston, williams
+note: A two. Williams is genuinely great and the rest is more sentimental than it admits.
+art: img/art/good-will-hunting-gus-van-sant.jpg
+imdbid: tt0119217
+imdb: 8.4
+mc: 71
+rt: 97
+
+## Argo
+kind: film
+region: world
+by: Ben Affleck
+year: 2012
+status: done
+must: no
+rating: decent
+tags: thriller, true-story, entertainer
+note: A good entertainer, not worth the time. A one.
+art: img/art/argo-ben-affleck.jpg
+imdbid: tt1024648
+imdb: 7.7
+mc: 86
+rt: 96
+
 
 
 
@@ -1204,6 +1730,94 @@ imdbid: tt9010522
 imdb: 7.8
 rt: 88
 
+## Bhoothakalam
+kind: film
+region: indian
+by: Rahul Sadasivan
+year: 2022
+status: done
+must: no
+rating: strong
+tags: malayalam, horror, mental-health, performances, recent-watch
+note: Brilliant in its performances, and in how it finds horror in ordinary daily life. The portrayal of mental health is the real subject and it is handled well.
+art: img/art/bhoothakalam-rahul-sadasivan.jpg
+imdbid: tt15560626
+imdb: 7.5
+
+## Queen
+kind: film
+region: indian
+by: Vikas Bahl
+year: 2013
+status: done
+must: yes
+rating: strong
+tags: hindi, comedy, drama, travel, must-watch
+note: A must watch. Kangana carries the whole thing and the film never condescends to her.
+art: img/art/queen-vikas-bahl.jpg
+imdbid: tt3322420
+imdb: 8.1
+rt: 90
+
+## Masaan
+kind: film
+region: indian
+by: Neeraj Ghaywan
+year: 2015
+status: done
+must: no
+rating: strong
+tags: hindi, drama, caste, banaras, writing, realism
+note: Brilliant writing and authentic performances, with social commentary that never turns into a lecture. Quietly one of the best of its decade.
+art: img/art/masaan-neeraj-ghaywan.jpg
+imdbid: tt4635372
+imdb: 8.1
+rt: 93
+
+## Omkara
+kind: film
+region: indian
+by: Vishal Bhardwaj
+year: 2006
+status: done
+must: no
+rating: strong
+tags: hindi, adaptation, shakespeare, performances
+note: Saif is extraordinary in it, the best thing he has done. Naseeruddin Shah has barely any screen time and is unforgettable anyway.
+art: img/art/omkara-vishal-bhardwaj.jpg
+imdbid: tt0488414
+imdb: 8.0
+
+## Laal Kaptaan
+kind: film
+region: indian
+by: Navdeep Singh
+year: 2019
+status: done
+must: no
+rating: strong
+tags: hindi, western, revenge, cinematography, saif
+note: Saif is very good and the cinematography is better. A strange, dusty film that did not find its audience.
+art: img/art/laal-kaptaan-navdeep-singh.jpg
+imdbid: tt9052960
+imdb: 7.2
+rt: 11
+
+## Manorama Six Feet Under
+kind: film
+region: indian
+by: Navdeep Singh
+year: 2007
+status: done
+must: yes
+rating: strong
+tags: hindi, neo-noir, rajasthan, thriller, must-watch
+note: The Abhay Deol one, and a good one. Chinatown relocated to small town Rajasthan and it works better than it has any right to.
+art: img/art/manorama-six-feet-under-navdeep-singh.jpg
+imdbid: tt0920464
+imdb: 7.5
+
+
 
 
 ---
@@ -1506,6 +2120,175 @@ note: The action sequences and the camera work are what set it apart, that corri
 art: img/art/daredevil-drew-goddard.jpg
 imdbid: tt3322312
 imdb: 8.6
+
+## The Bureau
+kind: tv
+region: world
+by: Eric Rochant
+year: 2015
+status: done
+must: yes
+rating: essential
+tags: spy, french, character-study, authentic, must-watch
+note: It ropes you in emotionally and does not let go. The character work is exceptional and the depiction of the trade is as close to authentic as the genre gets.
+art: img/art/the-bureau-eric-rochant.jpg
+imdbid: tt4063800
+imdb: 8.7
+
+## Broadchurch
+kind: tv
+region: world
+by: Chris Chibnall
+year: 2013
+status: done
+must: no
+rating: strong
+tags: crime, british, grief, procedural
+note: A two. The first season is the one, and the town does as much work as the case.
+art: img/art/broadchurch-chris-chibnall.jpg
+imdbid: tt2249364
+imdb: 8.3
+
+## Bodyguard
+kind: tv
+region: world
+by: Jed Mercurio
+year: 2018
+status: done
+must: no
+rating: strong
+tags: thriller, british, entertainer, performances
+note: A mass entertainer with great performances. A two, and it knows exactly what it is.
+art: img/art/bodyguard-jed-mercurio.jpg
+imdbid: tt7493974
+imdb: 8.0
+
+## Tehran
+kind: tv
+region: world
+by: Moshe Zonder, Dana Eden
+year: 2020
+status: done
+must: no
+rating: strong
+tags: spy, israeli, thriller, performances, apple-tv
+note: The performances carry it, and the sense of place is genuinely good. Tense without needing to shout.
+art: img/art/tehran-moshe-zonder-dana-eden.jpg
+imdbid: tt10577736
+imdb: 7.6
+
+## Sacred Games
+kind: tv
+region: indian
+by: Vikramaditya Motwane, Anurag Kashyap
+year: 2018
+status: done
+must: yes
+rating: strong
+tags: hindi, crime, netflix, bombay, must-watch
+note: A two, and still a must watch for what it was. India's first real foray onto the global stage in the Netflix series format.
+art: img/art/sacred-games-vikramaditya-motwane-anurag-kashyap.jpg
+imdbid: tt6077448
+imdb: 8.5
+
+## Asur
+kind: tv
+region: indian
+by: Oni Sen
+year: 2020
+status: done
+must: no
+rating: essential
+tags: hindi, thriller, crime, bingeable, procedural
+note: It has its flaws and it is brilliantly put together anyway. A thriller that will not stop entertaining you, and you will want to binge it.
+art: img/art/asur-oni-sen.jpg
+imdbid: tt11912196
+imdb: 8.5
+
+## Paatal Lok
+kind: tv
+region: indian
+by: Sudip Sharma
+year: 2020
+status: done
+must: yes
+rating: strong
+tags: hindi, crime, gritty, caste, must-watch
+note: Gritty in a way Indian television usually is not. A two and a must watch.
+art: img/art/paatal-lok-sudip-sharma.jpg
+imdbid: tt9680440
+imdb: 8.1
+
+## Decoupled
+kind: tv
+region: indian
+by: Manu Joseph
+year: 2021
+status: done
+must: yes
+rating: strong
+tags: hindi, comedy, satire, madhavan, must-watch
+note: A good one, and still a must watch. Madhavan playing a man nobody should like and getting away with it.
+art: img/art/decoupled-manu-joseph.jpg
+imdbid: tt14167338
+imdb: 7.9
+
+## The Ba***ds of Bollywood
+kind: tv
+region: indian
+by: Aryan Khan
+year: 2025
+status: done
+must: no
+rating: strong
+tags: hindi, comedy, satire, masala, entertainer, recent-watch
+note: A masala entertainer and perfectly happy being one. A two.
+art: img/art/the-ba-ds-of-bollywood-aryan-khan.jpg
+imdbid: tt34683290
+imdb: 7.7
+
+## Scam 1992
+kind: tv
+region: indian
+by: Hansal Mehta
+year: 2020
+status: done
+must: no
+rating: strong
+tags: hindi, finance, true-story, performances, technical
+note: The lead performance and the technical work are both excellent. A solid two, not a must watch.
+art: img/art/scam-1992-hansal-mehta.jpg
+imdbid: tt12392504
+imdb: 9.2
+
+## Mirzapur
+kind: tv
+region: indian
+by: Karan Anshuman, Puneet Krishna
+year: 2018
+status: done
+must: no
+rating: decent
+tags: hindi, crime, gangster
+note: Has some good bits and is not worth the time. A one.
+art: img/art/mirzapur-karan-anshuman-puneet-krishna.jpg
+imdbid: tt6473300
+imdb: 8.4
+
+## Tanaav
+kind: tv
+region: indian
+by: Sudhir Mishra, Sachin Krishn
+year: 2022
+status: done
+must: no
+rating: decent
+tags: hindi, adaptation, thriller, kashmir
+note: Decent work adapting Fauda and it does not live up to the potential. A one.
+art: img/art/tanaav-sudhir-mishra-sachin-krishn.jpg
+imdbid: tt21916016
+imdb: 7.8
+
 
 
 

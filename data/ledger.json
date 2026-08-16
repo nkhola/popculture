@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 146,
+ "count": 197,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -695,29 +695,27 @@
    "imdbid": "tt0116282"
   },
   {
-   "slug": "obsession-brian-de-palma",
+   "slug": "obsession-curry-barker",
    "title": "Obsession",
    "kind": "film",
    "region": "world",
-   "by": "Brian De Palma",
-   "year": 1976,
+   "by": "Curry Barker",
+   "year": 2025,
    "status": "done",
    "must": false,
    "rating": "strong",
    "tags": [
-    "de-palma",
+    "horror",
     "thriller",
-    "hitchcockian",
-    "70s",
+    "romance",
     "recent-watch"
    ],
-   "note": "De Palma doing Vertigo without pretending otherwise, and the Herrmann score does most of the heavy lifting. Silly if you look at the plot straight on, hypnotic if you do not.",
-   "art": "img/art/obsession-brian-de-palma.jpg?v=a43a5ffe",
-   "imdb": 6.7,
-   "rt": 77,
-   "mc": 59,
-   "flag": "confirm this is the De Palma 1976 one and not a different Obsession",
-   "imdbid": "tt0074991"
+   "note": "The recent one, and it commits hard to its premise. Nasty, funny in places, and it does not lose its nerve at the end.",
+   "art": "img/art/obsession-curry-barker.jpg?v=859d1c99",
+   "imdb": 7.9,
+   "rt": 94,
+   "mc": 77,
+   "imdbid": "tt37287335"
   },
   {
    "slug": "searching-aneesh-chaganty",
@@ -958,7 +956,6 @@
    "imdb": 7.8,
    "rt": 85,
    "mc": 72,
-   "flag": "rating is my read of \"brilliant cinematic\", correct it if you meant a two",
    "imdbid": "tt1877830"
   },
   {
@@ -1083,6 +1080,781 @@
    "rt": 60,
    "mc": 48,
    "imdbid": "tt1515091"
+  },
+  {
+   "slug": "memento-christopher-nolan",
+   "title": "Memento",
+   "kind": "film",
+   "region": "world",
+   "by": "Christopher Nolan",
+   "year": 2000,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "nolan",
+    "thriller",
+    "nonlinear",
+    "memory",
+    "must-watch"
+   ],
+   "note": "The structure is the story, and no one has done the trick better since. Built backwards and it still lands emotionally, which is the hard part.",
+   "art": "img/art/memento-christopher-nolan.jpg?v=3a2cfa4b",
+   "imdb": 8.4,
+   "rt": 94,
+   "mc": 83,
+   "imdbid": "tt0209144"
+  },
+  {
+   "slug": "the-dark-knight-christopher-nolan",
+   "title": "The Dark Knight",
+   "kind": "film",
+   "region": "world",
+   "by": "Christopher Nolan",
+   "year": 2008,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "nolan",
+    "batman",
+    "crime",
+    "ledger",
+    "must-watch"
+   ],
+   "note": "Obviously. A crime film wearing a cape, and Ledger rewrote what the role could be.",
+   "art": "img/art/the-dark-knight-christopher-nolan.jpg?v=62bb79e4",
+   "imdb": 9.1,
+   "rt": 94,
+   "mc": 85,
+   "imdbid": "tt0468569"
+  },
+  {
+   "slug": "batman-begins-christopher-nolan",
+   "title": "Batman Begins",
+   "kind": "film",
+   "region": "world",
+   "by": "Christopher Nolan",
+   "year": 2005,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "nolan",
+    "batman",
+    "origin"
+   ],
+   "note": "A solid two. Does the hard work of making the origin believable so the next one could fly.",
+   "art": "img/art/batman-begins-christopher-nolan.jpg?v=4edac254",
+   "imdb": 8.2,
+   "rt": 85,
+   "mc": 70,
+   "imdbid": "tt0372784"
+  },
+  {
+   "slug": "inception-christopher-nolan",
+   "title": "Inception",
+   "kind": "film",
+   "region": "world",
+   "by": "Christopher Nolan",
+   "year": 2010,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "nolan",
+    "sci-fi",
+    "heist",
+    "dreams"
+   ],
+   "note": "The dream inside a dream one. Impeccably built, a bit cold, and the rules take up more room than the feeling.",
+   "art": "img/art/inception-christopher-nolan.jpg?v=d4d6a191",
+   "imdb": 8.8,
+   "rt": 87,
+   "mc": 74,
+   "imdbid": "tt1375666"
+  },
+  {
+   "slug": "interstellar-christopher-nolan",
+   "title": "Interstellar",
+   "kind": "film",
+   "region": "world",
+   "by": "Christopher Nolan",
+   "year": 2014,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "nolan",
+    "sci-fi",
+    "space",
+    "score"
+   ],
+   "note": "Gorgeous and overreaching in equal measure. The docking scene and the score do most of the lifting.",
+   "art": "img/art/interstellar-christopher-nolan.jpg?v=06325528",
+   "imdb": 8.7,
+   "rt": 73,
+   "mc": 74,
+   "imdbid": "tt0816692"
+  },
+  {
+   "slug": "tenet-christopher-nolan",
+   "title": "Tenet",
+   "kind": "film",
+   "region": "world",
+   "by": "Christopher Nolan",
+   "year": 2020,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "nolan",
+    "sci-fi",
+    "time",
+    "puzzle"
+   ],
+   "note": "Technically astonishing and emotionally inert. You spend the whole film solving it rather than watching it.",
+   "art": "img/art/tenet-christopher-nolan.jpg?v=28ab9221",
+   "imdb": 7.3,
+   "rt": 70,
+   "mc": 69,
+   "imdbid": "tt6723592"
+  },
+  {
+   "slug": "dunkirk-christopher-nolan",
+   "title": "Dunkirk",
+   "kind": "film",
+   "region": "world",
+   "by": "Christopher Nolan",
+   "year": 2017,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "nolan",
+    "war",
+    "survival",
+    "tension"
+   ],
+   "note": "The war one. Three timelines squeezed into one long held breath, more experiment than drama.",
+   "art": "img/art/dunkirk-christopher-nolan.jpg?v=8b5dab9d",
+   "imdb": 7.8,
+   "rt": 92,
+   "mc": 94,
+   "imdbid": "tt5013056"
+  },
+  {
+   "slug": "insomnia-christopher-nolan",
+   "title": "Insomnia",
+   "kind": "film",
+   "region": "world",
+   "by": "Christopher Nolan",
+   "year": 2002,
+   "status": "done",
+   "must": false,
+   "rating": "decent",
+   "tags": [
+    "nolan",
+    "thriller",
+    "remake",
+    "alaska"
+   ],
+   "note": "Mid. Pacino and Williams are worth watching and the film around them never quite wakes up.",
+   "art": "img/art/insomnia-christopher-nolan.jpg?v=5ad035c4",
+   "imdb": 7.2,
+   "rt": 92,
+   "mc": 78,
+   "imdbid": "tt0278504"
+  },
+  {
+   "slug": "oppenheimer-christopher-nolan",
+   "title": "Oppenheimer",
+   "kind": "film",
+   "region": "world",
+   "by": "Christopher Nolan",
+   "year": 2023,
+   "status": "shelf",
+   "must": false,
+   "rating": "unrated",
+   "tags": [
+    "nolan",
+    "biopic",
+    "history",
+    "shelf"
+   ],
+   "note": "Not watched yet.",
+   "art": "img/art/oppenheimer-christopher-nolan.jpg?v=cc15a3d8",
+   "imdb": 8.2,
+   "rt": 93,
+   "mc": 90,
+   "imdbid": "tt15398776"
+  },
+  {
+   "slug": "it-follows-david-robert-mitchell",
+   "title": "It Follows",
+   "kind": "film",
+   "region": "world",
+   "by": "David Robert Mitchell",
+   "year": 2014,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "horror",
+    "indie",
+    "score",
+    "carpenter",
+    "must-watch"
+   ],
+   "note": "Amazing, and the score is half of why. A Carpenter tribute that stands entirely on its own legs.",
+   "art": "img/art/it-follows-david-robert-mitchell.jpg?v=a68ffca3",
+   "imdb": 6.8,
+   "rt": 95,
+   "mc": 83,
+   "imdbid": "tt3235888"
+  },
+  {
+   "slug": "let-the-right-one-in-tomas-alfredson",
+   "title": "Let the Right One In",
+   "kind": "film",
+   "region": "world",
+   "by": "Tomas Alfredson",
+   "year": 2008,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "horror",
+    "vampire",
+    "swedish",
+    "childhood",
+    "original",
+    "must-watch"
+   ],
+   "note": "The Scandinavian original, and brilliant on visuals. Unsettling and genuinely beautiful about bullying and childhood at the same time.",
+   "art": "img/art/let-the-right-one-in-tomas-alfredson.jpg?v=ee0fc0e8",
+   "imdb": 7.8,
+   "rt": 98,
+   "mc": 82,
+   "imdbid": "tt1139797"
+  },
+  {
+   "slug": "talk-to-me-danny-philippou-michael-philippou",
+   "title": "Talk to Me",
+   "kind": "film",
+   "region": "world",
+   "by": "Danny Philippou, Michael Philippou",
+   "year": 2022,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "horror",
+    "australian",
+    "modern",
+    "stylish",
+    "must-watch"
+   ],
+   "note": "A great way to make a horror film. Slick, stylish, modern, and it never coasts on the gimmick.",
+   "art": "img/art/talk-to-me-danny-philippou-michael-philippou.jpg?v=d6968e2f",
+   "imdb": 7.1,
+   "rt": null,
+   "mc": 76,
+   "imdbid": "tt10638522"
+  },
+  {
+   "slug": "bring-her-back-danny-philippou-michael-philippou",
+   "title": "Bring Her Back",
+   "kind": "film",
+   "region": "world",
+   "by": "Danny Philippou, Michael Philippou",
+   "year": 2025,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "horror",
+    "australian",
+    "grief",
+    "unsettling",
+    "must-watch"
+   ],
+   "note": "The follow up, and properly unsettling. More of a two than Talk to Me but still worth your time.",
+   "art": "img/art/bring-her-back-danny-philippou-michael-philippou.jpg?v=1dd89a01",
+   "imdb": 7.1,
+   "rt": 89,
+   "mc": 75,
+   "flag": "you were not sure of the title, this is the Philippou brothers' 2025 one",
+   "imdbid": "tt32246771"
+  },
+  {
+   "slug": "audition-takashi-miike",
+   "title": "Audition",
+   "kind": "film",
+   "region": "world",
+   "by": "Takashi Miike",
+   "year": 1999,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "horror",
+    "japanese",
+    "slow-burn",
+    "unsettling",
+    "must-watch"
+   ],
+   "note": "Massively unsettling, and it earns it by making you wait. The first hour is a different film entirely, which is the trap.",
+   "art": "img/art/audition-takashi-miike.jpg?v=a2c4d3a0",
+   "imdb": 7.1,
+   "rt": 81,
+   "mc": 70,
+   "imdbid": "tt0235198"
+  },
+  {
+   "slug": "oldboy-park-chan-wook",
+   "title": "Oldboy",
+   "kind": "film",
+   "region": "world",
+   "by": "Park Chan-wook",
+   "year": 2003,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "korean",
+    "thriller",
+    "revenge",
+    "unsettling",
+    "must-watch"
+   ],
+   "note": "Just as unsettling and just as good. The corridor fight, the ending, all of it still lands.",
+   "art": "img/art/oldboy-park-chan-wook.jpg?v=5245cf01",
+   "imdb": 8.3,
+   "rt": 82,
+   "mc": 78,
+   "imdbid": "tt0364569"
+  },
+  {
+   "slug": "hereditary-ari-aster",
+   "title": "Hereditary",
+   "kind": "film",
+   "region": "world",
+   "by": "Ari Aster",
+   "year": 2018,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "horror",
+    "aster",
+    "grief",
+    "dread"
+   ],
+   "note": "A two. Extremely well made and it never quite justifies how unpleasant it is.",
+   "art": "img/art/hereditary-ari-aster.jpg?v=f46c8772",
+   "imdb": 7.3,
+   "rt": 90,
+   "mc": 87,
+   "imdbid": "tt7784604"
+  },
+  {
+   "slug": "midsommar-ari-aster",
+   "title": "Midsommar",
+   "kind": "film",
+   "region": "world",
+   "by": "Ari Aster",
+   "year": 2019,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "horror",
+    "aster",
+    "folk-horror",
+    "daylight"
+   ],
+   "note": "Same as Hereditary, a two. Beautiful to look at and much too long for what it has to say.",
+   "art": "img/art/midsommar-ari-aster.jpg?v=d95dab96",
+   "imdb": 7.1,
+   "rt": 83,
+   "mc": 72,
+   "imdbid": "tt8772262"
+  },
+  {
+   "slug": "parasite-bong-joon-ho",
+   "title": "Parasite",
+   "kind": "film",
+   "region": "world",
+   "by": "Bong Joon-ho",
+   "year": 2019,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "korean",
+    "class",
+    "satire",
+    "thriller"
+   ],
+   "note": "A two. Immaculately built and a little too pleased with the metaphor.",
+   "art": "img/art/parasite-bong-joon-ho.jpg?v=0ec2583f",
+   "imdb": 8.5,
+   "rt": 99,
+   "mc": 97,
+   "imdbid": "tt6751668"
+  },
+  {
+   "slug": "memories-of-murder-bong-joon-ho",
+   "title": "Memories of Murder",
+   "kind": "film",
+   "region": "world",
+   "by": "Bong Joon-ho",
+   "year": 2003,
+   "status": "done",
+   "must": false,
+   "rating": "decent",
+   "tags": [
+    "korean",
+    "procedural",
+    "true-crime",
+    "open-ended"
+   ],
+   "note": "Good technique, low on the entertainment quotient. Zodiac is open ended too and is the better film.",
+   "art": "img/art/memories-of-murder-bong-joon-ho.jpg?v=bb86e07b",
+   "imdb": 8.1,
+   "rt": null,
+   "mc": 82,
+   "imdbid": "tt0353969"
+  },
+  {
+   "slug": "don-t-breathe-fede-alvarez",
+   "title": "Don't Breathe",
+   "kind": "film",
+   "region": "world",
+   "by": "Fede Alvarez",
+   "year": 2016,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "horror",
+    "thriller",
+    "home-invasion",
+    "entertainer"
+   ],
+   "note": "A great entertainer. One house, one very bad idea, and it moves.",
+   "art": "img/art/don-t-breathe-fede-alvarez.jpg?v=50557b5c",
+   "imdb": 7.1,
+   "rt": 88,
+   "mc": 71,
+   "imdbid": "tt4160708"
+  },
+  {
+   "slug": "don-t-breathe-2-rodo-sayagues",
+   "title": "Don't Breathe 2",
+   "kind": "film",
+   "region": "world",
+   "by": "Rodo Sayagues",
+   "year": 2021,
+   "status": "done",
+   "must": false,
+   "rating": "decent",
+   "tags": [
+    "horror",
+    "thriller",
+    "sequel"
+   ],
+   "note": "Still entertaining, just not worth the time. A one.",
+   "art": "img/art/don-t-breathe-2-rodo-sayagues.jpg?v=de307ff4",
+   "imdb": 6.0,
+   "rt": null,
+   "mc": 46,
+   "imdbid": "tt6246322"
+  },
+  {
+   "slug": "sisu-jalmari-helander",
+   "title": "Sisu",
+   "kind": "film",
+   "region": "world",
+   "by": "Jalmari Helander",
+   "year": 2022,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "action",
+    "finnish",
+    "war",
+    "cinematography",
+    "grit",
+    "must-watch"
+   ],
+   "note": "Brilliant action, and worth it for the cinematography alone. Beautiful Finnish grit and almost no dialogue.",
+   "art": "img/art/sisu-jalmari-helander.jpg?v=604805f9",
+   "imdb": 6.9,
+   "rt": 94,
+   "mc": 70,
+   "imdbid": "tt14846026"
+  },
+  {
+   "slug": "sisu-road-to-revenge-jalmari-helander",
+   "title": "Sisu: Road to Revenge",
+   "kind": "film",
+   "region": "world",
+   "by": "Jalmari Helander",
+   "year": 2025,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "action",
+    "finnish",
+    "sequel",
+    "cinematography",
+    "must-watch"
+   ],
+   "note": "A two rather than a three, and still shot beautifully. Same grit, slightly less surprise.",
+   "art": "img/art/sisu-road-to-revenge-jalmari-helander.jpg?v=8ac2ccc8",
+   "imdb": 6.8,
+   "rt": 93,
+   "mc": 76,
+   "imdbid": "tt31844586"
+  },
+  {
+   "slug": "the-silence-of-the-lambs-jonathan-demme",
+   "title": "The Silence of the Lambs",
+   "kind": "film",
+   "region": "world",
+   "by": "Jonathan Demme",
+   "year": 1991,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "thriller",
+    "serial-killer",
+    "procedural",
+    "must-watch"
+   ],
+   "note": "Obviously a three. Thrilling and visceral, and it rewards going back again and again.",
+   "art": "img/art/the-silence-of-the-lambs-jonathan-demme.jpg?v=26786e02",
+   "imdb": 8.6,
+   "rt": 95,
+   "mc": 86,
+   "imdbid": "tt0102926"
+  },
+  {
+   "slug": "heat-michael-mann",
+   "title": "Heat",
+   "kind": "film",
+   "region": "world",
+   "by": "Michael Mann",
+   "year": 1995,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "michael-mann",
+    "crime",
+    "heist",
+    "la",
+    "stylish"
+   ],
+   "note": "Remarkably modern for its age. Mann shooting a city at night better than anyone before or since.",
+   "art": "img/art/heat-michael-mann.jpg?v=030f6b3a",
+   "imdb": 8.3,
+   "rt": 84,
+   "mc": 76,
+   "imdbid": "tt0113277"
+  },
+  {
+   "slug": "manhunter-michael-mann",
+   "title": "Manhunter",
+   "kind": "film",
+   "region": "world",
+   "by": "Michael Mann",
+   "year": 1986,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "michael-mann",
+    "thriller",
+    "serial-killer",
+    "stylish",
+    "lecter"
+   ],
+   "note": "The same remarkable modernity, and the first Lecter on screen. Cold, blue, and years ahead of itself.",
+   "art": "img/art/manhunter-michael-mann.jpg?v=35b7669f",
+   "imdb": 7.2,
+   "rt": 90,
+   "mc": 75,
+   "flag": "you said Red Dragon by Mann. Mann's version is Manhunter (1986); Red Dragon (2002) is Brett Ratner. Say the word and I will swap or add it.",
+   "imdbid": "tt0091474"
+  },
+  {
+   "slug": "the-bourne-identity-doug-liman",
+   "title": "The Bourne Identity",
+   "kind": "film",
+   "region": "world",
+   "by": "Doug Liman",
+   "year": 2002,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "spy",
+    "action",
+    "thriller",
+    "bourne",
+    "must-watch"
+   ],
+   "note": "The one that reset the whole genre. Grounded, fast, and it still holds up.",
+   "art": "img/art/the-bourne-identity-doug-liman.jpg?v=c2bf9fbe",
+   "imdb": 7.8,
+   "rt": 84,
+   "mc": 68,
+   "imdbid": "tt0258463"
+  },
+  {
+   "slug": "the-bourne-supremacy-paul-greengrass",
+   "title": "The Bourne Supremacy",
+   "kind": "film",
+   "region": "world",
+   "by": "Paul Greengrass",
+   "year": 2004,
+   "status": "done",
+   "must": false,
+   "rating": "decent",
+   "tags": [
+    "spy",
+    "action",
+    "thriller",
+    "bourne",
+    "sequel"
+   ],
+   "note": "The middle one, and the weakest. A one.",
+   "art": "img/art/the-bourne-supremacy-paul-greengrass.jpg?v=723ca36a",
+   "imdb": 7.7,
+   "rt": 81,
+   "mc": 73,
+   "imdbid": "tt0372183"
+  },
+  {
+   "slug": "the-bourne-ultimatum-paul-greengrass",
+   "title": "The Bourne Ultimatum",
+   "kind": "film",
+   "region": "world",
+   "by": "Paul Greengrass",
+   "year": 2007,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "spy",
+    "action",
+    "thriller",
+    "bourne",
+    "must-watch"
+   ],
+   "note": "Back up to a two and the best set pieces of the three. Waterloo station alone.",
+   "art": "img/art/the-bourne-ultimatum-paul-greengrass.jpg?v=db8b28f6",
+   "imdb": 8.0,
+   "rt": 92,
+   "mc": 85,
+   "imdbid": "tt0440963"
+  },
+  {
+   "slug": "my-cousin-vinny-jonathan-lynn",
+   "title": "My Cousin Vinny",
+   "kind": "film",
+   "region": "world",
+   "by": "Jonathan Lynn",
+   "year": 1992,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "comedy",
+    "courtroom",
+    "rewatchable",
+    "must-watch"
+   ],
+   "note": "Immense rewatchability and a brilliant, brilliant film. Essentially a textbook on how feel good movies should be made. What a movie.",
+   "art": "img/art/my-cousin-vinny-jonathan-lynn.jpg?v=56cd1b95",
+   "imdb": 7.6,
+   "rt": 85,
+   "mc": 68,
+   "imdbid": "tt0104952"
+  },
+  {
+   "slug": "the-big-lebowski-joel-coen-ethan-coen",
+   "title": "The Big Lebowski",
+   "kind": "film",
+   "region": "world",
+   "by": "Joel Coen, Ethan Coen",
+   "year": 1998,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "coens",
+    "comedy",
+    "cult",
+    "rewatchable",
+    "must-watch"
+   ],
+   "note": "The same immense rewatchability. Nothing happens and every scene is quotable.",
+   "art": "img/art/the-big-lebowski-joel-coen-ethan-coen.jpg?v=fd90d748",
+   "imdb": 8.1,
+   "rt": 79,
+   "mc": 71,
+   "imdbid": "tt0118715"
+  },
+  {
+   "slug": "good-will-hunting-gus-van-sant",
+   "title": "Good Will Hunting",
+   "kind": "film",
+   "region": "world",
+   "by": "Gus Van Sant",
+   "year": 1997,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "drama",
+    "boston",
+    "williams"
+   ],
+   "note": "A two. Williams is genuinely great and the rest is more sentimental than it admits.",
+   "art": "img/art/good-will-hunting-gus-van-sant.jpg?v=402e0018",
+   "imdb": 8.4,
+   "rt": 97,
+   "mc": 71,
+   "imdbid": "tt0119217"
+  },
+  {
+   "slug": "argo-ben-affleck",
+   "title": "Argo",
+   "kind": "film",
+   "region": "world",
+   "by": "Ben Affleck",
+   "year": 2012,
+   "status": "done",
+   "must": false,
+   "rating": "decent",
+   "tags": [
+    "thriller",
+    "true-story",
+    "entertainer"
+   ],
+   "note": "A good entertainer, not worth the time. A one.",
+   "art": "img/art/argo-ben-affleck.jpg?v=9d39ef89",
+   "imdb": 7.7,
+   "rt": 96,
+   "mc": 86,
+   "imdbid": "tt1024648"
   },
   {
    "slug": "iratta-rohit-m-g-krishnan",
@@ -1825,6 +2597,150 @@
    "imdbid": "tt9010522"
   },
   {
+   "slug": "bhoothakalam-rahul-sadasivan",
+   "title": "Bhoothakalam",
+   "kind": "film",
+   "region": "indian",
+   "by": "Rahul Sadasivan",
+   "year": 2022,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "malayalam",
+    "horror",
+    "mental-health",
+    "performances",
+    "recent-watch"
+   ],
+   "note": "Brilliant in its performances, and in how it finds horror in ordinary daily life. The portrayal of mental health is the real subject and it is handled well.",
+   "art": "img/art/bhoothakalam-rahul-sadasivan.jpg?v=0da5792b",
+   "imdb": 7.5,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt15560626"
+  },
+  {
+   "slug": "queen-vikas-bahl",
+   "title": "Queen",
+   "kind": "film",
+   "region": "indian",
+   "by": "Vikas Bahl",
+   "year": 2013,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "comedy",
+    "drama",
+    "travel",
+    "must-watch"
+   ],
+   "note": "A must watch. Kangana carries the whole thing and the film never condescends to her.",
+   "art": "img/art/queen-vikas-bahl.jpg?v=7bdc3771",
+   "imdb": 8.1,
+   "rt": 90,
+   "mc": null,
+   "imdbid": "tt3322420"
+  },
+  {
+   "slug": "masaan-neeraj-ghaywan",
+   "title": "Masaan",
+   "kind": "film",
+   "region": "indian",
+   "by": "Neeraj Ghaywan",
+   "year": 2015,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "drama",
+    "caste",
+    "banaras",
+    "writing",
+    "realism"
+   ],
+   "note": "Brilliant writing and authentic performances, with social commentary that never turns into a lecture. Quietly one of the best of its decade.",
+   "art": "img/art/masaan-neeraj-ghaywan.jpg?v=b87f7b6c",
+   "imdb": 8.1,
+   "rt": 93,
+   "mc": null,
+   "imdbid": "tt4635372"
+  },
+  {
+   "slug": "omkara-vishal-bhardwaj",
+   "title": "Omkara",
+   "kind": "film",
+   "region": "indian",
+   "by": "Vishal Bhardwaj",
+   "year": 2006,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "adaptation",
+    "shakespeare",
+    "performances"
+   ],
+   "note": "Saif is extraordinary in it, the best thing he has done. Naseeruddin Shah has barely any screen time and is unforgettable anyway.",
+   "art": "img/art/omkara-vishal-bhardwaj.jpg?v=1cf1b060",
+   "imdb": 8.0,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt0488414"
+  },
+  {
+   "slug": "laal-kaptaan-navdeep-singh",
+   "title": "Laal Kaptaan",
+   "kind": "film",
+   "region": "indian",
+   "by": "Navdeep Singh",
+   "year": 2019,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "western",
+    "revenge",
+    "cinematography",
+    "saif"
+   ],
+   "note": "Saif is very good and the cinematography is better. A strange, dusty film that did not find its audience.",
+   "art": "img/art/laal-kaptaan-navdeep-singh.jpg?v=7506a20e",
+   "imdb": 7.2,
+   "rt": 11,
+   "mc": null,
+   "imdbid": "tt9052960"
+  },
+  {
+   "slug": "manorama-six-feet-under-navdeep-singh",
+   "title": "Manorama Six Feet Under",
+   "kind": "film",
+   "region": "indian",
+   "by": "Navdeep Singh",
+   "year": 2007,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "neo-noir",
+    "rajasthan",
+    "thriller",
+    "must-watch"
+   ],
+   "note": "The Abhay Deol one, and a good one. Chinatown relocated to small town Rajasthan and it works better than it has any right to.",
+   "art": "img/art/manorama-six-feet-under-navdeep-singh.jpg?v=f0b310d6",
+   "imdb": 7.5,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt0920464"
+  },
+  {
    "slug": "severance-dan-erickson-ben-stiller",
    "title": "Severance",
    "kind": "tv",
@@ -2334,6 +3250,290 @@
    "rt": null,
    "mc": null,
    "imdbid": "tt3322312"
+  },
+  {
+   "slug": "the-bureau-eric-rochant",
+   "title": "The Bureau",
+   "kind": "tv",
+   "region": "world",
+   "by": "Eric Rochant",
+   "year": 2015,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "spy",
+    "french",
+    "character-study",
+    "authentic",
+    "must-watch"
+   ],
+   "note": "It ropes you in emotionally and does not let go. The character work is exceptional and the depiction of the trade is as close to authentic as the genre gets.",
+   "art": "img/art/the-bureau-eric-rochant.jpg?v=acfa30c0",
+   "imdb": 8.7,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt4063800"
+  },
+  {
+   "slug": "broadchurch-chris-chibnall",
+   "title": "Broadchurch",
+   "kind": "tv",
+   "region": "world",
+   "by": "Chris Chibnall",
+   "year": 2013,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "crime",
+    "british",
+    "grief",
+    "procedural"
+   ],
+   "note": "A two. The first season is the one, and the town does as much work as the case.",
+   "art": "img/art/broadchurch-chris-chibnall.jpg?v=64f7f235",
+   "imdb": 8.3,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt2249364"
+  },
+  {
+   "slug": "bodyguard-jed-mercurio",
+   "title": "Bodyguard",
+   "kind": "tv",
+   "region": "world",
+   "by": "Jed Mercurio",
+   "year": 2018,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "thriller",
+    "british",
+    "entertainer",
+    "performances"
+   ],
+   "note": "A mass entertainer with great performances. A two, and it knows exactly what it is.",
+   "art": "img/art/bodyguard-jed-mercurio.jpg?v=e7e08a92",
+   "imdb": 8.0,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt7493974"
+  },
+  {
+   "slug": "tehran-moshe-zonder-dana-eden",
+   "title": "Tehran",
+   "kind": "tv",
+   "region": "world",
+   "by": "Moshe Zonder, Dana Eden",
+   "year": 2020,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "spy",
+    "israeli",
+    "thriller",
+    "performances",
+    "apple-tv"
+   ],
+   "note": "The performances carry it, and the sense of place is genuinely good. Tense without needing to shout.",
+   "art": "img/art/tehran-moshe-zonder-dana-eden.jpg?v=ad44dcd2",
+   "imdb": 7.6,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt10577736"
+  },
+  {
+   "slug": "sacred-games-vikramaditya-motwane-anurag-kashyap",
+   "title": "Sacred Games",
+   "kind": "tv",
+   "region": "indian",
+   "by": "Vikramaditya Motwane, Anurag Kashyap",
+   "year": 2018,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "crime",
+    "netflix",
+    "bombay",
+    "must-watch"
+   ],
+   "note": "A two, and still a must watch for what it was. India's first real foray onto the global stage in the Netflix series format.",
+   "art": "img/art/sacred-games-vikramaditya-motwane-anurag-kashyap.jpg?v=8792f675",
+   "imdb": 8.5,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt6077448"
+  },
+  {
+   "slug": "asur-oni-sen",
+   "title": "Asur",
+   "kind": "tv",
+   "region": "indian",
+   "by": "Oni Sen",
+   "year": 2020,
+   "status": "done",
+   "must": false,
+   "rating": "essential",
+   "tags": [
+    "hindi",
+    "thriller",
+    "crime",
+    "bingeable",
+    "procedural"
+   ],
+   "note": "It has its flaws and it is brilliantly put together anyway. A thriller that will not stop entertaining you, and you will want to binge it.",
+   "art": "img/art/asur-oni-sen.jpg?v=ea8d1787",
+   "imdb": 8.5,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt11912196"
+  },
+  {
+   "slug": "paatal-lok-sudip-sharma",
+   "title": "Paatal Lok",
+   "kind": "tv",
+   "region": "indian",
+   "by": "Sudip Sharma",
+   "year": 2020,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "crime",
+    "gritty",
+    "caste",
+    "must-watch"
+   ],
+   "note": "Gritty in a way Indian television usually is not. A two and a must watch.",
+   "art": "img/art/paatal-lok-sudip-sharma.jpg?v=af933a52",
+   "imdb": 8.1,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt9680440"
+  },
+  {
+   "slug": "decoupled-manu-joseph",
+   "title": "Decoupled",
+   "kind": "tv",
+   "region": "indian",
+   "by": "Manu Joseph",
+   "year": 2021,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "comedy",
+    "satire",
+    "madhavan",
+    "must-watch"
+   ],
+   "note": "A good one, and still a must watch. Madhavan playing a man nobody should like and getting away with it.",
+   "art": "img/art/decoupled-manu-joseph.jpg?v=7b707ed4",
+   "imdb": 7.9,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt14167338"
+  },
+  {
+   "slug": "the-ba-ds-of-bollywood-aryan-khan",
+   "title": "The Ba***ds of Bollywood",
+   "kind": "tv",
+   "region": "indian",
+   "by": "Aryan Khan",
+   "year": 2025,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "comedy",
+    "satire",
+    "masala",
+    "entertainer",
+    "recent-watch"
+   ],
+   "note": "A masala entertainer and perfectly happy being one. A two.",
+   "art": "img/art/the-ba-ds-of-bollywood-aryan-khan.jpg?v=35232638",
+   "imdb": 7.7,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt34683290"
+  },
+  {
+   "slug": "scam-1992-hansal-mehta",
+   "title": "Scam 1992",
+   "kind": "tv",
+   "region": "indian",
+   "by": "Hansal Mehta",
+   "year": 2020,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "finance",
+    "true-story",
+    "performances",
+    "technical"
+   ],
+   "note": "The lead performance and the technical work are both excellent. A solid two, not a must watch.",
+   "art": "img/art/scam-1992-hansal-mehta.jpg?v=dc591d54",
+   "imdb": 9.2,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt12392504"
+  },
+  {
+   "slug": "mirzapur-karan-anshuman-puneet-krishna",
+   "title": "Mirzapur",
+   "kind": "tv",
+   "region": "indian",
+   "by": "Karan Anshuman, Puneet Krishna",
+   "year": 2018,
+   "status": "done",
+   "must": false,
+   "rating": "decent",
+   "tags": [
+    "hindi",
+    "crime",
+    "gangster"
+   ],
+   "note": "Has some good bits and is not worth the time. A one.",
+   "art": "img/art/mirzapur-karan-anshuman-puneet-krishna.jpg?v=1196befb",
+   "imdb": 8.4,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt6473300"
+  },
+  {
+   "slug": "tanaav-sudhir-mishra-sachin-krishn",
+   "title": "Tanaav",
+   "kind": "tv",
+   "region": "indian",
+   "by": "Sudhir Mishra, Sachin Krishn",
+   "year": 2022,
+   "status": "done",
+   "must": false,
+   "rating": "decent",
+   "tags": [
+    "hindi",
+    "adaptation",
+    "thriller",
+    "kashmir"
+   ],
+   "note": "Decent work adapting Fauda and it does not live up to the potential. A one.",
+   "art": "img/art/tanaav-sudhir-mishra-sachin-krishn.jpg?v=0cee15b3",
+   "imdb": 7.8,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt21916016"
   },
   {
    "slug": "your-erroneous-zones-wayne-dyer",
@@ -3491,47 +4691,79 @@
  "facets": {
   "tags": [
    {
-    "tag": "hindi",
-    "count": 29
-   },
-   {
     "tag": "thriller",
-    "count": 26
+    "count": 43
    },
    {
-    "tag": "crime",
-    "count": 23
-   },
-   {
-    "tag": "shelf",
-    "count": 23
+    "tag": "hindi",
+    "count": 42
    },
    {
     "tag": "must-watch",
-    "count": 20
+    "count": 41
+   },
+   {
+    "tag": "crime",
+    "count": 30
+   },
+   {
+    "tag": "shelf",
+    "count": 24
    },
    {
     "tag": "comedy",
+    "count": 22
+   },
+   {
+    "tag": "action",
     "count": 17
    },
    {
     "tag": "realism",
-    "count": 15
+    "count": 16
    },
    {
     "tag": "fincher",
     "count": 13
    },
    {
-    "tag": "action",
-    "count": 12
+    "tag": "horror",
+    "count": 13
+   },
+   {
+    "tag": "procedural",
+    "count": 11
+   },
+   {
+    "tag": "recent-watch",
+    "count": 11
+   },
+   {
+    "tag": "drama",
+    "count": 10
    },
    {
     "tag": "tarantino",
     "count": 10
    },
    {
-    "tag": "recent-watch",
+    "tag": "entertainer",
+    "count": 9
+   },
+   {
+    "tag": "nolan",
+    "count": 9
+   },
+   {
+    "tag": "revenge",
+    "count": 9
+   },
+   {
+    "tag": "satire",
+    "count": 9
+   },
+   {
+    "tag": "sequel",
     "count": 9
    },
    {
@@ -3543,19 +4775,23 @@
     "count": 8
    },
    {
+    "tag": "british",
+    "count": 8
+   },
+   {
+    "tag": "performances",
+    "count": 8
+   },
+   {
     "tag": "philosophy",
     "count": 8
    },
    {
-    "tag": "drama",
-    "count": 7
+    "tag": "spy",
+    "count": 8
    },
    {
     "tag": "english",
-    "count": 7
-   },
-   {
-    "tag": "procedural",
     "count": 7
    },
    {
@@ -3563,12 +4799,8 @@
     "count": 7
    },
    {
-    "tag": "revenge",
+    "tag": "sci-fi",
     "count": 7
-   },
-   {
-    "tag": "british",
-    "count": 6
    },
    {
     "tag": "dibakar",
@@ -3587,19 +4819,19 @@
     "count": 6
    },
    {
-    "tag": "satire",
-    "count": 6
-   },
-   {
-    "tag": "sequel",
-    "count": 6
-   },
-   {
     "tag": "twist",
     "count": 6
    },
    {
+    "tag": "adaptation",
+    "count": 5
+   },
+   {
     "tag": "choreography",
+    "count": 5
+   },
+   {
+    "tag": "cinematography",
     "count": 5
    },
    {
@@ -3611,10 +4843,6 @@
     "count": 5
    },
    {
-    "tag": "entertainer",
-    "count": 5
-   },
-   {
     "tag": "family",
     "count": 5
    },
@@ -3623,7 +4851,23 @@
     "count": 5
    },
    {
+    "tag": "heist",
+    "count": 5
+   },
+   {
+    "tag": "history",
+    "count": 5
+   },
+   {
+    "tag": "malayalam",
+    "count": 5
+   },
+   {
     "tag": "must-read",
+    "count": 5
+   },
+   {
+    "tag": "netflix",
     "count": 5
    },
    {
@@ -3639,8 +4883,32 @@
     "count": 5
    },
    {
+    "tag": "romance",
+    "count": 5
+   },
+   {
+    "tag": "slow-burn",
+    "count": 5
+   },
+   {
+    "tag": "true-crime",
+    "count": 5
+   },
+   {
     "tag": "visual-storytelling",
     "count": 5
+   },
+   {
+    "tag": "batman",
+    "count": 4
+   },
+   {
+    "tag": "caste",
+    "count": 4
+   },
+   {
+    "tag": "class",
+    "count": 4
    },
    {
     "tag": "debut",
@@ -3655,15 +4923,15 @@
     "count": 4
    },
    {
+    "tag": "grief",
+    "count": 4
+   },
+   {
     "tag": "gun-fu",
     "count": 4
    },
    {
     "tag": "health",
-    "count": 4
-   },
-   {
-    "tag": "history",
     "count": 4
    },
    {
@@ -3675,15 +4943,15 @@
     "count": 4
    },
    {
-    "tag": "malayalam",
-    "count": 4
-   },
-   {
     "tag": "mind-body",
     "count": 4
    },
    {
-    "tag": "netflix",
+    "tag": "neo-noir",
+    "count": 4
+   },
+   {
+    "tag": "original",
     "count": 4
    },
    {
@@ -3695,19 +4963,15 @@
     "count": 4
    },
    {
-    "tag": "romance",
+    "tag": "serial-killer",
     "count": 4
    },
    {
-    "tag": "sci-fi",
+    "tag": "technical",
     "count": 4
    },
    {
-    "tag": "slow-burn",
-    "count": 4
-   },
-   {
-    "tag": "true-crime",
+    "tag": "western",
     "count": 4
    },
    {
@@ -3715,15 +4979,19 @@
     "count": 4
    },
    {
-    "tag": "adaptation",
-    "count": 3
-   },
-   {
     "tag": "american",
     "count": 3
    },
    {
-    "tag": "class",
+    "tag": "bombay",
+    "count": 3
+   },
+   {
+    "tag": "bourne",
+    "count": 3
+   },
+   {
+    "tag": "character-study",
     "count": 3
    },
    {
@@ -3735,6 +5003,10 @@
     "count": 3
    },
    {
+    "tag": "cult",
+    "count": 3
+   },
+   {
     "tag": "formative",
     "count": 3
    },
@@ -3743,11 +5015,11 @@
     "count": 3
    },
    {
-    "tag": "heist",
+    "tag": "hollywood",
     "count": 3
    },
    {
-    "tag": "hollywood",
+    "tag": "korean",
     "count": 3
    },
    {
@@ -3759,11 +5031,7 @@
     "count": 3
    },
    {
-    "tag": "neo-noir",
-    "count": 3
-   },
-   {
-    "tag": "original",
+    "tag": "nonlinear",
     "count": 3
    },
    {
@@ -3771,7 +5039,7 @@
     "count": 3
    },
    {
-    "tag": "performances",
+    "tag": "remake",
     "count": 3
    },
    {
@@ -3779,15 +5047,15 @@
     "count": 3
    },
    {
+    "tag": "rewatchable",
+    "count": 3
+   },
+   {
     "tag": "rural",
     "count": 3
    },
    {
-    "tag": "spy",
-    "count": 3
-   },
-   {
-    "tag": "technical",
+    "tag": "stylish",
     "count": 3
    },
    {
@@ -3795,11 +5063,19 @@
     "count": 3
    },
    {
+    "tag": "true-story",
+    "count": 3
+   },
+   {
+    "tag": "unsettling",
+    "count": 3
+   },
+   {
     "tag": "victorian",
     "count": 3
    },
    {
-    "tag": "western",
+    "tag": "war",
     "count": 3
    },
    {
@@ -3807,7 +5083,15 @@
     "count": 2
    },
    {
-    "tag": "batman",
+    "tag": "apple-tv",
+    "count": 2
+   },
+   {
+    "tag": "aster",
+    "count": 2
+   },
+   {
+    "tag": "australian",
     "count": 2
    },
    {
@@ -3819,27 +5103,15 @@
     "count": 2
    },
    {
-    "tag": "bombay",
+    "tag": "boston",
     "count": 2
    },
    {
-    "tag": "caste",
-    "count": 2
-   },
-   {
-    "tag": "character-study",
-    "count": 2
-   },
-   {
-    "tag": "cinematography",
+    "tag": "coens",
     "count": 2
    },
    {
     "tag": "college-read",
-    "count": 2
-   },
-   {
-    "tag": "cult",
     "count": 2
    },
    {
@@ -3848,6 +5120,10 @@
    },
    {
     "tag": "dark-comedy",
+    "count": 2
+   },
+   {
+    "tag": "dread",
     "count": 2
    },
    {
@@ -3867,15 +5143,23 @@
     "count": 2
    },
    {
+    "tag": "finance",
+    "count": 2
+   },
+   {
+    "tag": "finnish",
+    "count": 2
+   },
+   {
+    "tag": "french",
+    "count": 2
+   },
+   {
     "tag": "greene",
     "count": 2
    },
    {
     "tag": "homage",
-    "count": 2
-   },
-   {
-    "tag": "horror",
     "count": 2
    },
    {
@@ -3895,15 +5179,15 @@
     "count": 2
    },
    {
+    "tag": "michael-mann",
+    "count": 2
+   },
+   {
     "tag": "music",
     "count": 2
    },
    {
     "tag": "noir",
-    "count": 2
-   },
-   {
-    "tag": "nonlinear",
     "count": 2
    },
    {
@@ -3923,7 +5207,7 @@
     "count": 2
    },
    {
-    "tag": "remake",
+    "tag": "rajasthan",
     "count": 2
    },
    {
@@ -3939,15 +5223,15 @@
     "count": 2
    },
    {
+    "tag": "score",
+    "count": 2
+   },
+   {
     "tag": "scorsese",
     "count": 2
    },
    {
     "tag": "self-help",
-    "count": 2
-   },
-   {
-    "tag": "serial-killer",
     "count": 2
    },
    {
@@ -3983,15 +5267,19 @@
     "count": 2
    },
    {
+    "tag": "travel",
+    "count": 2
+   },
+   {
     "tag": "60s",
     "count": 1
    },
    {
-    "tag": "70s",
+    "tag": "advaita",
     "count": 1
    },
    {
-    "tag": "advaita",
+    "tag": "alaska",
     "count": 1
    },
    {
@@ -4019,10 +5307,6 @@
     "count": 1
    },
    {
-    "tag": "apple-tv",
-    "count": 1
-   },
-   {
     "tag": "assamese",
     "count": 1
    },
@@ -4031,7 +5315,23 @@
     "count": 1
    },
    {
+    "tag": "authentic",
+    "count": 1
+   },
+   {
+    "tag": "banaras",
+    "count": 1
+   },
+   {
+    "tag": "bingeable",
+    "count": 1
+   },
+   {
     "tag": "biology",
+    "count": 1
+   },
+   {
+    "tag": "biopic",
     "count": 1
    },
    {
@@ -4044,10 +5344,6 @@
    },
    {
     "tag": "booker",
-    "count": 1
-   },
-   {
-    "tag": "boston",
     "count": 1
    },
    {
@@ -4075,7 +5371,11 @@
     "count": 1
    },
    {
-    "tag": "coens",
+    "tag": "carpenter",
+    "count": 1
+   },
+   {
+    "tag": "childhood",
     "count": 1
    },
    {
@@ -4100,6 +5400,10 @@
    },
    {
     "tag": "course",
+    "count": 1
+   },
+   {
+    "tag": "courtroom",
     "count": 1
    },
    {
@@ -4131,7 +5435,7 @@
     "count": 1
    },
    {
-    "tag": "de-palma",
+    "tag": "daylight",
     "count": 1
    },
    {
@@ -4151,11 +5455,11 @@
     "count": 1
    },
    {
-    "tag": "dread",
+    "tag": "dream-logic",
     "count": 1
    },
    {
-    "tag": "dream-logic",
+    "tag": "dreams",
     "count": 1
    },
    {
@@ -4199,7 +5503,7 @@
     "count": 1
    },
    {
-    "tag": "finance",
+    "tag": "folk-horror",
     "count": 1
    },
    {
@@ -4207,7 +5511,7 @@
     "count": 1
    },
    {
-    "tag": "french",
+    "tag": "gangster",
     "count": 1
    },
    {
@@ -4227,11 +5531,15 @@
     "count": 1
    },
    {
-    "tag": "grief",
+    "tag": "grindhouse",
     "count": 1
    },
    {
-    "tag": "grindhouse",
+    "tag": "grit",
+    "count": 1
+   },
+   {
+    "tag": "gritty",
     "count": 1
    },
    {
@@ -4251,10 +5559,6 @@
     "count": 1
    },
    {
-    "tag": "hitchcockian",
-    "count": 1
-   },
-   {
     "tag": "hitman",
     "count": 1
    },
@@ -4264,6 +5568,10 @@
    },
    {
     "tag": "holiday",
+    "count": 1
+   },
+   {
+    "tag": "home-invasion",
     "count": 1
    },
    {
@@ -4287,6 +5595,10 @@
     "count": 1
    },
    {
+    "tag": "indie",
+    "count": 1
+   },
+   {
     "tag": "integrity",
     "count": 1
    },
@@ -4299,11 +5611,27 @@
     "count": 1
    },
    {
+    "tag": "israeli",
+    "count": 1
+   },
+   {
+    "tag": "japanese",
+    "count": 1
+   },
+   {
+    "tag": "kashmir",
+    "count": 1
+   },
+   {
     "tag": "kerala",
     "count": 1
    },
    {
     "tag": "krishnamurti",
+    "count": 1
+   },
+   {
+    "tag": "la",
     "count": 1
    },
    {
@@ -4319,11 +5647,23 @@
     "count": 1
    },
    {
+    "tag": "lecter",
+    "count": 1
+   },
+   {
+    "tag": "ledger",
+    "count": 1
+   },
+   {
     "tag": "legal",
     "count": 1
    },
    {
     "tag": "lyrical",
+    "count": 1
+   },
+   {
+    "tag": "madhavan",
     "count": 1
    },
    {
@@ -4347,11 +5687,27 @@
     "count": 1
    },
    {
+    "tag": "masala",
+    "count": 1
+   },
+   {
     "tag": "masterpiece",
     "count": 1
    },
    {
+    "tag": "memory",
+    "count": 1
+   },
+   {
+    "tag": "mental-health",
+    "count": 1
+   },
+   {
     "tag": "middle-class",
+    "count": 1
+   },
+   {
+    "tag": "modern",
     "count": 1
    },
    {
@@ -4396,6 +5752,14 @@
    },
    {
     "tag": "one-night",
+    "count": 1
+   },
+   {
+    "tag": "open-ended",
+    "count": 1
+   },
+   {
+    "tag": "origin",
     "count": 1
    },
    {
@@ -4495,7 +5859,7 @@
     "count": 1
    },
    {
-    "tag": "rajasthan",
+    "tag": "puzzle",
     "count": 1
    },
    {
@@ -4507,15 +5871,15 @@
     "count": 1
    },
    {
-    "tag": "rewatchable",
-    "count": 1
-   },
-   {
     "tag": "risk",
     "count": 1
    },
    {
     "tag": "road-movie",
+    "count": 1
+   },
+   {
+    "tag": "saif",
     "count": 1
    },
    {
@@ -4543,6 +5907,10 @@
     "count": 1
    },
    {
+    "tag": "shakespeare",
+    "count": 1
+   },
+   {
     "tag": "small-town",
     "count": 1
    },
@@ -4552,6 +5920,10 @@
    },
    {
     "tag": "sorkin",
+    "count": 1
+   },
+   {
+    "tag": "space",
     "count": 1
    },
    {
@@ -4579,7 +5951,15 @@
     "count": 1
    },
    {
+    "tag": "survival",
+    "count": 1
+   },
+   {
     "tag": "suspense",
+    "count": 1
+   },
+   {
+    "tag": "swedish",
     "count": 1
    },
    {
@@ -4588,6 +5968,14 @@
    },
    {
     "tag": "tech",
+    "count": 1
+   },
+   {
+    "tag": "tension",
+    "count": 1
+   },
+   {
+    "tag": "time",
     "count": 1
    },
    {
@@ -4615,15 +6003,7 @@
     "count": 1
    },
    {
-    "tag": "travel",
-    "count": 1
-   },
-   {
     "tag": "troubled-production",
-    "count": 1
-   },
-   {
-    "tag": "true-story",
     "count": 1
    },
    {
@@ -4635,7 +6015,7 @@
     "count": 1
    },
    {
-    "tag": "war",
+    "tag": "vampire",
     "count": 1
    },
    {
@@ -4647,7 +6027,15 @@
     "count": 1
    },
    {
+    "tag": "williams",
+    "count": 1
+   },
+   {
     "tag": "workbook",
+    "count": 1
+   },
+   {
+    "tag": "writing",
     "count": 1
    }
   ],
@@ -4665,6 +6053,14 @@
     "name": "Quentin Tarantino",
     "slug": "quentin-tarantino",
     "count": 10,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Christopher Nolan",
+    "slug": "christopher-nolan",
+    "count": 9,
     "kinds": [
      "film"
     ]
@@ -4695,6 +6091,15 @@
     ]
    },
    {
+    "name": "Anurag Kashyap",
+    "slug": "anurag-kashyap",
+    "count": 5,
+    "kinds": [
+     "film",
+     "tv"
+    ]
+   },
+   {
     "name": "Malcolm Gladwell",
     "slug": "malcolm-gladwell",
     "count": 5,
@@ -4708,14 +6113,6 @@
     "count": 5,
     "kinds": [
      "book"
-    ]
-   },
-   {
-    "name": "Anurag Kashyap",
-    "slug": "anurag-kashyap",
-    "count": 4,
-    "kinds": [
-     "film"
     ]
    },
    {
@@ -4751,6 +6148,14 @@
     ]
    },
    {
+    "name": "Ari Aster",
+    "slug": "ari-aster",
+    "count": 2,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Ayn Rand",
     "slug": "ayn-rand",
     "count": 2,
@@ -4759,8 +6164,32 @@
     ]
    },
    {
+    "name": "Bong Joon-ho",
+    "slug": "bong-joon-ho",
+    "count": 2,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Danny Philippou",
+    "slug": "danny-philippou",
+    "count": 2,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "David Lynch",
     "slug": "david-lynch",
+    "count": 2,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Ethan Coen",
+    "slug": "ethan-coen",
     "count": 2,
     "kinds": [
      "film"
@@ -4775,8 +6204,24 @@
     ]
    },
    {
+    "name": "Jalmari Helander",
+    "slug": "jalmari-helander",
+    "count": 2,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Jeethu Joseph",
     "slug": "jeethu-joseph",
+    "count": 2,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Joel Coen",
+    "slug": "joel-coen",
     "count": 2,
     "kinds": [
      "film"
@@ -4791,11 +6236,43 @@
     ]
    },
    {
+    "name": "Michael Mann",
+    "slug": "michael-mann",
+    "count": 2,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Michael Philippou",
+    "slug": "michael-philippou",
+    "count": 2,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Nassim Nicholas Taleb",
     "slug": "nassim-nicholas-taleb",
     "count": 2,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Navdeep Singh",
+    "slug": "navdeep-singh",
+    "count": 2,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Paul Greengrass",
+    "slug": "paul-greengrass",
+    "count": 2,
+    "kinds": [
+     "film"
     ]
    },
    {
@@ -4887,6 +6364,14 @@
     ]
    },
    {
+    "name": "Aryan Khan",
+    "slug": "aryan-khan",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
     "name": "Ashtavakra",
     "slug": "ashtavakra",
     "count": 1,
@@ -4919,6 +6404,14 @@
     ]
    },
    {
+    "name": "Ben Affleck",
+    "slug": "ben-affleck",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Ben Stiller",
     "slug": "ben-stiller",
     "count": 1,
@@ -4943,19 +6436,27 @@
     ]
    },
    {
-    "name": "Brian De Palma",
-    "slug": "brian-de-palma",
-    "count": 1,
-    "kinds": [
-     "film"
-    ]
-   },
-   {
     "name": "Charles Bukowski",
     "slug": "charles-bukowski",
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Chris Chibnall",
+    "slug": "chris-chibnall",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Curry Barker",
+    "slug": "curry-barker",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {
@@ -4972,6 +6473,14 @@
     "count": 1,
     "kinds": [
      "film"
+    ]
+   },
+   {
+    "name": "Dana Eden",
+    "slug": "dana-eden",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -4999,6 +6508,14 @@
     ]
    },
    {
+    "name": "David Robert Mitchell",
+    "slug": "david-robert-mitchell",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Dennis Lehane",
     "slug": "dennis-lehane",
     "count": 1,
@@ -5007,8 +6524,24 @@
     ]
    },
    {
+    "name": "Doug Liman",
+    "slug": "doug-liman",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Drew Goddard",
     "slug": "drew-goddard",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Eric Rochant",
+    "slug": "eric-rochant",
     "count": 1,
     "kinds": [
      "tv"
@@ -5023,11 +6556,27 @@
     ]
    },
    {
-    "name": "Ethan Coen",
-    "slug": "ethan-coen",
+    "name": "Fede Alvarez",
+    "slug": "fede-alvarez",
     "count": 1,
     "kinds": [
      "film"
+    ]
+   },
+   {
+    "name": "Gus Van Sant",
+    "slug": "gus-van-sant",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Hansal Mehta",
+    "slug": "hansal-mehta",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -5044,6 +6593,14 @@
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Jed Mercurio",
+    "slug": "jed-mercurio",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -5079,14 +6636,6 @@
     ]
    },
    {
-    "name": "Joel Coen",
-    "slug": "joel-coen",
-    "count": 1,
-    "kinds": [
-     "film"
-    ]
-   },
-   {
     "name": "John C. Bogle",
     "slug": "john-c-bogle",
     "count": 1,
@@ -5103,6 +6652,22 @@
     ]
    },
    {
+    "name": "Jonathan Demme",
+    "slug": "jonathan-demme",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Jonathan Lynn",
+    "slug": "jonathan-lynn",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Kanu Behl",
     "slug": "kanu-behl",
     "count": 1,
@@ -5116,6 +6681,14 @@
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Karan Anshuman",
+    "slug": "karan-anshuman",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -5137,6 +6710,14 @@
    {
     "name": "Lauren LeFranc",
     "slug": "lauren-lefranc",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Manu Joseph",
+    "slug": "manu-joseph",
     "count": 1,
     "kinds": [
      "tv"
@@ -5183,6 +6764,22 @@
     ]
    },
    {
+    "name": "Moshe Zonder",
+    "slug": "moshe-zonder",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Neeraj Ghaywan",
+    "slug": "neeraj-ghaywan",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Nithilan Swaminathan",
     "slug": "nithilan-swaminathan",
     "count": 1,
@@ -5199,11 +6796,43 @@
     ]
    },
    {
+    "name": "Oni Sen",
+    "slug": "oni-sen",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Park Chan-wook",
+    "slug": "park-chan-wook",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Peter Gould",
     "slug": "peter-gould",
     "count": 1,
     "kinds": [
      "tv"
+    ]
+   },
+   {
+    "name": "Puneet Krishna",
+    "slug": "puneet-krishna",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Rahul Sadasivan",
+    "slug": "rahul-sadasivan",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {
@@ -5247,6 +6876,14 @@
     ]
    },
    {
+    "name": "Rodo Sayagues",
+    "slug": "rodo-sayagues",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Rohit M. G. Krishnan",
     "slug": "rohit-m-g-krishnan",
     "count": 1,
@@ -5260,6 +6897,14 @@
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Sachin Krishn",
+    "slug": "sachin-krishn",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -5335,6 +6980,30 @@
     ]
    },
    {
+    "name": "Sudhir Mishra",
+    "slug": "sudhir-mishra",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Sudip Sharma",
+    "slug": "sudip-sharma",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Takashi Miike",
+    "slug": "takashi-miike",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Ted Humphrey",
     "slug": "ted-humphrey",
     "count": 1,
@@ -5345,6 +7014,14 @@
    {
     "name": "Tharun Moorthy",
     "slug": "tharun-moorthy",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Tomas Alfredson",
+    "slug": "tomas-alfredson",
     "count": 1,
     "kinds": [
      "film"
@@ -5364,6 +7041,30 @@
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Vikas Bahl",
+    "slug": "vikas-bahl",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Vikramaditya Motwane",
+    "slug": "vikramaditya-motwane",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Vishal Bhardwaj",
+    "slug": "vishal-bhardwaj",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {

@@ -615,6 +615,10 @@
     [/^\/?$/,                    () => viewHome()],
     [/^\/films\/(indian|world)$/, (m) => viewList('films', m[1], { num: '' })],
     [/^\/films$/,                 () => viewList('films', null)],
+    // The TV page has always rendered India/World chips, but the region route
+    // was missing, so those links 404'd. Harmless while every show was world,
+    // wrong the moment Indian series were added.
+    [/^\/tv\/(indian|world)$/,    (m) => viewList('tv', m[1])],
     [/^\/tv$/,                    () => viewList('tv', null)],
     [/^\/books\/(indian|world)$/, (m) => viewList('books', m[1])],
     [/^\/books$/,                 () => viewList('books', null)],
