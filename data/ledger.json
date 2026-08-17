@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 204,
+ "count": 207,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -2914,6 +2914,87 @@
    "imdbid": "tt0920464"
   },
   {
+   "slug": "udta-punjab-abhishek-chaubey",
+   "title": "Udta Punjab",
+   "kind": "film",
+   "region": "indian",
+   "by": "Abhishek Chaubey",
+   "year": 2016,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "chaubey",
+    "hindi",
+    "drama",
+    "punjab",
+    "addiction",
+    "performances",
+    "character-work",
+    "must-watch"
+   ],
+   "note": "The character work is the whole film, four lives that barely touch and every one of them earned. Alia Bhatt is extraordinary in it and Shahid has never been better.",
+   "art": "img/art/udta-punjab-abhishek-chaubey.jpg?v=6f1a137b",
+   "imdb": 7.7,
+   "rt": 92,
+   "mc": null,
+   "imdbid": "tt4434004"
+  },
+  {
+   "slug": "dedh-ishqiya-abhishek-chaubey",
+   "title": "Dedh Ishqiya",
+   "kind": "film",
+   "region": "indian",
+   "by": "Abhishek Chaubey",
+   "year": 2014,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "chaubey",
+    "hindi",
+    "comedy",
+    "crime",
+    "urdu",
+    "performances",
+    "character-work",
+    "must-watch"
+   ],
+   "note": "Richer than the first one and more interested in its women. Madhuri and Huma play a game the men never realise they are losing, and the Urdu is a pleasure by itself.",
+   "art": "img/art/dedh-ishqiya-abhishek-chaubey.jpg?v=3eaed3f8",
+   "imdb": 7.0,
+   "rt": 83,
+   "mc": null,
+   "imdbid": "tt2675978"
+  },
+  {
+   "slug": "ishqiya-abhishek-chaubey",
+   "title": "Ishqiya",
+   "kind": "film",
+   "region": "indian",
+   "by": "Abhishek Chaubey",
+   "year": 2010,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "chaubey",
+    "hindi",
+    "comedy",
+    "crime",
+    "dark",
+    "performances",
+    "character-work",
+    "must-watch"
+   ],
+   "note": "Naseeruddin Shah and Arshad Warsi are wonderful together and Vidya Balan runs rings around both. Chaubey writing adults who behave like adults, which is rarer than it should be.",
+   "art": "img/art/ishqiya-abhishek-chaubey.jpg?v=3cd6ddcd",
+   "imdb": 7.3,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt1345777"
+  },
+  {
    "slug": "severance-dan-erickson-ben-stiller",
    "title": "Severance",
    "kind": "tv",
@@ -4864,28 +4945,28 @@
  "facets": {
   "tags": [
    {
+    "tag": "must-watch",
+    "count": 50
+   },
+   {
     "tag": "thriller",
     "count": 48
    },
    {
-    "tag": "must-watch",
-    "count": 47
-   },
-   {
     "tag": "hindi",
-    "count": 42
+    "count": 45
    },
    {
     "tag": "crime",
-    "count": 33
+    "count": 35
+   },
+   {
+    "tag": "comedy",
+    "count": 25
    },
    {
     "tag": "shelf",
     "count": 24
-   },
-   {
-    "tag": "comedy",
-    "count": 23
    },
    {
     "tag": "action",
@@ -4896,6 +4977,10 @@
     "count": 16
    },
    {
+    "tag": "drama",
+    "count": 13
+   },
+   {
     "tag": "fincher",
     "count": 13
    },
@@ -4904,7 +4989,7 @@
     "count": 13
    },
    {
-    "tag": "drama",
+    "tag": "performances",
     "count": 12
    },
    {
@@ -4929,10 +5014,6 @@
    },
    {
     "tag": "nolan",
-    "count": 9
-   },
-   {
-    "tag": "performances",
     "count": 9
    },
    {
@@ -5180,6 +5261,14 @@
     "count": 3
    },
    {
+    "tag": "character-work",
+    "count": 3
+   },
+   {
+    "tag": "chaubey",
+    "count": 3
+   },
+   {
     "tag": "classic",
     "count": 3
    },
@@ -5189,6 +5278,10 @@
    },
    {
     "tag": "cult",
+    "count": 3
+   },
+   {
+    "tag": "dark",
     "count": 3
    },
    {
@@ -5293,10 +5386,6 @@
    },
    {
     "tag": "college-read",
-    "count": 2
-   },
-   {
-    "tag": "dark",
     "count": 2
    },
    {
@@ -5465,6 +5554,10 @@
    },
    {
     "tag": "60s",
+    "count": 1
+   },
+   {
+    "tag": "addiction",
     "count": 1
    },
    {
@@ -6068,6 +6161,10 @@
     "count": 1
    },
    {
+    "tag": "punjab",
+    "count": 1
+   },
+   {
     "tag": "puzzle",
     "count": 1
    },
@@ -6224,6 +6321,10 @@
     "count": 1
    },
    {
+    "tag": "urdu",
+    "count": 1
+   },
+   {
     "tag": "vampire",
     "count": 1
    },
@@ -6348,6 +6449,14 @@
     "name": "Edgar Wright",
     "slug": "edgar-wright",
     "count": 4,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Abhishek Chaubey",
+    "slug": "abhishek-chaubey",
+    "count": 3,
     "kinds": [
      "film"
     ]

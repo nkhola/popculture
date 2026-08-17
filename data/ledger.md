@@ -1928,6 +1928,51 @@ art: img/art/manorama-six-feet-under-navdeep-singh.jpg
 imdbid: tt0920464
 imdb: 7.5
 
+## Udta Punjab
+kind: film
+region: indian
+by: Abhishek Chaubey
+year: 2016
+status: done
+must: yes
+rating: essential
+tags: chaubey, hindi, drama, punjab, addiction, performances, character-work, must-watch
+note: The character work is the whole film, four lives that barely touch and every one of them earned. Alia Bhatt is extraordinary in it and Shahid has never been better.
+art: img/art/udta-punjab-abhishek-chaubey.jpg
+imdbid: tt4434004
+imdb: 7.7
+rt: 92
+
+## Dedh Ishqiya
+kind: film
+region: indian
+by: Abhishek Chaubey
+year: 2014
+status: done
+must: yes
+rating: strong
+tags: chaubey, hindi, comedy, crime, urdu, performances, character-work, must-watch
+note: Richer than the first one and more interested in its women. Madhuri and Huma play a game the men never realise they are losing, and the Urdu is a pleasure by itself.
+art: img/art/dedh-ishqiya-abhishek-chaubey.jpg
+imdbid: tt2675978
+imdb: 7.0
+rt: 83
+
+## Ishqiya
+kind: film
+region: indian
+by: Abhishek Chaubey
+year: 2010
+status: done
+must: yes
+rating: strong
+tags: chaubey, hindi, comedy, crime, dark, performances, character-work, must-watch
+note: Naseeruddin Shah and Arshad Warsi are wonderful together and Vidya Balan runs rings around both. Chaubey writing adults who behave like adults, which is rarer than it should be.
+art: img/art/ishqiya-abhishek-chaubey.jpg
+imdbid: tt1345777
+imdb: 7.3
+
+
 
 
 
