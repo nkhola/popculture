@@ -201,6 +201,53 @@
     .filter((i) => i.region === region && i.status !== 'shelf')
     .sort(byChrono);
 
+  /* --- random pick ------------------------------------------------------- */
+
+  /* One film, one series, one book, drawn from the must lists. Prefer must
+     entries; fall back to anything of that kind so the block never renders
+     short if a category has no must picks yet. Shelf entries are excluded
+     since recommending something unwatched would be dishonest. */
+  function pickOne(kind, exclude) {
+    const eligible = (list) => list.filter((i) => i.status !== 'shelf' && !exclude.has(i.slug));
+    const musts = eligible(ITEMS.filter((i) => i.kind === kind && i.must));
+    const pool = musts.length ? musts : eligible(ITEMS.filter((i) => i.kind === kind));
+    if (!pool.length) return null;
+    return pool[Math.floor(Math.random() * pool.length)];
+  }
+
+  function diceHTML() {
+    const seen = new Set();
+    const picks = ['film', 'tv', 'book']
+      .map((k) => { const p = pickOne(k, seen); if (p) seen.add(p.slug); return p; })
+      .filter(Boolean);
+
+    return picks.map((it, n) => `
+      <a class="dice-card rv" style="--d:${n}" href="#/e/${it.slug}">
+        <div class="art-frame">${artHTML(it, false)}</div>
+        <div class="dice-body">
+          <span class="dice-kind">${KIND_LABEL[it.kind]} &middot; ${REGION_LABEL[it.region]}</span>
+          <h4 class="dice-title">${esc(it.title)}</h4>
+          <p class="dice-meta">${dotsHTML(it.rating)}
+            ${it.year ? `<span>${it.year}</span>` : ''}
+            ${it.by ? `<span class="sep">/</span><span>${esc(it.by.split(',')[0])}</span>` : ''}</p>
+          ${it.note ? `<p class="dice-note">${esc(it.note)}</p>` : ''}
+        </div>
+      </a>`).join('');
+  }
+
+  function bindDice() {
+    const grid = $('#diceGrid');
+    const btn = $('#diceRoll');
+    if (!grid || !btn) return;
+    btn.onclick = () => {
+      grid.innerHTML = diceHTML();
+      // Already on screen when the button is pressed, so reveal immediately
+      // instead of waiting for an intersection that will not fire again.
+      $$('.rv', grid).forEach((el) => el.classList.add('in'));
+      bindTilt();
+    };
+  }
+
   /* --- views ------------------------------------------------------------- */
 
   function viewHome() {
@@ -279,7 +326,15 @@
       </section>
 
       <section class="sec">
-        ${secHead('03', 'Must watch', `${musts('screen').length} titles`, '#/must', 'Full list')}
+        ${secHead('03', 'Three at random', 'one film, one series, one book')}
+        <p class="sec-lede">Cannot decide. Take these three, or roll again until something
+          appeals. Everything here is drawn from the must lists, so there are no duds in the pool.</p>
+        <div class="dice-grid" id="diceGrid">${diceHTML()}</div>
+        <button class="chip dice-roll" id="diceRoll" type="button">Roll again</button>
+      </section>
+
+      <section class="sec">
+        ${secHead('04', 'Must watch', `${musts('screen').length} titles`, '#/must', 'Full list')}
         <p class="sec-lede">The ones I would put in front of somebody who had never seen anything.</p>
         <div class="person">
           <div class="person-head"><h3 class="person-name">India</h3>
@@ -296,7 +351,7 @@
       </section>
 
       <section class="sec">
-        ${secHead('04', 'Must read', `${musts('book').length} titles`, '#/must', 'Full list')}
+        ${secHead('05', 'Must read', `${musts('book').length} titles`, '#/must', 'Full list')}
         <p class="sec-lede">Mostly realism, mostly short stories, and a few that rearranged something.</p>
         <div class="person">
           <div class="person-head"><h3 class="person-name">India</h3>
@@ -313,13 +368,13 @@
       </section>
 
       <section class="sec">
-        ${secHead('05', 'By director', `${auteurs.length} auteurs`, '#/people', 'Everyone')}
+        ${secHead('06', 'By director', `${auteurs.length} auteurs`, '#/people', 'Everyone')}
         <p class="sec-lede">The filmmakers I follow rather than the films I stumble into.</p>
         ${auteurs.map((p) => personBlock(p.name)).join('')}
       </section>
 
       <section class="sec">
-        ${secHead('06', 'On the shelf', `${ITEMS.filter((i) => i.status === 'shelf').length} waiting`, '#/shelf', 'All')}
+        ${secHead('07', 'On the shelf', `${ITEMS.filter((i) => i.status === 'shelf').length} waiting`, '#/shelf', 'All')}
         <p class="sec-lede">Bought, queued, not yet started. Honest about the backlog.</p>
         ${gridHTML(ITEMS.filter((i) => i.status === 'shelf').sort(byChrono).slice(0, 12))}
       </section>`;
@@ -676,6 +731,7 @@
     bindTilt();
     countUp();
     if (path === '/ledger') bindLedger();
+    if (path === '/') bindDice();
     document.title = titleFor(path);
     window.scrollTo(0, 0);
   }
