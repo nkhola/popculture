@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 207,
+ "count": 218,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -2995,6 +2995,179 @@
    "imdbid": "tt1345777"
   },
   {
+   "slug": "super-deluxe-thiagarajan-kumararaja",
+   "title": "Super Deluxe",
+   "kind": "film",
+   "region": "indian",
+   "by": "Thiagarajan Kumararaja",
+   "year": 2019,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "tamil",
+    "anthology",
+    "drama",
+    "vijay-sethupathi",
+    "ambitious",
+    "must-watch"
+   ],
+   "note": "Vijay Sethupathi like never before, and the whole film is that ambitious. Four stories that have no business fitting together and somehow do.",
+   "art": "img/art/super-deluxe-thiagarajan-kumararaja.jpg?v=810fcf27",
+   "imdb": 8.2,
+   "rt": 83,
+   "mc": null,
+   "imdbid": "tt7019942"
+  },
+  {
+   "slug": "vikram-vedha-pushkar-gayathri",
+   "title": "Vikram Vedha",
+   "kind": "film",
+   "region": "indian",
+   "by": "Pushkar-Gayathri",
+   "year": 2017,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "tamil",
+    "thriller",
+    "crime",
+    "original",
+    "moral-ambiguity",
+    "vijay-sethupathi",
+    "must-watch"
+   ],
+   "note": "The Tamil original, and the Hindi remake is not worth your time. A moral argument disguised as a thriller, with Sethupathi and Madhavan trading the upper hand every reel.",
+   "art": "img/art/vikram-vedha-pushkar-gayathri.jpg?v=0c262b6e",
+   "imdb": 8.2,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt6148156"
+  },
+  {
+   "slug": "vikram-lokesh-kanagaraj",
+   "title": "Vikram",
+   "kind": "film",
+   "region": "indian",
+   "by": "Lokesh Kanagaraj",
+   "year": 2022,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "tamil",
+    "action",
+    "masala",
+    "entertainer",
+    "soundtrack",
+    "lokesh"
+   ],
+   "note": "A masala entertainer that knows exactly what it is doing. The action sequences and the soundtrack carry it, and the Rolex intro is the best two minutes in recent Tamil cinema.",
+   "art": "img/art/vikram-lokesh-kanagaraj.jpg?v=714943f1",
+   "imdb": 8.3,
+   "rt": 59,
+   "mc": null,
+   "imdbid": "tt9179430"
+  },
+  {
+   "slug": "shor-in-the-city-raj-dk",
+   "title": "Shor in the City",
+   "kind": "film",
+   "region": "indian",
+   "by": "Raj & DK",
+   "year": 2010,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "hindi",
+    "crime",
+    "ensemble",
+    "mumbai",
+    "raj-dk",
+    "realism",
+    "must-watch"
+   ],
+   "note": "The best thing Raj and DK have made. Three stories in a city that could not care less about any of them, and it stays with you.",
+   "art": "img/art/shor-in-the-city-raj-dk.jpg?v=2c13ade6",
+   "imdb": 7.2,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt1916728"
+  },
+  {
+   "slug": "go-goa-gone-raj-dk",
+   "title": "Go Goa Gone",
+   "kind": "film",
+   "region": "indian",
+   "by": "Raj & DK",
+   "year": 2013,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "comedy",
+    "zombie",
+    "raj-dk",
+    "entertainer"
+   ],
+   "note": "Entertaining, and the first Indian zombie comedy that actually worked. Saif is having a wonderful time and it is infectious.",
+   "art": "img/art/go-goa-gone-raj-dk.jpg?v=5a728ab6",
+   "imdb": 6.7,
+   "rt": 71,
+   "mc": null,
+   "imdbid": "tt2436516"
+  },
+  {
+   "slug": "99-raj-dk",
+   "title": "99",
+   "kind": "film",
+   "region": "indian",
+   "by": "Raj & DK",
+   "year": 2009,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "comedy",
+    "crime",
+    "raj-dk",
+    "early"
+   ],
+   "note": "An early one and a good one. Small, scrappy and genuinely funny, before anybody knew who they were.",
+   "art": "img/art/99-raj-dk.jpg?v=8dc9c479",
+   "imdb": 7.3,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt1370429"
+  },
+  {
+   "slug": "stree-amar-kaushik",
+   "title": "Stree",
+   "kind": "film",
+   "region": "indian",
+   "by": "Amar Kaushik",
+   "year": 2018,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "horror-comedy",
+    "raj-dk",
+    "entertainer"
+   ],
+   "note": "A two, and skip the sequel. Funnier and better made than the premise has any right to be.",
+   "art": "img/art/stree-amar-kaushik.jpg?v=e93f5f54",
+   "imdb": 7.5,
+   "rt": 80,
+   "mc": null,
+   "imdbid": "tt8108202"
+  },
+  {
    "slug": "severance-dan-erickson-ben-stiller",
    "title": "Severance",
    "kind": "tv",
@@ -3788,6 +3961,104 @@
    "rt": null,
    "mc": null,
    "imdbid": "tt21916016"
+  },
+  {
+   "slug": "the-family-man-raj-dk",
+   "title": "The Family Man",
+   "kind": "tv",
+   "region": "indian",
+   "by": "Raj & DK",
+   "year": 2019,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "spy",
+    "thriller",
+    "raj-dk",
+    "manoj-bajpayee",
+    "must-watch"
+   ],
+   "note": "A must watch, and the first season especially. A spy show where the hardest part of the job is getting home in time for dinner.",
+   "art": "img/art/the-family-man-raj-dk.jpg?v=e3e79790",
+   "imdb": 8.7,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt9544034"
+  },
+  {
+   "slug": "farzi-raj-dk",
+   "title": "Farzi",
+   "kind": "tv",
+   "region": "indian",
+   "by": "Raj & DK",
+   "year": 2023,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "crime",
+    "con",
+    "raj-dk",
+    "entertainer",
+    "vijay-sethupathi"
+   ],
+   "note": "More of an entertainer than anything else. Sethupathi and Shahid are good value and the show never digs much deeper than that.",
+   "art": "img/art/farzi-raj-dk.jpg?v=ef296cdf",
+   "imdb": 8.3,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt15477488"
+  },
+  {
+   "slug": "guns-gulaabs-raj-dk",
+   "title": "Guns & Gulaabs",
+   "kind": "tv",
+   "region": "indian",
+   "by": "Raj & DK",
+   "year": 2023,
+   "status": "done",
+   "must": false,
+   "rating": "decent",
+   "tags": [
+    "hindi",
+    "crime",
+    "comedy",
+    "raj-dk",
+    "period"
+   ],
+   "note": "Has its moments and is skippable. The tone wobbles and the length does it no favours.",
+   "art": "img/art/guns-gulaabs-raj-dk.jpg?v=194a5864",
+   "imdb": 7.7,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt17524566"
+  },
+  {
+   "slug": "citadel-honey-bunny-raj-dk",
+   "title": "Citadel: Honey Bunny",
+   "kind": "tv",
+   "region": "indian",
+   "by": "Raj & DK",
+   "year": 2024,
+   "status": "done",
+   "must": false,
+   "rating": "decent",
+   "tags": [
+    "hindi",
+    "spy",
+    "action",
+    "raj-dk",
+    "franchise"
+   ],
+   "note": "Not much to highlight or remember. A one.",
+   "art": "img/art/citadel-honey-bunny-raj-dk.jpg?v=b4004021",
+   "imdb": 6.2,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt27111295"
   },
   {
    "slug": "your-erroneous-zones-wayne-dyer",
@@ -4946,23 +5217,23 @@
   "tags": [
    {
     "tag": "must-watch",
-    "count": 50
-   },
-   {
-    "tag": "thriller",
-    "count": 48
+    "count": 54
    },
    {
     "tag": "hindi",
-    "count": 45
+    "count": 53
+   },
+   {
+    "tag": "thriller",
+    "count": 50
    },
    {
     "tag": "crime",
-    "count": 35
+    "count": 40
    },
    {
     "tag": "comedy",
-    "count": 25
+    "count": 28
    },
    {
     "tag": "shelf",
@@ -4970,14 +5241,18 @@
    },
    {
     "tag": "action",
-    "count": 17
+    "count": 19
    },
    {
     "tag": "realism",
-    "count": 16
+    "count": 17
    },
    {
     "tag": "drama",
+    "count": 14
+   },
+   {
+    "tag": "entertainer",
     "count": 13
    },
    {
@@ -5001,15 +5276,15 @@
     "count": 11
    },
    {
+    "tag": "spy",
+    "count": 10
+   },
+   {
     "tag": "tarantino",
     "count": 10
    },
    {
     "tag": "british",
-    "count": 9
-   },
-   {
-    "tag": "entertainer",
     "count": 9
    },
    {
@@ -5041,11 +5316,11 @@
     "count": 8
    },
    {
-    "tag": "sci-fi",
+    "tag": "raj-dk",
     "count": 8
    },
    {
-    "tag": "spy",
+    "tag": "sci-fi",
     "count": 8
    },
    {
@@ -5070,6 +5345,10 @@
    },
    {
     "tag": "novel",
+    "count": 6
+   },
+   {
+    "tag": "original",
     "count": 6
    },
    {
@@ -5133,10 +5412,6 @@
     "count": 5
    },
    {
-    "tag": "original",
-    "count": 5
-   },
-   {
     "tag": "pop-social-science",
     "count": 5
    },
@@ -5150,6 +5425,10 @@
    },
    {
     "tag": "slow-burn",
+    "count": 5
+   },
+   {
+    "tag": "tamil",
     "count": 5
    },
    {
@@ -5285,6 +5564,10 @@
     "count": 3
    },
    {
+    "tag": "ensemble",
+    "count": 3
+   },
+   {
     "tag": "formative",
     "count": 3
    },
@@ -5302,6 +5585,10 @@
    },
    {
     "tag": "mockumentary",
+    "count": 3
+   },
+   {
+    "tag": "moral-ambiguity",
     "count": 3
    },
    {
@@ -5350,6 +5637,10 @@
    },
    {
     "tag": "victorian",
+    "count": 3
+   },
+   {
+    "tag": "vijay-sethupathi",
     "count": 3
    },
    {
@@ -5405,10 +5696,6 @@
     "count": 2
    },
    {
-    "tag": "ensemble",
-    "count": 2
-   },
-   {
     "tag": "epistemology",
     "count": 2
    },
@@ -5457,15 +5744,15 @@
     "count": 2
    },
    {
+    "tag": "masala",
+    "count": 2
+   },
+   {
     "tag": "media",
     "count": 2
    },
    {
     "tag": "michael-mann",
-    "count": 2
-   },
-   {
-    "tag": "moral-ambiguity",
     "count": 2
    },
    {
@@ -5478,6 +5765,10 @@
    },
    {
     "tag": "objectivism",
+    "count": 2
+   },
+   {
+    "tag": "period",
     "count": 2
    },
    {
@@ -5545,10 +5836,6 @@
     "count": 2
    },
    {
-    "tag": "tamil",
-    "count": 2
-   },
-   {
     "tag": "travel",
     "count": 2
    },
@@ -5577,6 +5864,10 @@
     "count": 1
    },
    {
+    "tag": "ambitious",
+    "count": 1
+   },
+   {
     "tag": "americana",
     "count": 1
    },
@@ -5586,6 +5877,10 @@
    },
    {
     "tag": "anime",
+    "count": 1
+   },
+   {
+    "tag": "anthology",
     "count": 1
    },
    {
@@ -5685,6 +5980,10 @@
     "count": 1
    },
    {
+    "tag": "con",
+    "count": 1
+   },
+   {
     "tag": "contrarian",
     "count": 1
    },
@@ -5769,6 +6068,10 @@
     "count": 1
    },
    {
+    "tag": "early",
+    "count": 1
+   },
+   {
     "tag": "easy-watch",
     "count": 1
    },
@@ -5810,6 +6113,10 @@
    },
    {
     "tag": "found-footage",
+    "count": 1
+   },
+   {
+    "tag": "franchise",
     "count": 1
    },
    {
@@ -5878,6 +6185,10 @@
    },
    {
     "tag": "home-invasion",
+    "count": 1
+   },
+   {
+    "tag": "horror-comedy",
     "count": 1
    },
    {
@@ -5965,6 +6276,10 @@
     "count": 1
    },
    {
+    "tag": "lokesh",
+    "count": 1
+   },
+   {
     "tag": "lyrical",
     "count": 1
    },
@@ -5974,6 +6289,10 @@
    },
    {
     "tag": "management",
+    "count": 1
+   },
+   {
+    "tag": "manoj-bajpayee",
     "count": 1
    },
    {
@@ -5990,10 +6309,6 @@
    },
    {
     "tag": "marvel",
-    "count": 1
-   },
-   {
-    "tag": "masala",
     "count": 1
    },
    {
@@ -6026,6 +6341,10 @@
    },
    {
     "tag": "multilingual",
+    "count": 1
+   },
+   {
+    "tag": "mumbai",
     "count": 1
    },
    {
@@ -6086,10 +6405,6 @@
    },
    {
     "tag": "perfect-plot",
-    "count": 1
-   },
-   {
-    "tag": "period",
     "count": 1
    },
    {
@@ -6229,6 +6544,10 @@
     "count": 1
    },
    {
+    "tag": "soundtrack",
+    "count": 1
+   },
+   {
     "tag": "space",
     "count": 1
    },
@@ -6351,6 +6670,10 @@
    {
     "tag": "writing",
     "count": 1
+   },
+   {
+    "tag": "zombie",
+    "count": 1
    }
   ],
   "people": [
@@ -6382,6 +6705,15 @@
    {
     "name": "Guy Ritchie",
     "slug": "guy-ritchie",
+    "count": 7,
+    "kinds": [
+     "film",
+     "tv"
+    ]
+   },
+   {
+    "name": "Raj & DK",
+    "slug": "raj-dk",
     "count": 7,
     "kinds": [
      "film",
@@ -6651,6 +6983,14 @@
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Amar Kaushik",
+    "slug": "amar-kaushik",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {
@@ -7054,6 +7394,14 @@
     ]
    },
    {
+    "name": "Lokesh Kanagaraj",
+    "slug": "lokesh-kanagaraj",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Manu Joseph",
     "slug": "manu-joseph",
     "count": 1,
@@ -7163,6 +7511,14 @@
     "count": 1,
     "kinds": [
      "tv"
+    ]
+   },
+   {
+    "name": "Pushkar-Gayathri",
+    "slug": "pushkar-gayathri",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {
@@ -7352,6 +7708,14 @@
    {
     "name": "Tharun Moorthy",
     "slug": "tharun-moorthy",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Thiagarajan Kumararaja",
+    "slug": "thiagarajan-kumararaja",
     "count": 1,
     "kinds": [
      "film"

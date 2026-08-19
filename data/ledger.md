@@ -1972,6 +1972,109 @@ art: img/art/ishqiya-abhishek-chaubey.jpg
 imdbid: tt1345777
 imdb: 7.3
 
+## Super Deluxe
+kind: film
+region: indian
+by: Thiagarajan Kumararaja
+year: 2019
+status: done
+must: yes
+rating: essential
+tags: tamil, anthology, drama, vijay-sethupathi, ambitious, must-watch
+note: Vijay Sethupathi like never before, and the whole film is that ambitious. Four stories that have no business fitting together and somehow do.
+art: img/art/super-deluxe-thiagarajan-kumararaja.jpg
+imdbid: tt7019942
+imdb: 8.2
+rt: 83
+
+## Vikram Vedha
+kind: film
+region: indian
+by: Pushkar-Gayathri
+year: 2017
+status: done
+must: yes
+rating: essential
+tags: tamil, thriller, crime, original, moral-ambiguity, vijay-sethupathi, must-watch
+note: The Tamil original, and the Hindi remake is not worth your time. A moral argument disguised as a thriller, with Sethupathi and Madhavan trading the upper hand every reel.
+art: img/art/vikram-vedha-pushkar-gayathri.jpg
+imdbid: tt6148156
+imdb: 8.2
+
+## Vikram
+kind: film
+region: indian
+by: Lokesh Kanagaraj
+year: 2022
+status: done
+must: no
+rating: strong
+tags: tamil, action, masala, entertainer, soundtrack, lokesh
+note: A masala entertainer that knows exactly what it is doing. The action sequences and the soundtrack carry it, and the Rolex intro is the best two minutes in recent Tamil cinema.
+art: img/art/vikram-lokesh-kanagaraj.jpg
+imdbid: tt9179430
+imdb: 8.3
+rt: 59
+
+## Shor in the City
+kind: film
+region: indian
+by: Raj & DK
+year: 2010
+status: done
+must: yes
+rating: essential
+tags: hindi, crime, ensemble, mumbai, raj-dk, realism, must-watch
+note: The best thing Raj and DK have made. Three stories in a city that could not care less about any of them, and it stays with you.
+art: img/art/shor-in-the-city-raj-dk.jpg
+imdbid: tt1916728
+imdb: 7.2
+
+## Go Goa Gone
+kind: film
+region: indian
+by: Raj & DK
+year: 2013
+status: done
+must: no
+rating: strong
+tags: hindi, comedy, zombie, raj-dk, entertainer
+note: Entertaining, and the first Indian zombie comedy that actually worked. Saif is having a wonderful time and it is infectious.
+art: img/art/go-goa-gone-raj-dk.jpg
+imdbid: tt2436516
+imdb: 6.7
+rt: 71
+
+## 99
+kind: film
+region: indian
+by: Raj & DK
+year: 2009
+status: done
+must: no
+rating: strong
+tags: hindi, comedy, crime, raj-dk, early
+note: An early one and a good one. Small, scrappy and genuinely funny, before anybody knew who they were.
+art: img/art/99-raj-dk.jpg
+imdbid: tt1370429
+imdb: 7.3
+
+## Stree
+kind: film
+region: indian
+by: Amar Kaushik
+year: 2018
+status: done
+must: no
+rating: strong
+tags: hindi, horror-comedy, raj-dk, entertainer
+note: A two, and skip the sequel. Funnier and better made than the premise has any right to be.
+art: img/art/stree-amar-kaushik.jpg
+imdbid: tt8108202
+imdb: 7.5
+rt: 80
+
+
 
 
 
@@ -2441,6 +2544,63 @@ note: Decent work adapting Fauda and it does not live up to the potential. A one
 art: img/art/tanaav-sudhir-mishra-sachin-krishn.jpg
 imdbid: tt21916016
 imdb: 7.8
+
+## The Family Man
+kind: tv
+region: indian
+by: Raj & DK
+year: 2019
+status: done
+must: yes
+rating: strong
+tags: hindi, spy, thriller, raj-dk, manoj-bajpayee, must-watch
+note: A must watch, and the first season especially. A spy show where the hardest part of the job is getting home in time for dinner.
+art: img/art/the-family-man-raj-dk.jpg
+imdbid: tt9544034
+imdb: 8.7
+
+## Farzi
+kind: tv
+region: indian
+by: Raj & DK
+year: 2023
+status: done
+must: no
+rating: strong
+tags: hindi, crime, con, raj-dk, entertainer, vijay-sethupathi
+note: More of an entertainer than anything else. Sethupathi and Shahid are good value and the show never digs much deeper than that.
+art: img/art/farzi-raj-dk.jpg
+imdbid: tt15477488
+imdb: 8.3
+
+## Guns & Gulaabs
+kind: tv
+region: indian
+by: Raj & DK
+year: 2023
+status: done
+must: no
+rating: decent
+tags: hindi, crime, comedy, raj-dk, period
+note: Has its moments and is skippable. The tone wobbles and the length does it no favours.
+art: img/art/guns-gulaabs-raj-dk.jpg
+imdbid: tt17524566
+imdb: 7.7
+
+## Citadel: Honey Bunny
+kind: tv
+region: indian
+by: Raj & DK
+year: 2024
+status: done
+must: no
+rating: decent
+tags: hindi, spy, action, raj-dk, franchise
+note: Not much to highlight or remember. A one.
+art: img/art/citadel-honey-bunny-raj-dk.jpg
+imdbid: tt27111295
+imdb: 6.2
+
 
 
 

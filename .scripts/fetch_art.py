@@ -122,6 +122,23 @@ def strip_paren(title: str) -> str:
     return re.sub(r"\s*\([^)]*\)\s*$", "", title).strip()
 
 
+def title_close(a: str, b: str, threshold: float = 0.85) -> bool:
+    """Fuzzy title equality, tolerant of the spellings used in the ledger.
+
+    Tuned so near spellings pass (Irratta/Iratta) and unrelated titles do not
+    (99 vs $9.99). Wider gaps like Ratsasan/Raatchasan or Laapataa Ladies/Lost
+    Ladies score below this and are meant to: they are resolved by the exact
+    year match above, which is trusted without a title check, because release
+    titles legitimately differ between markets.
+    """
+    import difflib
+
+    na, nb = (re.sub(r"[^a-z0-9]+", "", x.lower()) for x in (a, b))
+    if not na or not nb:
+        return False
+    return difflib.SequenceMatcher(None, na, nb).ratio() >= threshold
+
+
 def tmdb_lookup(entry, api_key: str) -> tuple[str, str] | None:
     """Return (poster_url, tmdb_id) or None."""
     kind = "tv" if entry.get("kind") == "tv" else "movie"
@@ -172,16 +189,27 @@ def cinemeta_lookup(entry) -> tuple[str, str] | None:
                 best = m
                 break
         if best is None:
-            # Accept a one year drift, common for festival vs general release.
+            # A one year drift is common for festival vs general release, but on
+            # its own it is not enough: searching "99" returned "$9.99" (2008),
+            # a different film entirely. Require the title to be close too.
             for m in metas[:8]:
                 info = str(m.get("releaseInfo", ""))[:4]
-                if info.isdigit() and abs(int(info) - int(year)) <= 1:
+                if (info.isdigit() and abs(int(info) - int(year)) <= 1
+                        and title_close(title, m.get("name", ""))):
                     best = m
                     break
     if best is None:
-        if year:
-            print(f"    no year match for {year}, using top result")
-        best = metas[0]
+        # Last resort. Only take the top result if the title genuinely matches;
+        # a wrong poster is worse than a generated plate.
+        top = metas[0]
+        if title_close(title, top.get("name", "")):
+            if year:
+                print(f"    no year match for {year}, using top result")
+            best = top
+        else:
+            print(f"    no confident match (top result was {top.get('name')!r} "
+                  f"{top.get('releaseInfo')}), leaving blank")
+            return None
 
     imdb_id = best.get("imdb_id") or ""
     got = best.get("name", "")
