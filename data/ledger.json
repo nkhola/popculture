@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 218,
+ "count": 229,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -3168,6 +3168,278 @@
    "imdbid": "tt8108202"
   },
   {
+   "slug": "eeb-allay-ooo-prateek-vats",
+   "title": "Eeb Allay Ooo!",
+   "kind": "film",
+   "region": "indian",
+   "by": "Prateek Vats",
+   "year": 2019,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "hindi",
+    "satire",
+    "delhi",
+    "subtle",
+    "realism",
+    "labour",
+    "must-watch"
+   ],
+   "note": "A beautiful, subtle film and a sharp satire at the same time, which almost nothing manages. A man employed to scare monkeys off government buildings, and the whole country is in there.",
+   "art": "img/art/eeb-allay-ooo-prateek-vats.jpg?v=4d78ae2e",
+   "imdb": 7.2,
+   "rt": 100,
+   "mc": null,
+   "imdbid": "tt9343754"
+  },
+  {
+   "slug": "aankhon-dekhi-rajat-kapoor",
+   "title": "Aankhon Dekhi",
+   "kind": "film",
+   "region": "indian",
+   "by": "Rajat Kapoor",
+   "year": 2013,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "hindi",
+    "philosophy",
+    "delhi",
+    "poetic",
+    "family",
+    "subtle",
+    "must-watch"
+   ],
+   "note": "Extremely poetic, and it will take you straight back to a childhood in Delhi NCR. A man decides to believe only what he sees for himself, and the film treats that as both funny and holy.",
+   "art": "img/art/aankhon-dekhi-rajat-kapoor.jpg?v=de57a9d0",
+   "imdb": 7.9,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt3614516"
+  },
+  {
+   "slug": "udaan-vikramaditya-motwane",
+   "title": "Udaan",
+   "kind": "film",
+   "region": "indian",
+   "by": "Vikramaditya Motwane",
+   "year": 2010,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "hindi",
+    "coming-of-age",
+    "family",
+    "subtle",
+    "realism",
+    "must-watch"
+   ],
+   "note": "A subtle film about the dark side of Indian parents, and it never once raises its voice to make the point. The father is frightening precisely because you recognise him.",
+   "art": "img/art/udaan-vikramaditya-motwane.jpg?v=6f8316cf",
+   "imdb": 8.1,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt1639426"
+  },
+  {
+   "slug": "gangs-of-wasseypur-anurag-kashyap",
+   "title": "Gangs of Wasseypur",
+   "kind": "film",
+   "region": "indian",
+   "by": "Anurag Kashyap",
+   "year": 2012,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "kashyap",
+    "hindi",
+    "crime",
+    "epic",
+    "generational",
+    "must-watch"
+   ],
+   "note": "Indian cinema at its most ambitious, and it reads like a book more than a film. Generations of grudges, and it earns every one of its hours.",
+   "art": "img/art/gangs-of-wasseypur-anurag-kashyap.jpg?v=0efb7f25",
+   "imdb": 8.2,
+   "rt": 91,
+   "mc": 89,
+   "imdbid": "tt1954470"
+  },
+  {
+   "slug": "the-lunchbox-ritesh-batra",
+   "title": "The Lunchbox",
+   "kind": "film",
+   "region": "indian",
+   "by": "Ritesh Batra",
+   "year": 2013,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "hindi",
+    "romance",
+    "mumbai",
+    "delicate",
+    "restrained",
+    "must-watch"
+   ],
+   "note": "India's export ready cinema, and I mean that as a compliment here. A delicate film that understands exactly how much to leave unsaid.",
+   "art": "img/art/the-lunchbox-ritesh-batra.jpg?v=db4b8c8c",
+   "imdb": 7.8,
+   "rt": 97,
+   "mc": 76,
+   "imdbid": "tt2350496"
+  },
+  {
+   "slug": "mithya-rajat-kapoor",
+   "title": "Mithya",
+   "kind": "film",
+   "region": "indian",
+   "by": "Rajat Kapoor",
+   "year": 2008,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "dark-comedy",
+    "identity",
+    "performances",
+    "ranvir-shorey"
+   ],
+   "note": "Ranvir Shorey is great in it and the performance is genuinely heartbreaking. Emotionally charged in a way the setup never prepares you for.",
+   "art": "img/art/mithya-rajat-kapoor.jpg?v=b4d01ec5",
+   "imdb": 7.0,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt1179782"
+  },
+  {
+   "slug": "gully-boy-zoya-akhtar",
+   "title": "Gully Boy",
+   "kind": "film",
+   "region": "indian",
+   "by": "Zoya Akhtar",
+   "year": 2019,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "music",
+    "mumbai",
+    "performances",
+    "ranveer-singh"
+   ],
+   "note": "Not a must watch, but watch it for Ranveer Singh. He is completely convincing and the film around him is a lot more conventional than he is.",
+   "art": "img/art/gully-boy-zoya-akhtar.jpg?v=3c08c12f",
+   "imdb": 7.9,
+   "rt": 96,
+   "mc": 65,
+   "imdbid": "tt2395469"
+  },
+  {
+   "slug": "neerja-ram-madhvani",
+   "title": "Neerja",
+   "kind": "film",
+   "region": "indian",
+   "by": "Ram Madhvani",
+   "year": 2016,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "thriller",
+    "true-story",
+    "performances",
+    "sonam-kapoor"
+   ],
+   "note": "Not a must watch. The only film you can actually watch Sonam Kapoor in, and she is genuinely good.",
+   "art": "img/art/neerja-ram-madhvani.jpg?v=ebb9c287",
+   "imdb": 7.6,
+   "rt": 100,
+   "mc": null,
+   "imdbid": "tt5286444"
+  },
+  {
+   "slug": "firaaq-nandita-das",
+   "title": "Firaaq",
+   "kind": "film",
+   "region": "indian",
+   "by": "Nandita Das",
+   "year": 2008,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "drama",
+    "communal",
+    "gujarat",
+    "difficult",
+    "realism"
+   ],
+   "note": "A difficult watch, and it means to be. Several lives after the riots, none of them resolved, none of them let off.",
+   "art": "img/art/firaaq-nandita-das.jpg?v=6d204aaf",
+   "imdb": 7.3,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt1263679"
+  },
+  {
+   "slug": "ship-of-theseus-anand-gandhi",
+   "title": "Ship of Theseus",
+   "kind": "film",
+   "region": "indian",
+   "by": "Anand Gandhi",
+   "year": 2012,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "philosophy",
+    "artsy",
+    "anthology",
+    "independent"
+   ],
+   "note": "Artsy, and it wears that openly. Three stories about bodies and identity, more interesting to argue about afterwards than to sit through.",
+   "art": "img/art/ship-of-theseus-anand-gandhi.jpg?v=6b9c5f53",
+   "imdb": 8.0,
+   "rt": 95,
+   "mc": null,
+   "imdbid": "tt1773764"
+  },
+  {
+   "slug": "bheja-fry-sagar-ballary",
+   "title": "Bheja Fry",
+   "kind": "film",
+   "region": "indian",
+   "by": "Sagar Ballary",
+   "year": 2007,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "comedy",
+    "quirky",
+    "adaptation",
+    "vinay-pathak"
+   ],
+   "note": "A good quirky take on comedy and not a must watch. Vinay Pathak is relentless in it, which is the joke and eventually the point.",
+   "art": "img/art/bheja-fry-sagar-ballary.jpg?v=5074d3cf",
+   "imdb": 7.6,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt1014672"
+  },
+  {
    "slug": "severance-dan-erickson-ben-stiller",
    "title": "Severance",
    "kind": "tv",
@@ -5216,40 +5488,44 @@
  "facets": {
   "tags": [
    {
-    "tag": "must-watch",
-    "count": 54
+    "tag": "hindi",
+    "count": 64
    },
    {
-    "tag": "hindi",
-    "count": 53
+    "tag": "must-watch",
+    "count": 59
    },
    {
     "tag": "thriller",
-    "count": 50
+    "count": 51
    },
    {
     "tag": "crime",
-    "count": 40
+    "count": 41
    },
    {
     "tag": "comedy",
-    "count": 28
+    "count": 29
    },
    {
     "tag": "shelf",
     "count": 24
    },
    {
+    "tag": "realism",
+    "count": 20
+   },
+   {
     "tag": "action",
     "count": 19
    },
    {
-    "tag": "realism",
-    "count": 17
+    "tag": "drama",
+    "count": 15
    },
    {
-    "tag": "drama",
-    "count": 14
+    "tag": "performances",
+    "count": 15
    },
    {
     "tag": "entertainer",
@@ -5264,16 +5540,20 @@
     "count": 13
    },
    {
-    "tag": "performances",
-    "count": 12
-   },
-   {
     "tag": "procedural",
     "count": 11
    },
    {
     "tag": "recent-watch",
     "count": 11
+   },
+   {
+    "tag": "philosophy",
+    "count": 10
+   },
+   {
+    "tag": "satire",
+    "count": 10
    },
    {
     "tag": "spy",
@@ -5296,10 +5576,6 @@
     "count": 9
    },
    {
-    "tag": "satire",
-    "count": 9
-   },
-   {
     "tag": "sequel",
     "count": 9
    },
@@ -5312,10 +5588,6 @@
     "count": 8
    },
    {
-    "tag": "philosophy",
-    "count": 8
-   },
-   {
     "tag": "raj-dk",
     "count": 8
    },
@@ -5324,7 +5596,15 @@
     "count": 8
    },
    {
+    "tag": "delhi",
+    "count": 7
+   },
+   {
     "tag": "english",
+    "count": 7
+   },
+   {
+    "tag": "family",
     "count": 7
    },
    {
@@ -5334,6 +5614,10 @@
    {
     "tag": "psychology",
     "count": 7
+   },
+   {
+    "tag": "adaptation",
+    "count": 6
    },
    {
     "tag": "cinematography",
@@ -5356,27 +5640,19 @@
     "count": 6
    },
    {
-    "tag": "twist",
+    "tag": "romance",
     "count": 6
    },
    {
-    "tag": "adaptation",
-    "count": 5
+    "tag": "twist",
+    "count": 6
    },
    {
     "tag": "choreography",
     "count": 5
    },
    {
-    "tag": "delhi",
-    "count": 5
-   },
-   {
     "tag": "detective",
-    "count": 5
-   },
-   {
-    "tag": "family",
     "count": 5
    },
    {
@@ -5389,6 +5665,10 @@
    },
    {
     "tag": "history",
+    "count": 5
+   },
+   {
+    "tag": "kashyap",
     "count": 5
    },
    {
@@ -5417,10 +5697,6 @@
    },
    {
     "tag": "premchand",
-    "count": 5
-   },
-   {
-    "tag": "romance",
     "count": 5
    },
    {
@@ -5484,10 +5760,6 @@
     "count": 4
    },
    {
-    "tag": "kashyap",
-    "count": 4
-   },
-   {
     "tag": "mind-body",
     "count": 4
    },
@@ -5508,7 +5780,15 @@
     "count": 4
    },
    {
+    "tag": "subtle",
+    "count": 4
+   },
+   {
     "tag": "technical",
+    "count": 4
+   },
+   {
+    "tag": "true-story",
     "count": 4
    },
    {
@@ -5564,6 +5844,10 @@
     "count": 3
    },
    {
+    "tag": "dark-comedy",
+    "count": 3
+   },
+   {
     "tag": "ensemble",
     "count": 3
    },
@@ -5589,6 +5873,14 @@
    },
    {
     "tag": "moral-ambiguity",
+    "count": 3
+   },
+   {
+    "tag": "mumbai",
+    "count": 3
+   },
+   {
+    "tag": "music",
     "count": 3
    },
    {
@@ -5628,10 +5920,6 @@
     "count": 3
    },
    {
-    "tag": "true-story",
-    "count": 3
-   },
-   {
     "tag": "unsettling",
     "count": 3
    },
@@ -5645,6 +5933,10 @@
    },
    {
     "tag": "ancient",
+    "count": 2
+   },
+   {
+    "tag": "anthology",
     "count": 2
    },
    {
@@ -5677,10 +5969,6 @@
    },
    {
     "tag": "college-read",
-    "count": 2
-   },
-   {
-    "tag": "dark-comedy",
     "count": 2
    },
    {
@@ -5728,6 +6016,10 @@
     "count": 2
    },
    {
+    "tag": "identity",
+    "count": 2
+   },
+   {
     "tag": "language",
     "count": 2
    },
@@ -5756,10 +6048,6 @@
     "count": 2
    },
    {
-    "tag": "music",
-    "count": 2
-   },
-   {
     "tag": "noir",
     "count": 2
    },
@@ -5769,6 +6057,10 @@
    },
    {
     "tag": "period",
+    "count": 2
+   },
+   {
+    "tag": "poetic",
     "count": 2
    },
    {
@@ -5880,11 +6172,11 @@
     "count": 1
    },
    {
-    "tag": "anthology",
+    "tag": "aphorism",
     "count": 1
    },
    {
-    "tag": "aphorism",
+    "tag": "artsy",
     "count": 1
    },
    {
@@ -5980,6 +6272,14 @@
     "count": 1
    },
    {
+    "tag": "coming-of-age",
+    "count": 1
+   },
+   {
+    "tag": "communal",
+    "count": 1
+   },
+   {
     "tag": "con",
     "count": 1
    },
@@ -6036,11 +6336,19 @@
     "count": 1
    },
    {
+    "tag": "delicate",
+    "count": 1
+   },
+   {
     "tag": "dense",
     "count": 1
    },
    {
     "tag": "desai",
+    "count": 1
+   },
+   {
+    "tag": "difficult",
     "count": 1
    },
    {
@@ -6081,6 +6389,10 @@
    },
    {
     "tag": "elmore-leonard",
+    "count": 1
+   },
+   {
+    "tag": "epic",
     "count": 1
    },
    {
@@ -6128,6 +6440,10 @@
     "count": 1
    },
    {
+    "tag": "generational",
+    "count": 1
+   },
+   {
     "tag": "gentle",
     "count": 1
    },
@@ -6153,6 +6469,10 @@
    },
    {
     "tag": "guha",
+    "count": 1
+   },
+   {
+    "tag": "gujarat",
     "count": 1
    },
    {
@@ -6192,15 +6512,15 @@
     "count": 1
    },
    {
-    "tag": "identity",
-    "count": 1
-   },
-   {
     "tag": "imagery",
     "count": 1
    },
    {
     "tag": "incentives",
+    "count": 1
+   },
+   {
+    "tag": "independent",
     "count": 1
    },
    {
@@ -6257,6 +6577,10 @@
    },
    {
     "tag": "la-noir",
+    "count": 1
+   },
+   {
+    "tag": "labour",
     "count": 1
    },
    {
@@ -6344,10 +6668,6 @@
     "count": 1
    },
    {
-    "tag": "mumbai",
-    "count": 1
-   },
-   {
     "tag": "neon",
     "count": 1
    },
@@ -6424,10 +6744,6 @@
     "count": 1
    },
    {
-    "tag": "poetic",
-    "count": 1
-   },
-   {
     "tag": "poetry",
     "count": 1
    },
@@ -6484,11 +6800,27 @@
     "count": 1
    },
    {
+    "tag": "quirky",
+    "count": 1
+   },
+   {
+    "tag": "ranveer-singh",
+    "count": 1
+   },
+   {
+    "tag": "ranvir-shorey",
+    "count": 1
+   },
+   {
     "tag": "redmayne",
     "count": 1
    },
    {
     "tag": "resilience",
+    "count": 1
+   },
+   {
+    "tag": "restrained",
     "count": 1
    },
    {
@@ -6540,6 +6872,10 @@
     "count": 1
    },
    {
+    "tag": "sonam-kapoor",
+    "count": 1
+   },
+   {
     "tag": "sorkin",
     "count": 1
    },
@@ -6565,10 +6901,6 @@
    },
    {
     "tag": "stylized",
-    "count": 1
-   },
-   {
-    "tag": "subtle",
     "count": 1
    },
    {
@@ -6648,6 +6980,10 @@
     "count": 1
    },
    {
+    "tag": "vinay-pathak",
+    "count": 1
+   },
+   {
     "tag": "visceral",
     "count": 1
    },
@@ -6721,6 +7057,15 @@
     ]
    },
    {
+    "name": "Anurag Kashyap",
+    "slug": "anurag-kashyap",
+    "count": 6,
+    "kinds": [
+     "film",
+     "tv"
+    ]
+   },
+   {
     "name": "Dibakar Banerjee",
     "slug": "dibakar-banerjee",
     "count": 6,
@@ -6734,15 +7079,6 @@
     "count": 6,
     "kinds": [
      "film"
-    ]
-   },
-   {
-    "name": "Anurag Kashyap",
-    "slug": "anurag-kashyap",
-    "count": 5,
-    "kinds": [
-     "film",
-     "tv"
     ]
    },
    {
@@ -6938,6 +7274,14 @@
     ]
    },
    {
+    "name": "Rajat Kapoor",
+    "slug": "rajat-kapoor",
+    "count": 2,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Robert Greene",
     "slug": "robert-greene",
     "count": 2,
@@ -6970,6 +7314,15 @@
     ]
    },
    {
+    "name": "Vikramaditya Motwane",
+    "slug": "vikramaditya-motwane",
+    "count": 2,
+    "kinds": [
+     "film",
+     "tv"
+    ]
+   },
+   {
     "name": "Adam Grant",
     "slug": "adam-grant",
     "count": 1,
@@ -6988,6 +7341,14 @@
    {
     "name": "Amar Kaushik",
     "slug": "amar-kaushik",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Anand Gandhi",
+    "slug": "anand-gandhi",
     "count": 1,
     "kinds": [
      "film"
@@ -7458,6 +7819,14 @@
     ]
    },
    {
+    "name": "Nandita Das",
+    "slug": "nandita-das",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Neeraj Ghaywan",
     "slug": "neeraj-ghaywan",
     "count": 1,
@@ -7506,6 +7875,14 @@
     ]
    },
    {
+    "name": "Prateek Vats",
+    "slug": "prateek-vats",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Puneet Krishna",
     "slug": "puneet-krishna",
     "count": 1,
@@ -7538,6 +7915,14 @@
     ]
    },
    {
+    "name": "Ram Madhvani",
+    "slug": "ram-madhvani",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Ramachandra Guha",
     "slug": "ramachandra-guha",
     "count": 1,
@@ -7559,6 +7944,14 @@
     "count": 1,
     "kinds": [
      "tv"
+    ]
+   },
+   {
+    "name": "Ritesh Batra",
+    "slug": "ritesh-batra",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {
@@ -7599,6 +7992,14 @@
     "count": 1,
     "kinds": [
      "tv"
+    ]
+   },
+   {
+    "name": "Sagar Ballary",
+    "slug": "sagar-ballary",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {
@@ -7754,14 +8155,6 @@
     ]
    },
    {
-    "name": "Vikramaditya Motwane",
-    "slug": "vikramaditya-motwane",
-    "count": 1,
-    "kinds": [
-     "tv"
-    ]
-   },
-   {
     "name": "Vishal Bhardwaj",
     "slug": "vishal-bhardwaj",
     "count": 1,
@@ -7775,6 +8168,14 @@
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Zoya Akhtar",
+    "slug": "zoya-akhtar",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    }
   ]

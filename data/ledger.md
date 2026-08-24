@@ -2074,6 +2074,170 @@ imdbid: tt8108202
 imdb: 7.5
 rt: 80
 
+## Eeb Allay Ooo!
+kind: film
+region: indian
+by: Prateek Vats
+year: 2019
+status: done
+must: yes
+rating: essential
+tags: hindi, satire, delhi, subtle, realism, labour, must-watch
+note: A beautiful, subtle film and a sharp satire at the same time, which almost nothing manages. A man employed to scare monkeys off government buildings, and the whole country is in there.
+art: img/art/eeb-allay-ooo-prateek-vats.jpg
+imdbid: tt9343754
+imdb: 7.2
+rt: 100
+
+## Aankhon Dekhi
+kind: film
+region: indian
+by: Rajat Kapoor
+year: 2013
+status: done
+must: yes
+rating: essential
+tags: hindi, philosophy, delhi, poetic, family, subtle, must-watch
+note: Extremely poetic, and it will take you straight back to a childhood in Delhi NCR. A man decides to believe only what he sees for himself, and the film treats that as both funny and holy.
+art: img/art/aankhon-dekhi-rajat-kapoor.jpg
+imdbid: tt3614516
+imdb: 7.9
+
+## Udaan
+kind: film
+region: indian
+by: Vikramaditya Motwane
+year: 2010
+status: done
+must: yes
+rating: essential
+tags: hindi, coming-of-age, family, subtle, realism, must-watch
+note: A subtle film about the dark side of Indian parents, and it never once raises its voice to make the point. The father is frightening precisely because you recognise him.
+art: img/art/udaan-vikramaditya-motwane.jpg
+imdbid: tt1639426
+imdb: 8.1
+
+## Gangs of Wasseypur
+kind: film
+region: indian
+by: Anurag Kashyap
+year: 2012
+status: done
+must: yes
+rating: essential
+tags: kashyap, hindi, crime, epic, generational, must-watch
+note: Indian cinema at its most ambitious, and it reads like a book more than a film. Generations of grudges, and it earns every one of its hours.
+art: img/art/gangs-of-wasseypur-anurag-kashyap.jpg
+imdbid: tt1954470
+imdb: 8.2
+mc: 89
+rt: 91
+
+## The Lunchbox
+kind: film
+region: indian
+by: Ritesh Batra
+year: 2013
+status: done
+must: yes
+rating: essential
+tags: hindi, romance, mumbai, delicate, restrained, must-watch
+note: India's export ready cinema, and I mean that as a compliment here. A delicate film that understands exactly how much to leave unsaid.
+art: img/art/the-lunchbox-ritesh-batra.jpg
+imdbid: tt2350496
+imdb: 7.8
+mc: 76
+rt: 97
+
+## Mithya
+kind: film
+region: indian
+by: Rajat Kapoor
+year: 2008
+status: done
+must: no
+rating: strong
+tags: hindi, dark-comedy, identity, performances, ranvir-shorey
+note: Ranvir Shorey is great in it and the performance is genuinely heartbreaking. Emotionally charged in a way the setup never prepares you for.
+art: img/art/mithya-rajat-kapoor.jpg
+imdbid: tt1179782
+imdb: 7.0
+
+## Gully Boy
+kind: film
+region: indian
+by: Zoya Akhtar
+year: 2019
+status: done
+must: no
+rating: strong
+tags: hindi, music, mumbai, performances, ranveer-singh
+note: Not a must watch, but watch it for Ranveer Singh. He is completely convincing and the film around him is a lot more conventional than he is.
+art: img/art/gully-boy-zoya-akhtar.jpg
+imdbid: tt2395469
+imdb: 7.9
+mc: 65
+rt: 96
+
+## Neerja
+kind: film
+region: indian
+by: Ram Madhvani
+year: 2016
+status: done
+must: no
+rating: strong
+tags: hindi, thriller, true-story, performances, sonam-kapoor
+note: Not a must watch. The only film you can actually watch Sonam Kapoor in, and she is genuinely good.
+art: img/art/neerja-ram-madhvani.jpg
+imdbid: tt5286444
+imdb: 7.6
+rt: 100
+
+## Firaaq
+kind: film
+region: indian
+by: Nandita Das
+year: 2008
+status: done
+must: no
+rating: strong
+tags: hindi, drama, communal, gujarat, difficult, realism
+note: A difficult watch, and it means to be. Several lives after the riots, none of them resolved, none of them let off.
+art: img/art/firaaq-nandita-das.jpg
+imdbid: tt1263679
+imdb: 7.3
+
+## Ship of Theseus
+kind: film
+region: indian
+by: Anand Gandhi
+year: 2012
+status: done
+must: no
+rating: strong
+tags: hindi, philosophy, artsy, anthology, independent
+note: Artsy, and it wears that openly. Three stories about bodies and identity, more interesting to argue about afterwards than to sit through.
+art: img/art/ship-of-theseus-anand-gandhi.jpg
+imdbid: tt1773764
+imdb: 8.0
+rt: 95
+
+## Bheja Fry
+kind: film
+region: indian
+by: Sagar Ballary
+year: 2007
+status: done
+must: no
+rating: strong
+tags: hindi, comedy, quirky, adaptation, vinay-pathak
+note: A good quirky take on comedy and not a must watch. Vinay Pathak is relentless in it, which is the joke and eventually the point.
+art: img/art/bheja-fry-sagar-ballary.jpg
+imdbid: tt1014672
+imdb: 7.6
+
+
 
 
 
