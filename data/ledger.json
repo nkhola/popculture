@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 229,
+ "count": 232,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -3440,6 +3440,80 @@
    "imdbid": "tt1014672"
   },
   {
+   "slug": "being-cyrus-homi-adajania",
+   "title": "Being Cyrus",
+   "kind": "film",
+   "region": "indian",
+   "by": "Homi Adajania",
+   "year": 2005,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "english",
+    "noir",
+    "dark-comedy",
+    "parsi",
+    "saif",
+    "must-watch"
+   ],
+   "note": "Saif as Cyrus, and it is still the strangest thing on his filmography in the best possible way. An English language Parsi noir that nobody in Bombay was making at the time.",
+   "art": "img/art/being-cyrus-homi-adajania.jpg?v=dac053dc",
+   "imdb": 7.1,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt0412308"
+  },
+  {
+   "slug": "jolly-llb-subhash-kapoor",
+   "title": "Jolly LLB",
+   "kind": "film",
+   "region": "indian",
+   "by": "Subhash Kapoor",
+   "year": 2013,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "courtroom",
+    "satire",
+    "comedy",
+    "must-watch"
+   ],
+   "note": "A must watch. Courtroom satire that stays funny without once letting the system off the hook, and Saurabh Shukla walks away with the whole film.",
+   "art": "img/art/jolly-llb-subhash-kapoor.jpg?v=fd8efe2e",
+   "imdb": 7.5,
+   "rt": 63,
+   "mc": null,
+   "imdbid": "tt2621000"
+  },
+  {
+   "slug": "darna-mana-hai-prawaal-raman",
+   "title": "Darna Mana Hai",
+   "kind": "film",
+   "region": "indian",
+   "by": "Prawaal Raman",
+   "year": 2003,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "hindi",
+    "horror",
+    "anthology",
+    "rgv",
+    "quirky"
+   ],
+   "note": "A nice take on horror, and genuinely modern for when it came out. An anthology where the frame story is half the fun and two or three of the segments really land.",
+   "art": "img/art/darna-mana-hai-prawaal-raman.jpg?v=f0ed08fe",
+   "imdb": 6.3,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt0349333"
+  },
+  {
    "slug": "severance-dan-erickson-ben-stiller",
    "title": "Severance",
    "kind": "tv",
@@ -5489,11 +5563,11 @@
   "tags": [
    {
     "tag": "hindi",
-    "count": 64
+    "count": 67
    },
    {
     "tag": "must-watch",
-    "count": 59
+    "count": 61
    },
    {
     "tag": "thriller",
@@ -5505,7 +5579,7 @@
    },
    {
     "tag": "comedy",
-    "count": 29
+    "count": 30
    },
    {
     "tag": "shelf",
@@ -5528,15 +5602,15 @@
     "count": 15
    },
    {
+    "tag": "horror",
+    "count": 14
+   },
+   {
     "tag": "entertainer",
     "count": 13
    },
    {
     "tag": "fincher",
-    "count": 13
-   },
-   {
-    "tag": "horror",
     "count": 13
    },
    {
@@ -5548,11 +5622,11 @@
     "count": 11
    },
    {
-    "tag": "philosophy",
-    "count": 10
+    "tag": "satire",
+    "count": 11
    },
    {
-    "tag": "satire",
+    "tag": "philosophy",
     "count": 10
    },
    {
@@ -5588,6 +5662,10 @@
     "count": 8
    },
    {
+    "tag": "english",
+    "count": 8
+   },
+   {
     "tag": "raj-dk",
     "count": 8
    },
@@ -5597,10 +5675,6 @@
    },
    {
     "tag": "delhi",
-    "count": 7
-   },
-   {
-    "tag": "english",
     "count": 7
    },
    {
@@ -5732,6 +5806,10 @@
     "count": 4
    },
    {
+    "tag": "dark-comedy",
+    "count": 4
+   },
+   {
     "tag": "debut",
     "count": 4
    },
@@ -5808,6 +5886,10 @@
     "count": 3
    },
    {
+    "tag": "anthology",
+    "count": 3
+   },
+   {
     "tag": "bombay",
     "count": 3
    },
@@ -5844,10 +5926,6 @@
     "count": 3
    },
    {
-    "tag": "dark-comedy",
-    "count": 3
-   },
-   {
     "tag": "ensemble",
     "count": 3
    },
@@ -5881,6 +5959,10 @@
    },
    {
     "tag": "music",
+    "count": 3
+   },
+   {
+    "tag": "noir",
     "count": 3
    },
    {
@@ -5936,10 +6018,6 @@
     "count": 2
    },
    {
-    "tag": "anthology",
-    "count": 2
-   },
-   {
     "tag": "apple-tv",
     "count": 2
    },
@@ -5969,6 +6047,10 @@
    },
    {
     "tag": "college-read",
+    "count": 2
+   },
+   {
+    "tag": "courtroom",
     "count": 2
    },
    {
@@ -6048,10 +6130,6 @@
     "count": 2
    },
    {
-    "tag": "noir",
-    "count": 2
-   },
-   {
     "tag": "objectivism",
     "count": 2
    },
@@ -6076,11 +6154,19 @@
     "count": 2
    },
    {
+    "tag": "quirky",
+    "count": 2
+   },
+   {
     "tag": "rajasthan",
     "count": 2
    },
    {
     "tag": "rushdie",
+    "count": 2
+   },
+   {
+    "tag": "saif",
     "count": 2
    },
    {
@@ -6293,10 +6379,6 @@
    },
    {
     "tag": "course",
-    "count": 1
-   },
-   {
-    "tag": "courtroom",
     "count": 1
    },
    {
@@ -6712,6 +6794,10 @@
     "count": 1
    },
    {
+    "tag": "parsi",
+    "count": 1
+   },
+   {
     "tag": "partition",
     "count": 1
    },
@@ -6800,10 +6886,6 @@
     "count": 1
    },
    {
-    "tag": "quirky",
-    "count": 1
-   },
-   {
     "tag": "ranveer-singh",
     "count": 1
    },
@@ -6824,15 +6906,15 @@
     "count": 1
    },
    {
+    "tag": "rgv",
+    "count": 1
+   },
+   {
     "tag": "risk",
     "count": 1
    },
    {
     "tag": "road-movie",
-    "count": 1
-   },
-   {
-    "tag": "saif",
     "count": 1
    },
    {
@@ -7619,6 +7701,14 @@
     ]
    },
    {
+    "name": "Homi Adajania",
+    "slug": "homi-adajania",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Howard Schubiner",
     "slug": "howard-schubiner",
     "count": 1,
@@ -7883,6 +7973,14 @@
     ]
    },
    {
+    "name": "Prawaal Raman",
+    "slug": "prawaal-raman",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Puneet Krishna",
     "slug": "puneet-krishna",
     "count": 1,
@@ -8072,6 +8170,14 @@
     "count": 1,
     "kinds": [
      "tv"
+    ]
+   },
+   {
+    "name": "Subhash Kapoor",
+    "slug": "subhash-kapoor",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {

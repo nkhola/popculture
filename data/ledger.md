@@ -2237,6 +2237,50 @@ art: img/art/bheja-fry-sagar-ballary.jpg
 imdbid: tt1014672
 imdb: 7.6
 
+## Being Cyrus
+kind: film
+region: indian
+by: Homi Adajania
+year: 2005
+status: done
+must: yes
+rating: strong
+tags: hindi, english, noir, dark-comedy, parsi, saif, must-watch
+note: Saif as Cyrus, and it is still the strangest thing on his filmography in the best possible way. An English language Parsi noir that nobody in Bombay was making at the time.
+art: img/art/being-cyrus-homi-adajania.jpg
+imdbid: tt0412308
+imdb: 7.1
+
+## Jolly LLB
+kind: film
+region: indian
+by: Subhash Kapoor
+year: 2013
+status: done
+must: yes
+rating: strong
+tags: hindi, courtroom, satire, comedy, must-watch
+note: A must watch. Courtroom satire that stays funny without once letting the system off the hook, and Saurabh Shukla walks away with the whole film.
+art: img/art/jolly-llb-subhash-kapoor.jpg
+imdbid: tt2621000
+imdb: 7.5
+rt: 63
+
+## Darna Mana Hai
+kind: film
+region: indian
+by: Prawaal Raman
+year: 2003
+status: done
+must: no
+rating: strong
+tags: hindi, horror, anthology, rgv, quirky
+note: A nice take on horror, and genuinely modern for when it came out. An anthology where the frame story is half the fun and two or three of the segments really land.
+art: img/art/darna-mana-hai-prawaal-raman.jpg
+imdbid: tt0349333
+imdb: 6.3
+
+
 
 
 
