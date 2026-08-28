@@ -1395,6 +1395,71 @@ imdb: 6.9
 mc: 61
 rt: 73
 
+## The Northman
+kind: film
+region: world
+by: Robert Eggers
+year: 2022
+status: done
+must: yes
+rating: strong
+tags: eggers, revenge, historical, viking, bleak, must-watch
+note: Eggers doing a revenge saga with total commitment to the period, mud and all. Bleak, loud, and it looks extraordinary.
+art: img/art/the-northman-robert-eggers.jpg
+imdbid: tt11138512
+imdb: 7.0
+mc: 82
+rt: 90
+
+## The Witch
+kind: film
+region: world
+by: Robert Eggers
+year: 2015
+status: done
+must: yes
+rating: strong
+tags: eggers, horror, folk-horror, historical, slow-burn, must-watch
+note: Slow, cold and genuinely unnerving, with dialogue lifted close to the period record. The ending is the only honest way out of it.
+art: img/art/the-witch-robert-eggers.jpg
+imdbid: tt4263482
+imdb: 7.0
+mc: 84
+rt: 91
+
+## I Don't Feel at Home in This World Anymore
+kind: film
+region: world
+by: Macon Blair
+year: 2017
+status: done
+must: yes
+rating: strong
+tags: indie, dark-comedy, crime, sunday-watch, must-watch
+note: A fun watch and exactly right for a Sunday night. Starts as one small indignity and escalates a lot further than you expect, without ever losing the joke.
+art: img/art/i-don-t-feel-at-home-in-this-world-anymore-macon-blair.jpg
+imdbid: tt5710514
+imdb: 6.9
+mc: 75
+rt: 89
+
+## Blue Ruin
+kind: film
+region: world
+by: Jeremy Saulnier
+year: 2013
+status: done
+must: yes
+rating: strong
+tags: indie, revenge, thriller, quiet, sunday-watch, must-watch
+note: The same indie streak, quieter and meaner. A revenge film about a man with no idea how to actually do revenge, which is the entire point.
+art: img/art/blue-ruin-jeremy-saulnier.jpg
+imdbid: tt2359024
+imdb: 7.1
+mc: 78
+rt: 96
+
+
 
 
 
@@ -2607,8 +2672,8 @@ year: 2013
 status: done
 must: no
 rating: strong
-tags: crime, british, grief, procedural
-note: A two. The first season is the one, and the town does as much work as the case.
+tags: crime, british, grief, procedural, slow-burn, character-work
+note: A slow burn with good character work, where the town does as much of the work as the case does. A two, not a must watch.
 art: img/art/broadchurch-chris-chibnall.jpg
 imdbid: tt2249364
 imdb: 8.3
@@ -2808,6 +2873,63 @@ note: Not much to highlight or remember. A one.
 art: img/art/citadel-honey-bunny-raj-dk.jpg
 imdbid: tt27111295
 imdb: 6.2
+
+## Ludwig
+kind: tv
+region: world
+by: Mark Brotherhood
+year: 2024
+status: done
+must: yes
+rating: strong
+tags: british, detective, comedy, puzzle, must-watch
+note: The Sherlock formula with a good twist on it, a puzzle setter impersonating his detective twin. David Mitchell is exactly right for the part and it never overstays.
+art: img/art/ludwig-mark-brotherhood.jpg
+imdbid: tt27846061
+imdb: 8.1
+
+## Dexter
+kind: tv
+region: world
+by: James Manos Jr.
+year: 2006
+status: done
+must: no
+rating: strong
+tags: crime, serial-killer, michael-c-hall, long-running
+note: Michael C. Hall is superb throughout and carries even the weak stretches. Seasons one, two and four are the brilliant ones, and season four with Lithgow is the peak of the entire show.
+art: img/art/dexter-james-manos-jr.jpg
+imdbid: tt0773262
+imdb: 8.6
+
+## Dexter: New Blood
+kind: tv
+region: world
+by: Clyde Phillips
+year: 2021
+status: done
+must: no
+rating: strong
+tags: crime, revival, michael-c-hall, snow
+note: A decent return that mostly justifies itself. Colder setting, tighter run, and a better ending than the original ever got.
+art: img/art/dexter-new-blood-clyde-phillips.jpg
+imdbid: tt14164730
+imdb: 8.0
+
+## Dexter: Resurrection
+kind: tv
+region: world
+by: Clyde Phillips
+year: 2025
+status: done
+must: yes
+rating: essential
+tags: crime, revival, michael-c-hall, recent-watch, must-watch
+note: The best of the revivals by a distance. Hall is still completely in command of the part and the show finally feels like it knows what it is again.
+art: img/art/dexter-resurrection-clyde-phillips.jpg
+imdbid: tt33043892
+imdb: 9.0
+
 
 
 
