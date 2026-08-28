@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 240,
+ "count": 241,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -4602,6 +4602,31 @@
    "imdbid": "tt33043892"
   },
   {
+   "slug": "poker-face-rian-johnson",
+   "title": "Poker Face",
+   "kind": "tv",
+   "region": "world",
+   "by": "Rian Johnson",
+   "year": 2023,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "mystery",
+    "howcatchem",
+    "columbo",
+    "rian-johnson",
+    "case-of-the-week",
+    "must-watch"
+   ],
+   "note": "A proper Columbo howcatchem, where you watch the murder happen first and then watch her unpick it, and the format suits Rian Johnson perfectly after Glass Onion. Season one is the must watch, the lotto ticket episode and the Colorado one especially, both of them great television, and season two is a slight step down.",
+   "art": "img/art/poker-face-rian-johnson.jpg?v=3e62449e",
+   "imdb": 7.8,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt14269590"
+  },
+  {
    "slug": "your-erroneous-zones-wayne-dyer",
    "title": "Your Erroneous Zones",
    "kind": "book",
@@ -5757,11 +5782,11 @@
  "facets": {
   "tags": [
    {
-    "tag": "hindi",
-    "count": 67
+    "tag": "must-watch",
+    "count": 68
    },
    {
-    "tag": "must-watch",
+    "tag": "hindi",
     "count": 67
    },
    {
@@ -5905,6 +5930,10 @@
     "count": 6
    },
    {
+    "tag": "mystery",
+    "count": 6
+   },
+   {
     "tag": "novel",
     "count": 6
    },
@@ -5954,10 +5983,6 @@
    },
    {
     "tag": "must-read",
-    "count": 5
-   },
-   {
-    "tag": "mystery",
     "count": 5
    },
    {
@@ -6569,6 +6594,10 @@
     "count": 1
    },
    {
+    "tag": "case-of-the-week",
+    "count": 1
+   },
+   {
     "tag": "childhood",
     "count": 1
    },
@@ -6582,6 +6611,10 @@
    },
    {
     "tag": "collection",
+    "count": 1
+   },
+   {
+    "tag": "columbo",
     "count": 1
    },
    {
@@ -6814,6 +6847,10 @@
    },
    {
     "tag": "horror-comedy",
+    "count": 1
+   },
+   {
+    "tag": "howcatchem",
     "count": 1
    },
    {
@@ -7130,6 +7167,10 @@
    },
    {
     "tag": "rgv",
+    "count": 1
+   },
+   {
+    "tag": "rian-johnson",
     "count": 1
    },
    {
@@ -8309,6 +8350,14 @@
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Rian Johnson",
+    "slug": "rian-johnson",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {

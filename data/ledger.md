@@ -2930,6 +2930,21 @@ art: img/art/dexter-resurrection-clyde-phillips.jpg
 imdbid: tt33043892
 imdb: 9.0
 
+## Poker Face
+kind: tv
+region: world
+by: Rian Johnson
+year: 2023
+status: done
+must: yes
+rating: strong
+tags: mystery, howcatchem, columbo, rian-johnson, case-of-the-week, must-watch
+note: A proper Columbo howcatchem, where you watch the murder happen first and then watch her unpick it, and the format suits Rian Johnson perfectly after Glass Onion. Season one is the must watch, the lotto ticket episode and the Colorado one especially, both of them great television, and season two is a slight step down.
+art: img/art/poker-face-rian-johnson.jpg
+imdbid: tt14269590
+imdb: 7.8
+
+
 
 
 
