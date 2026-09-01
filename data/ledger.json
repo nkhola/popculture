@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 241,
+ "count": 243,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -3644,17 +3644,16 @@
    "region": "world",
    "by": "",
    "year": 2026,
-   "status": "now",
+   "status": "done",
    "must": false,
    "rating": "decent",
    "tags": [
     "crime",
     "drama",
     "thriller",
-    "currently-watching",
     "recent-watch"
    ],
-   "note": "Not bad, kinda mid. Watchable enough to keep going, not good enough to recommend to anybody.",
+   "note": "Not bad, kinda mid. Watchable enough to have finished, not good enough to recommend to anybody. A one.",
    "art": "img/art/furious-unknown.jpg?v=bf60454b",
    "imdb": null,
    "rt": null,
@@ -4514,7 +4513,7 @@
    "region": "world",
    "by": "Mark Brotherhood",
    "year": 2024,
-   "status": "done",
+   "status": "now",
    "must": true,
    "rating": "strong",
    "tags": [
@@ -4524,7 +4523,7 @@
     "puzzle",
     "must-watch"
    ],
-   "note": "The Sherlock formula with a good twist on it, a puzzle setter impersonating his detective twin. David Mitchell is exactly right for the part and it never overstays.",
+   "note": "The Sherlock formula with a good twist on it, a puzzle setter impersonating his detective twin. David Mitchell is exactly right for the part and it never overstays. Season two is what I am on now.",
    "art": "img/art/ludwig-mark-brotherhood.jpg?v=9d2954ed",
    "imdb": 8.1,
    "rt": null,
@@ -4625,6 +4624,53 @@
    "rt": null,
    "mc": null,
    "imdbid": "tt14269590"
+  },
+  {
+   "slug": "lanterns-chris-mundy-damon-lindelof-tom-king",
+   "title": "Lanterns",
+   "kind": "tv",
+   "region": "world",
+   "by": "Chris Mundy, Damon Lindelof, Tom King",
+   "year": 2026,
+   "status": "now",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "crime",
+    "superhero",
+    "dc",
+    "slow-burn",
+    "currently-watching"
+   ],
+   "note": "Currently watching, and a two so far. Green Lantern rebuilt as a slow burn crime story, which suits the material better than the costume ever did.",
+   "art": "img/art/lanterns-chris-mundy-damon-lindelof-tom-king.jpg?v=9db55067",
+   "imdb": 8.4,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt26545992"
+  },
+  {
+   "slug": "reacher-nick-santora",
+   "title": "Reacher",
+   "kind": "tv",
+   "region": "world",
+   "by": "Nick Santora",
+   "year": 2022,
+   "status": "now",
+   "must": false,
+   "rating": "unrated",
+   "tags": [
+    "action",
+    "crime",
+    "thriller",
+    "currently-watching"
+   ],
+   "note": "On the latest season now. No rating yet, this one is still in progress.",
+   "art": "img/art/reacher-nick-santora.jpg?v=442bc388",
+   "imdb": 8.0,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt9288030"
   },
   {
    "slug": "your-erroneous-zones-wayne-dyer",
@@ -5791,11 +5837,11 @@
    },
    {
     "tag": "thriller",
-    "count": 52
+    "count": 53
    },
    {
     "tag": "crime",
-    "count": 45
+    "count": 47
    },
    {
     "tag": "comedy",
@@ -5806,12 +5852,12 @@
     "count": 24
    },
    {
-    "tag": "realism",
+    "tag": "action",
     "count": 20
    },
    {
-    "tag": "action",
-    "count": 19
+    "tag": "realism",
+    "count": 20
    },
    {
     "tag": "drama",
@@ -5894,6 +5940,10 @@
     "count": 8
    },
    {
+    "tag": "slow-burn",
+    "count": 8
+   },
+   {
     "tag": "delhi",
     "count": 7
    },
@@ -5907,10 +5957,6 @@
    },
    {
     "tag": "psychology",
-    "count": 7
-   },
-   {
-    "tag": "slow-burn",
     "count": 7
    },
    {
@@ -6286,6 +6332,10 @@
     "count": 2
    },
    {
+    "tag": "currently-watching",
+    "count": 2
+   },
+   {
     "tag": "disturbing",
     "count": 2
    },
@@ -6654,10 +6704,6 @@
     "count": 1
    },
    {
-    "tag": "currently-watching",
-    "count": 1
-   },
-   {
     "tag": "dahl",
     "count": 1
    },
@@ -6671,6 +6717,10 @@
    },
    {
     "tag": "daylight",
+    "count": 1
+   },
+   {
+    "tag": "dc",
     "count": 1
    },
    {
@@ -7251,6 +7301,10 @@
    },
    {
     "tag": "success",
+    "count": 1
+   },
+   {
+    "tag": "superhero",
     "count": 1
    },
    {
@@ -7849,11 +7903,27 @@
     ]
    },
    {
+    "name": "Chris Mundy",
+    "slug": "chris-mundy",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
     "name": "Curry Barker",
     "slug": "curry-barker",
     "count": 1,
     "kinds": [
      "film"
+    ]
+   },
+   {
+    "name": "Damon Lindelof",
+    "slug": "damon-lindelof",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -8241,6 +8311,14 @@
     ]
    },
    {
+    "name": "Nick Santora",
+    "slug": "nick-santora",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
     "name": "Nithilan Swaminathan",
     "slug": "nithilan-swaminathan",
     "count": 1,
@@ -8550,6 +8628,14 @@
     "count": 1,
     "kinds": [
      "film"
+    ]
+   },
+   {
+    "name": "Tom King",
+    "slug": "tom-king",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {

@@ -2375,11 +2375,11 @@ kind: tv
 region: world
 by: 
 year: 2026
-status: now
+status: done
 must: no
 rating: decent
-tags: crime, drama, thriller, currently-watching, recent-watch
-note: Not bad, kinda mid. Watchable enough to keep going, not good enough to recommend to anybody.
+tags: crime, drama, thriller, recent-watch
+note: Not bad, kinda mid. Watchable enough to have finished, not good enough to recommend to anybody. A one.
 art: img/art/furious-unknown.jpg
 imdbid: tt36303968
 
@@ -2879,11 +2879,11 @@ kind: tv
 region: world
 by: Mark Brotherhood
 year: 2024
-status: done
+status: now
 must: yes
 rating: strong
 tags: british, detective, comedy, puzzle, must-watch
-note: The Sherlock formula with a good twist on it, a puzzle setter impersonating his detective twin. David Mitchell is exactly right for the part and it never overstays.
+note: The Sherlock formula with a good twist on it, a puzzle setter impersonating his detective twin. David Mitchell is exactly right for the part and it never overstays. Season two is what I am on now.
 art: img/art/ludwig-mark-brotherhood.jpg
 imdbid: tt27846061
 imdb: 8.1
@@ -2943,6 +2943,35 @@ note: A proper Columbo howcatchem, where you watch the murder happen first and t
 art: img/art/poker-face-rian-johnson.jpg
 imdbid: tt14269590
 imdb: 7.8
+
+## Lanterns
+kind: tv
+region: world
+by: Chris Mundy, Damon Lindelof, Tom King
+year: 2026
+status: now
+must: no
+rating: strong
+tags: crime, superhero, dc, slow-burn, currently-watching
+note: Currently watching, and a two so far. Green Lantern rebuilt as a slow burn crime story, which suits the material better than the costume ever did.
+art: img/art/lanterns-chris-mundy-damon-lindelof-tom-king.jpg
+imdbid: tt26545992
+imdb: 8.4
+
+## Reacher
+kind: tv
+region: world
+by: Nick Santora
+year: 2022
+status: now
+must: no
+rating: unrated
+tags: action, crime, thriller, currently-watching
+note: On the latest season now. No rating yet, this one is still in progress.
+art: img/art/reacher-nick-santora.jpg
+imdbid: tt9288030
+imdb: 8.0
+
 
 
 
