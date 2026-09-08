@@ -1459,6 +1459,120 @@ imdb: 7.1
 mc: 78
 rt: 96
 
+## Uncut Gems
+kind: film
+region: world
+by: Josh Safdie, Benny Safdie
+year: 2019
+status: done
+must: yes
+rating: essential
+tags: safdie, thriller, anxiety, new-york, sandler, must-watch
+note: The Safdies filming anxiety itself. Two hours of a man taking the worst available option at every single turn, shot so you cannot look away from it.
+art: img/art/uncut-gems-josh-safdie-benny-safdie.jpg
+imdbid: tt5727208
+imdb: 7.4
+mc: 93
+rt: 91
+
+## Good Time
+kind: film
+region: world
+by: Josh Safdie, Benny Safdie
+year: 2017
+status: done
+must: yes
+rating: essential
+tags: safdie, thriller, crime, new-york, pattinson, must-watch
+note: The same Safdie filmmaking and just as relentless. One long bad night in New York, with Pattinson completely unrecognisable in it.
+art: img/art/good-time-josh-safdie-benny-safdie.jpg
+imdbid: tt4846232
+imdb: 7.3
+mc: 80
+rt: 91
+
+## Before Sunrise
+kind: film
+region: world
+by: Richard Linklater
+year: 1995
+status: done
+must: yes
+rating: essential
+tags: linklater, romance, dialogue, vienna, before-trilogy, must-watch
+note: The best of the three, and the one that had no idea it would become a trilogy. Two people talking for a single night, and the most romantic thing on this whole list.
+art: img/art/before-sunrise-richard-linklater.jpg
+imdbid: tt0112471
+imdb: 8.1
+mc: 79
+rt: 100
+
+## Before Sunset
+kind: film
+region: world
+by: Richard Linklater
+year: 2004
+status: done
+must: no
+rating: strong
+tags: linklater, romance, dialogue, paris, before-trilogy
+note: Shorter, sharper, and it hurts more. Nine years on and both of them are carrying something they will not quite say.
+art: img/art/before-sunset-richard-linklater.jpg
+imdbid: tt0381681
+imdb: 8.1
+mc: 91
+rt: 94
+
+## Before Midnight
+kind: film
+region: world
+by: Richard Linklater
+year: 2013
+status: done
+must: no
+rating: strong
+tags: linklater, romance, dialogue, greece, before-trilogy
+note: The least comfortable of the three, by design. The argument in the hotel room is the most honest scene Linklater has ever shot.
+art: img/art/before-midnight-richard-linklater.jpg
+imdbid: tt2209418
+imdb: 7.9
+mc: 94
+rt: 98
+
+## The Black Phone
+kind: film
+region: world
+by: Scott Derrickson
+year: 2021
+status: done
+must: no
+rating: strong
+tags: horror, thriller, period, entertainer, hawke
+note: Entertaining horror and not a must watch. Hawke is good value behind the mask and the period detail does more work than the plot does.
+art: img/art/the-black-phone-scott-derrickson.jpg
+imdbid: tt7144666
+imdb: 6.9
+mc: 65
+rt: 81
+
+## The Invitation
+kind: film
+region: world
+by: Karyn Kusama
+year: 2015
+status: done
+must: no
+rating: strong
+tags: horror, thriller, slow-burn, dinner-party, paranoia
+flag: taken as the 2015 Kusama film rather than the 2022 vampire one, since you listed it with Aster
+note: A dinner party that goes wrong very slowly. Kusama keeps you unsure whether the paranoia is justified right up until the moment it matters.
+art: img/art/the-invitation-karyn-kusama.jpg
+imdbid: tt2400463
+imdb: 6.6
+mc: 74
+rt: 90
+
+
 
 
 
@@ -2971,6 +3085,49 @@ note: On the latest season now. No rating yet, this one is still in progress.
 art: img/art/reacher-nick-santora.jpg
 imdbid: tt9288030
 imdb: 8.0
+
+## Nathan for You
+kind: tv
+region: world
+by: Nathan Fielder
+year: 2013
+status: done
+must: yes
+rating: essential
+tags: nathan-fielder, comedy, documentary, absurd, must-watch
+note: Nathan Fielder is the greatest and most singular creator working in this format, and this is where it starts. A business advice show that slowly turns into something far stranger and much sadder.
+art: img/art/nathan-for-you-nathan-fielder.jpg
+imdbid: tt2297757
+imdb: 8.9
+
+## The Rehearsal
+kind: tv
+region: world
+by: Nathan Fielder
+year: 2022
+status: done
+must: yes
+rating: essential
+tags: nathan-fielder, comedy, documentary, absurd, meta, must-watch
+note: The same mind with an unlimited budget, going somewhere no other show would even attempt. If you want the argument for Fielder being the best there is, it is this.
+art: img/art/the-rehearsal-nathan-fielder.jpg
+imdbid: tt10802170
+imdb: 8.5
+
+## How To with John Wilson
+kind: tv
+region: world
+by: John Wilson
+year: 2020
+status: done
+must: yes
+rating: essential
+tags: documentary, comedy, absurd, visual, new-york, must-watch
+note: Step aside Sacha Baron Cohen. The beautiful absurd taking over in its purest visual form, built entirely from footage nobody else would have thought to keep.
+art: img/art/how-to-with-john-wilson-john-wilson.jpg
+imdbid: tt10801534
+imdb: 8.7
+
 
 
 

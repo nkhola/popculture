@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 243,
+ "count": 253,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -2127,6 +2127,178 @@
    "rt": 96,
    "mc": 78,
    "imdbid": "tt2359024"
+  },
+  {
+   "slug": "uncut-gems-josh-safdie-benny-safdie",
+   "title": "Uncut Gems",
+   "kind": "film",
+   "region": "world",
+   "by": "Josh Safdie, Benny Safdie",
+   "year": 2019,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "safdie",
+    "thriller",
+    "anxiety",
+    "new-york",
+    "sandler",
+    "must-watch"
+   ],
+   "note": "The Safdies filming anxiety itself. Two hours of a man taking the worst available option at every single turn, shot so you cannot look away from it.",
+   "art": "img/art/uncut-gems-josh-safdie-benny-safdie.jpg?v=fee3015e",
+   "imdb": 7.4,
+   "rt": 91,
+   "mc": 93,
+   "imdbid": "tt5727208"
+  },
+  {
+   "slug": "good-time-josh-safdie-benny-safdie",
+   "title": "Good Time",
+   "kind": "film",
+   "region": "world",
+   "by": "Josh Safdie, Benny Safdie",
+   "year": 2017,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "safdie",
+    "thriller",
+    "crime",
+    "new-york",
+    "pattinson",
+    "must-watch"
+   ],
+   "note": "The same Safdie filmmaking and just as relentless. One long bad night in New York, with Pattinson completely unrecognisable in it.",
+   "art": "img/art/good-time-josh-safdie-benny-safdie.jpg?v=466dcb65",
+   "imdb": 7.3,
+   "rt": 91,
+   "mc": 80,
+   "imdbid": "tt4846232"
+  },
+  {
+   "slug": "before-sunrise-richard-linklater",
+   "title": "Before Sunrise",
+   "kind": "film",
+   "region": "world",
+   "by": "Richard Linklater",
+   "year": 1995,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "linklater",
+    "romance",
+    "dialogue",
+    "vienna",
+    "before-trilogy",
+    "must-watch"
+   ],
+   "note": "The best of the three, and the one that had no idea it would become a trilogy. Two people talking for a single night, and the most romantic thing on this whole list.",
+   "art": "img/art/before-sunrise-richard-linklater.jpg?v=0cce04ea",
+   "imdb": 8.1,
+   "rt": 100,
+   "mc": 79,
+   "imdbid": "tt0112471"
+  },
+  {
+   "slug": "before-sunset-richard-linklater",
+   "title": "Before Sunset",
+   "kind": "film",
+   "region": "world",
+   "by": "Richard Linklater",
+   "year": 2004,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "linklater",
+    "romance",
+    "dialogue",
+    "paris",
+    "before-trilogy"
+   ],
+   "note": "Shorter, sharper, and it hurts more. Nine years on and both of them are carrying something they will not quite say.",
+   "art": "img/art/before-sunset-richard-linklater.jpg?v=2d59b71e",
+   "imdb": 8.1,
+   "rt": 94,
+   "mc": 91,
+   "imdbid": "tt0381681"
+  },
+  {
+   "slug": "before-midnight-richard-linklater",
+   "title": "Before Midnight",
+   "kind": "film",
+   "region": "world",
+   "by": "Richard Linklater",
+   "year": 2013,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "linklater",
+    "romance",
+    "dialogue",
+    "greece",
+    "before-trilogy"
+   ],
+   "note": "The least comfortable of the three, by design. The argument in the hotel room is the most honest scene Linklater has ever shot.",
+   "art": "img/art/before-midnight-richard-linklater.jpg?v=47d811b6",
+   "imdb": 7.9,
+   "rt": 98,
+   "mc": 94,
+   "imdbid": "tt2209418"
+  },
+  {
+   "slug": "the-black-phone-scott-derrickson",
+   "title": "The Black Phone",
+   "kind": "film",
+   "region": "world",
+   "by": "Scott Derrickson",
+   "year": 2021,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "horror",
+    "thriller",
+    "period",
+    "entertainer",
+    "hawke"
+   ],
+   "note": "Entertaining horror and not a must watch. Hawke is good value behind the mask and the period detail does more work than the plot does.",
+   "art": "img/art/the-black-phone-scott-derrickson.jpg?v=731772af",
+   "imdb": 6.9,
+   "rt": 81,
+   "mc": 65,
+   "imdbid": "tt7144666"
+  },
+  {
+   "slug": "the-invitation-karyn-kusama",
+   "title": "The Invitation",
+   "kind": "film",
+   "region": "world",
+   "by": "Karyn Kusama",
+   "year": 2015,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "horror",
+    "thriller",
+    "slow-burn",
+    "dinner-party",
+    "paranoia"
+   ],
+   "note": "A dinner party that goes wrong very slowly. Kusama keeps you unsure whether the paranoia is justified right up until the moment it matters.",
+   "art": "img/art/the-invitation-karyn-kusama.jpg?v=47f71613",
+   "imdb": 6.6,
+   "rt": 90,
+   "mc": 74,
+   "flag": "taken as the 2015 Kusama film rather than the 2022 vampire one, since you listed it with Aster",
+   "imdbid": "tt2400463"
   },
   {
    "slug": "iratta-rohit-m-g-krishnan",
@@ -4673,6 +4845,80 @@
    "imdbid": "tt9288030"
   },
   {
+   "slug": "nathan-for-you-nathan-fielder",
+   "title": "Nathan for You",
+   "kind": "tv",
+   "region": "world",
+   "by": "Nathan Fielder",
+   "year": 2013,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "nathan-fielder",
+    "comedy",
+    "documentary",
+    "absurd",
+    "must-watch"
+   ],
+   "note": "Nathan Fielder is the greatest and most singular creator working in this format, and this is where it starts. A business advice show that slowly turns into something far stranger and much sadder.",
+   "art": "img/art/nathan-for-you-nathan-fielder.jpg?v=041fbba4",
+   "imdb": 8.9,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt2297757"
+  },
+  {
+   "slug": "the-rehearsal-nathan-fielder",
+   "title": "The Rehearsal",
+   "kind": "tv",
+   "region": "world",
+   "by": "Nathan Fielder",
+   "year": 2022,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "nathan-fielder",
+    "comedy",
+    "documentary",
+    "absurd",
+    "meta",
+    "must-watch"
+   ],
+   "note": "The same mind with an unlimited budget, going somewhere no other show would even attempt. If you want the argument for Fielder being the best there is, it is this.",
+   "art": "img/art/the-rehearsal-nathan-fielder.jpg?v=07eb6e7b",
+   "imdb": 8.5,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt10802170"
+  },
+  {
+   "slug": "how-to-with-john-wilson-john-wilson",
+   "title": "How To with John Wilson",
+   "kind": "tv",
+   "region": "world",
+   "by": "John Wilson",
+   "year": 2020,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "documentary",
+    "comedy",
+    "absurd",
+    "visual",
+    "new-york",
+    "must-watch"
+   ],
+   "note": "Step aside Sacha Baron Cohen. The beautiful absurd taking over in its purest visual form, built entirely from footage nobody else would have thought to keep.",
+   "art": "img/art/how-to-with-john-wilson-john-wilson.jpg?v=49a0e4af",
+   "imdb": 8.7,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt10801534"
+  },
+  {
    "slug": "your-erroneous-zones-wayne-dyer",
    "title": "Your Erroneous Zones",
    "kind": "book",
@@ -5829,7 +6075,7 @@
   "tags": [
    {
     "tag": "must-watch",
-    "count": 68
+    "count": 74
    },
    {
     "tag": "hindi",
@@ -5837,15 +6083,15 @@
    },
    {
     "tag": "thriller",
-    "count": 53
+    "count": 57
    },
    {
     "tag": "crime",
-    "count": 47
+    "count": 48
    },
    {
     "tag": "comedy",
-    "count": 31
+    "count": 34
    },
    {
     "tag": "shelf",
@@ -5860,11 +6106,11 @@
     "count": 20
    },
    {
-    "tag": "drama",
-    "count": 15
+    "tag": "horror",
+    "count": 17
    },
    {
-    "tag": "horror",
+    "tag": "drama",
     "count": 15
    },
    {
@@ -5873,7 +6119,7 @@
    },
    {
     "tag": "entertainer",
-    "count": 13
+    "count": 14
    },
    {
     "tag": "fincher",
@@ -5916,11 +6162,19 @@
     "count": 9
    },
    {
+    "tag": "romance",
+    "count": 9
+   },
+   {
     "tag": "sequel",
     "count": 9
    },
    {
     "tag": "short-story",
+    "count": 9
+   },
+   {
+    "tag": "slow-burn",
     "count": 9
    },
    {
@@ -5940,11 +6194,11 @@
     "count": 8
    },
    {
-    "tag": "slow-burn",
-    "count": 8
+    "tag": "delhi",
+    "count": 7
    },
    {
-    "tag": "delhi",
+    "tag": "dialogue",
     "count": 7
    },
    {
@@ -5989,10 +6243,6 @@
    },
    {
     "tag": "raghavan",
-    "count": 6
-   },
-   {
-    "tag": "romance",
     "count": 6
    },
    {
@@ -6088,10 +6338,6 @@
     "count": 4
    },
    {
-    "tag": "dialogue",
-    "count": 4
-   },
-   {
     "tag": "edgar-wright",
     "count": 4
    },
@@ -6117,6 +6363,10 @@
    },
    {
     "tag": "neo-noir",
+    "count": 4
+   },
+   {
+    "tag": "new-york",
     "count": 4
    },
    {
@@ -6152,11 +6402,19 @@
     "count": 4
    },
    {
+    "tag": "absurd",
+    "count": 3
+   },
+   {
     "tag": "american",
     "count": 3
    },
    {
     "tag": "anthology",
+    "count": 3
+   },
+   {
+    "tag": "before-trilogy",
     "count": 3
    },
    {
@@ -6196,6 +6454,10 @@
     "count": 3
    },
    {
+    "tag": "documentary",
+    "count": 3
+   },
+   {
     "tag": "ensemble",
     "count": 3
    },
@@ -6217,6 +6479,10 @@
    },
    {
     "tag": "korean",
+    "count": 3
+   },
+   {
+    "tag": "linklater",
     "count": 3
    },
    {
@@ -6249,6 +6515,10 @@
    },
    {
     "tag": "pain",
+    "count": 3
+   },
+   {
+    "tag": "period",
     "count": 3
    },
    {
@@ -6424,11 +6694,19 @@
     "count": 2
    },
    {
+    "tag": "nathan-fielder",
+    "count": 2
+   },
+   {
     "tag": "objectivism",
     "count": 2
    },
    {
-    "tag": "period",
+    "tag": "paranoia",
+    "count": 2
+   },
+   {
+    "tag": "pattinson",
     "count": 2
    },
    {
@@ -6465,6 +6743,10 @@
    },
    {
     "tag": "rushdie",
+    "count": 2
+   },
+   {
+    "tag": "safdie",
     "count": 2
    },
    {
@@ -6557,6 +6839,10 @@
    },
    {
     "tag": "anime",
+    "count": 1
+   },
+   {
+    "tag": "anxiety",
     "count": 1
    },
    {
@@ -6744,6 +7030,10 @@
     "count": 1
    },
    {
+    "tag": "dinner-party",
+    "count": 1
+   },
+   {
     "tag": "dirty-realism",
     "count": 1
    },
@@ -6844,6 +7134,10 @@
     "count": 1
    },
    {
+    "tag": "greece",
+    "count": 1
+   },
+   {
     "tag": "grindhouse",
     "count": 1
    },
@@ -6873,6 +7167,10 @@
    },
    {
     "tag": "hard",
+    "count": 1
+   },
+   {
+    "tag": "hawke",
     "count": 1
    },
    {
@@ -7040,6 +7338,10 @@
     "count": 1
    },
    {
+    "tag": "meta",
+    "count": 1
+   },
+   {
     "tag": "middle-class",
     "count": 1
    },
@@ -7061,10 +7363,6 @@
    },
    {
     "tag": "neon",
-    "count": 1
-   },
-   {
-    "tag": "new-york",
     "count": 1
    },
    {
@@ -7100,7 +7398,7 @@
     "count": 1
    },
    {
-    "tag": "paranoia",
+    "tag": "paris",
     "count": 1
    },
    {
@@ -7113,10 +7411,6 @@
    },
    {
     "tag": "pastiche",
-    "count": 1
-   },
-   {
-    "tag": "pattinson",
     "count": 1
    },
    {
@@ -7233,6 +7527,10 @@
    },
    {
     "tag": "saki",
+    "count": 1
+   },
+   {
+    "tag": "sandler",
     "count": 1
    },
    {
@@ -7380,6 +7678,10 @@
     "count": 1
    },
    {
+    "tag": "vienna",
+    "count": 1
+   },
+   {
     "tag": "viking",
     "count": 1
    },
@@ -7389,6 +7691,10 @@
    },
    {
     "tag": "visceral",
+    "count": 1
+   },
+   {
+    "tag": "visual",
     "count": 1
    },
    {
@@ -7534,6 +7840,14 @@
     ]
    },
    {
+    "name": "Richard Linklater",
+    "slug": "richard-linklater",
+    "count": 3,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Vince Gilligan",
     "slug": "vince-gilligan",
     "count": 3,
@@ -7563,6 +7877,14 @@
     "count": 2,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Benny Safdie",
+    "slug": "benny-safdie",
+    "count": 2,
+    "kinds": [
+     "film"
     ]
    },
    {
@@ -7638,6 +7960,14 @@
     ]
    },
    {
+    "name": "Josh Safdie",
+    "slug": "josh-safdie",
+    "count": 2,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Martin Scorsese",
     "slug": "martin-scorsese",
     "count": 2,
@@ -7667,6 +7997,14 @@
     "count": 2,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Nathan Fielder",
+    "slug": "nathan-fielder",
+    "count": 2,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -8151,6 +8489,14 @@
     ]
    },
    {
+    "name": "John Wilson",
+    "slug": "john-wilson",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
     "name": "Jonathan Demme",
     "slug": "jonathan-demme",
     "count": 1,
@@ -8188,6 +8534,14 @@
     "count": 1,
     "kinds": [
      "tv"
+    ]
+   },
+   {
+    "name": "Karyn Kusama",
+    "slug": "karyn-kusama",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {
@@ -8513,6 +8867,14 @@
    {
     "name": "Sandeep Reddy Vanga",
     "slug": "sandeep-reddy-vanga",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Scott Derrickson",
+    "slug": "scott-derrickson",
     "count": 1,
     "kinds": [
      "film"
