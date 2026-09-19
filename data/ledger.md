@@ -1564,7 +1564,6 @@ status: done
 must: no
 rating: strong
 tags: horror, thriller, slow-burn, dinner-party, paranoia
-flag: taken as the 2015 Kusama film rather than the 2022 vampire one, since you listed it with Aster
 note: A dinner party that goes wrong very slowly. Kusama keeps you unsure whether the paranoia is justified right up until the moment it matters.
 art: img/art/the-invitation-karyn-kusama.jpg
 imdbid: tt2400463
@@ -3077,11 +3076,11 @@ kind: tv
 region: world
 by: Nick Santora
 year: 2022
-status: now
+status: done
 must: no
-rating: unrated
-tags: action, crime, thriller, currently-watching
-note: On the latest season now. No rating yet, this one is still in progress.
+rating: strong
+tags: action, crime, thriller, entertainer
+note: Finished it, and it stays a two. Exactly what it says on the tin, and it never pretends to be more than that.
 art: img/art/reacher-nick-santora.jpg
 imdbid: tt9288030
 imdb: 8.0
@@ -3127,6 +3126,21 @@ note: Step aside Sacha Baron Cohen. The beautiful absurd taking over in its pure
 art: img/art/how-to-with-john-wilson-john-wilson.jpg
 imdbid: tt10801534
 imdb: 8.7
+
+## The Bridge
+kind: tv
+region: world
+by: Hans Rosenfeldt
+year: 2011
+status: now
+must: no
+rating: unrated
+tags: nordic-noir, crime, procedural, swedish, danish, original, currently-watching
+note: Watching the Scandinavian original now, the one every other version was remade from. No rating yet.
+art: img/art/the-bridge-hans-rosenfeldt.jpg
+imdbid: tt1733785
+imdb: 8.6
+
 
 
 

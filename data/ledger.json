@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 253,
+ "count": 254,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -2297,7 +2297,6 @@
    "imdb": 6.6,
    "rt": 90,
    "mc": 74,
-   "flag": "taken as the 2015 Kusama film rather than the 2022 vampire one, since you listed it with Aster",
    "imdbid": "tt2400463"
   },
   {
@@ -4828,16 +4827,16 @@
    "region": "world",
    "by": "Nick Santora",
    "year": 2022,
-   "status": "now",
+   "status": "done",
    "must": false,
-   "rating": "unrated",
+   "rating": "strong",
    "tags": [
     "action",
     "crime",
     "thriller",
-    "currently-watching"
+    "entertainer"
    ],
-   "note": "On the latest season now. No rating yet, this one is still in progress.",
+   "note": "Finished it, and it stays a two. Exactly what it says on the tin, and it never pretends to be more than that.",
    "art": "img/art/reacher-nick-santora.jpg?v=442bc388",
    "imdb": 8.0,
    "rt": null,
@@ -4917,6 +4916,32 @@
    "rt": null,
    "mc": null,
    "imdbid": "tt10801534"
+  },
+  {
+   "slug": "the-bridge-hans-rosenfeldt",
+   "title": "The Bridge",
+   "kind": "tv",
+   "region": "world",
+   "by": "Hans Rosenfeldt",
+   "year": 2011,
+   "status": "now",
+   "must": false,
+   "rating": "unrated",
+   "tags": [
+    "nordic-noir",
+    "crime",
+    "procedural",
+    "swedish",
+    "danish",
+    "original",
+    "currently-watching"
+   ],
+   "note": "Watching the Scandinavian original now, the one every other version was remade from. No rating yet.",
+   "art": "img/art/the-bridge-hans-rosenfeldt.jpg?v=a500953f",
+   "imdb": 8.6,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt1733785"
   },
   {
    "slug": "your-erroneous-zones-wayne-dyer",
@@ -6087,7 +6112,7 @@
    },
    {
     "tag": "crime",
-    "count": 48
+    "count": 49
    },
    {
     "tag": "comedy",
@@ -6114,24 +6139,24 @@
     "count": 15
    },
    {
-    "tag": "performances",
+    "tag": "entertainer",
     "count": 15
    },
    {
-    "tag": "entertainer",
-    "count": 14
+    "tag": "performances",
+    "count": 15
    },
    {
     "tag": "fincher",
     "count": 13
    },
    {
-    "tag": "recent-watch",
+    "tag": "procedural",
     "count": 12
    },
    {
-    "tag": "procedural",
-    "count": 11
+    "tag": "recent-watch",
+    "count": 12
    },
    {
     "tag": "revenge",
@@ -6210,6 +6235,10 @@
     "count": 7
    },
    {
+    "tag": "original",
+    "count": 7
+   },
+   {
     "tag": "psychology",
     "count": 7
    },
@@ -6235,10 +6264,6 @@
    },
    {
     "tag": "novel",
-    "count": 6
-   },
-   {
-    "tag": "original",
     "count": 6
    },
    {
@@ -6606,6 +6631,10 @@
     "count": 2
    },
    {
+    "tag": "danish",
+    "count": 2
+   },
+   {
     "tag": "disturbing",
     "count": 2
    },
@@ -6695,6 +6724,10 @@
    },
    {
     "tag": "nathan-fielder",
+    "count": 2
+   },
+   {
+    "tag": "nordic-noir",
     "count": 2
    },
    {
@@ -6791,6 +6824,10 @@
    },
    {
     "tag": "sunday-watch",
+    "count": 2
+   },
+   {
+    "tag": "swedish",
     "count": 2
    },
    {
@@ -6995,10 +7032,6 @@
    },
    {
     "tag": "daily-reader",
-    "count": 1
-   },
-   {
-    "tag": "danish",
     "count": 1
    },
    {
@@ -7370,10 +7403,6 @@
     "count": 1
    },
    {
-    "tag": "nordic-noir",
-    "count": 1
-   },
-   {
     "tag": "o-henry",
     "count": 1
    },
@@ -7611,10 +7640,6 @@
    },
    {
     "tag": "suspense",
-    "count": 1
-   },
-   {
-    "tag": "swedish",
     "count": 1
    },
    {
@@ -8382,6 +8407,14 @@
     "count": 1,
     "kinds": [
      "film"
+    ]
+   },
+   {
+    "name": "Hans Rosenfeldt",
+    "slug": "hans-rosenfeldt",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {
