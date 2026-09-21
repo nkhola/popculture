@@ -1571,6 +1571,117 @@ imdb: 6.6
 mc: 74
 rt: 90
 
+## The Invite
+kind: film
+region: world
+by: Olivia Wilde
+year: 2026
+status: done
+must: yes
+rating: strong
+tags: comedy, drama, marriage, dinner-party, recent-watch, must-watch
+note: A must watch if you are somewhere in your forties, which is exactly who it is pointed at. A marriage already on thin ice and a dinner party that goes somewhere nobody planned.
+art: img/art/the-invite-olivia-wilde.jpg
+imdbid: tt14173636
+imdb: 7.5
+mc: 82
+rt: 96
+
+## 1917
+kind: film
+region: world
+by: Sam Mendes
+year: 2019
+status: done
+must: yes
+rating: essential
+tags: war, one-take, cinematography, deakins, technical, must-watch
+note: A cinematic marvel. The single take could have been a stunt and instead it drops you in the trench for two hours with no way out of it.
+art: img/art/1917-sam-mendes.jpg
+imdbid: tt8579674
+imdb: 8.2
+mc: 78
+rt: 88
+
+## Death at a Funeral
+kind: film
+region: world
+by: Frank Oz
+year: 2007
+status: done
+must: yes
+rating: essential
+tags: comedy, british, dark-humour, farce, must-watch
+note: The British one, and smart dark humour from start to finish. A funeral coming apart in every direction at once, played completely straight, which is exactly why it lands.
+art: img/art/death-at-a-funeral-frank-oz.jpg
+imdbid: tt0795368
+imdb: 7.3
+mc: 67
+
+## 21 Jump Street
+kind: film
+region: world
+by: Phil Lord, Christopher Miller
+year: 2012
+status: done
+must: no
+rating: strong
+tags: comedy, action, buddy, lord-miller, entertainer
+note: Good fun, and the kind of comedy nobody bothers making anymore. Tatum is the surprise and the film works that out fast.
+art: img/art/21-jump-street-phil-lord-christopher-miller.jpg
+imdbid: tt1232829
+imdb: 7.2
+mc: 69
+rt: 85
+
+## 22 Jump Street
+kind: film
+region: world
+by: Phil Lord, Christopher Miller
+year: 2014
+status: done
+must: no
+rating: strong
+tags: comedy, action, buddy, lord-miller, sequel, entertainer
+note: Spends the entire runtime joking about being a sequel and gets away with it. Same good fun, slightly louder.
+art: img/art/22-jump-street-phil-lord-christopher-miller.jpg
+imdbid: tt2294449
+imdb: 7.0
+mc: 71
+rt: 84
+
+## Citizen X
+kind: film
+region: world
+by: Chris Gerolmo
+year: 1995
+status: done
+must: no
+rating: strong
+tags: thriller, true-crime, soviet, procedural, hbo
+note: A nice thriller, and quietly grim about how many years the case dragged on. Rea and Sutherland are both excellent in it.
+imdbid: tt0112681
+art: img/art/citizen-x-chris-gerolmo.jpg
+imdb: 7.4
+rt: 86
+
+## Thank You for Smoking
+kind: film
+region: world
+by: Jason Reitman
+year: 2005
+status: done
+must: no
+rating: strong
+tags: satire, comedy, feel-good, entertainer
+note: An entertaining feel good film about a man with an entirely indefensible job. Eckhart is charming enough to make the argument go down easy.
+art: img/art/thank-you-for-smoking-jason-reitman.jpg
+imdbid: tt0427944
+imdb: 7.5
+mc: 71
+rt: 86
+
+
 
 
 
@@ -3140,6 +3251,35 @@ note: Watching the Scandinavian original now, the one every other version was re
 art: img/art/the-bridge-hans-rosenfeldt.jpg
 imdbid: tt1733785
 imdb: 8.6
+
+## Barry
+kind: tv
+region: world
+by: Bill Hader, Alec Berg
+year: 2018
+status: done
+must: yes
+rating: essential
+tags: comedy, crime, genre-bending, cinematic, hader, must-watch
+note: Slick, genre bending, cinematic and artsy all at once, and still one of the funniest things ever put on television. ronny/lily is the best single episode of TV ever made and nothing else is close.
+art: img/art/barry-bill-hader-alec-berg.jpg
+imdbid: tt5348176
+imdb: 8.3
+
+## Chernobyl
+kind: tv
+region: world
+by: Craig Mazin
+year: 2019
+status: done
+must: yes
+rating: essential
+tags: historical, disaster, grim, realistic, hbo, must-watch
+note: Grim, realistic and absolutely unforgettable. The most frightening thing on this entire list, and not one frame of it is horror.
+art: img/art/chernobyl-craig-mazin.jpg
+imdbid: tt7366338
+imdb: 9.3
+
 
 
 

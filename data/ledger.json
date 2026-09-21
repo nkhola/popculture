@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 254,
+ "count": 263,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -2298,6 +2298,176 @@
    "rt": 90,
    "mc": 74,
    "imdbid": "tt2400463"
+  },
+  {
+   "slug": "the-invite-olivia-wilde",
+   "title": "The Invite",
+   "kind": "film",
+   "region": "world",
+   "by": "Olivia Wilde",
+   "year": 2026,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "comedy",
+    "drama",
+    "marriage",
+    "dinner-party",
+    "recent-watch",
+    "must-watch"
+   ],
+   "note": "A must watch if you are somewhere in your forties, which is exactly who it is pointed at. A marriage already on thin ice and a dinner party that goes somewhere nobody planned.",
+   "art": "img/art/the-invite-olivia-wilde.jpg?v=6815bb73",
+   "imdb": 7.5,
+   "rt": 96,
+   "mc": 82,
+   "imdbid": "tt14173636"
+  },
+  {
+   "slug": "1917-sam-mendes",
+   "title": "1917",
+   "kind": "film",
+   "region": "world",
+   "by": "Sam Mendes",
+   "year": 2019,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "war",
+    "one-take",
+    "cinematography",
+    "deakins",
+    "technical",
+    "must-watch"
+   ],
+   "note": "A cinematic marvel. The single take could have been a stunt and instead it drops you in the trench for two hours with no way out of it.",
+   "art": "img/art/1917-sam-mendes.jpg?v=f16b2dc9",
+   "imdb": 8.2,
+   "rt": 88,
+   "mc": 78,
+   "imdbid": "tt8579674"
+  },
+  {
+   "slug": "death-at-a-funeral-frank-oz",
+   "title": "Death at a Funeral",
+   "kind": "film",
+   "region": "world",
+   "by": "Frank Oz",
+   "year": 2007,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "comedy",
+    "british",
+    "dark-humour",
+    "farce",
+    "must-watch"
+   ],
+   "note": "The British one, and smart dark humour from start to finish. A funeral coming apart in every direction at once, played completely straight, which is exactly why it lands.",
+   "art": "img/art/death-at-a-funeral-frank-oz.jpg?v=e1768438",
+   "imdb": 7.3,
+   "rt": null,
+   "mc": 67,
+   "imdbid": "tt0795368"
+  },
+  {
+   "slug": "21-jump-street-phil-lord-christopher-miller",
+   "title": "21 Jump Street",
+   "kind": "film",
+   "region": "world",
+   "by": "Phil Lord, Christopher Miller",
+   "year": 2012,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "comedy",
+    "action",
+    "buddy",
+    "lord-miller",
+    "entertainer"
+   ],
+   "note": "Good fun, and the kind of comedy nobody bothers making anymore. Tatum is the surprise and the film works that out fast.",
+   "art": "img/art/21-jump-street-phil-lord-christopher-miller.jpg?v=4997954d",
+   "imdb": 7.2,
+   "rt": 85,
+   "mc": 69,
+   "imdbid": "tt1232829"
+  },
+  {
+   "slug": "22-jump-street-phil-lord-christopher-miller",
+   "title": "22 Jump Street",
+   "kind": "film",
+   "region": "world",
+   "by": "Phil Lord, Christopher Miller",
+   "year": 2014,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "comedy",
+    "action",
+    "buddy",
+    "lord-miller",
+    "sequel",
+    "entertainer"
+   ],
+   "note": "Spends the entire runtime joking about being a sequel and gets away with it. Same good fun, slightly louder.",
+   "art": "img/art/22-jump-street-phil-lord-christopher-miller.jpg?v=9a3cdcf1",
+   "imdb": 7.0,
+   "rt": 84,
+   "mc": 71,
+   "imdbid": "tt2294449"
+  },
+  {
+   "slug": "citizen-x-chris-gerolmo",
+   "title": "Citizen X",
+   "kind": "film",
+   "region": "world",
+   "by": "Chris Gerolmo",
+   "year": 1995,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "thriller",
+    "true-crime",
+    "soviet",
+    "procedural",
+    "hbo"
+   ],
+   "note": "A nice thriller, and quietly grim about how many years the case dragged on. Rea and Sutherland are both excellent in it.",
+   "art": "img/art/citizen-x-chris-gerolmo.jpg?v=c9337cb2",
+   "imdb": 7.4,
+   "rt": 86,
+   "mc": null,
+   "imdbid": "tt0112681"
+  },
+  {
+   "slug": "thank-you-for-smoking-jason-reitman",
+   "title": "Thank You for Smoking",
+   "kind": "film",
+   "region": "world",
+   "by": "Jason Reitman",
+   "year": 2005,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "satire",
+    "comedy",
+    "feel-good",
+    "entertainer"
+   ],
+   "note": "An entertaining feel good film about a man with an entirely indefensible job. Eckhart is charming enough to make the argument go down easy.",
+   "art": "img/art/thank-you-for-smoking-jason-reitman.jpg?v=526949f0",
+   "imdb": 7.5,
+   "rt": 86,
+   "mc": 71,
+   "imdbid": "tt0427944"
   },
   {
    "slug": "iratta-rohit-m-g-krishnan",
@@ -4944,6 +5114,56 @@
    "imdbid": "tt1733785"
   },
   {
+   "slug": "barry-bill-hader-alec-berg",
+   "title": "Barry",
+   "kind": "tv",
+   "region": "world",
+   "by": "Bill Hader, Alec Berg",
+   "year": 2018,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "comedy",
+    "crime",
+    "genre-bending",
+    "cinematic",
+    "hader",
+    "must-watch"
+   ],
+   "note": "Slick, genre bending, cinematic and artsy all at once, and still one of the funniest things ever put on television. ronny/lily is the best single episode of TV ever made and nothing else is close.",
+   "art": "img/art/barry-bill-hader-alec-berg.jpg?v=db1f6959",
+   "imdb": 8.3,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt5348176"
+  },
+  {
+   "slug": "chernobyl-craig-mazin",
+   "title": "Chernobyl",
+   "kind": "tv",
+   "region": "world",
+   "by": "Craig Mazin",
+   "year": 2019,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "historical",
+    "disaster",
+    "grim",
+    "realistic",
+    "hbo",
+    "must-watch"
+   ],
+   "note": "Grim, realistic and absolutely unforgettable. The most frightening thing on this entire list, and not one frame of it is horror.",
+   "art": "img/art/chernobyl-craig-mazin.jpg?v=91b62e25",
+   "imdb": 9.3,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt7366338"
+  },
+  {
    "slug": "your-erroneous-zones-wayne-dyer",
    "title": "Your Erroneous Zones",
    "kind": "book",
@@ -6100,7 +6320,7 @@
   "tags": [
    {
     "tag": "must-watch",
-    "count": 74
+    "count": 79
    },
    {
     "tag": "hindi",
@@ -6108,15 +6328,15 @@
    },
    {
     "tag": "thriller",
-    "count": 57
+    "count": 58
    },
    {
     "tag": "crime",
-    "count": 49
+    "count": 50
    },
    {
     "tag": "comedy",
-    "count": 34
+    "count": 40
    },
    {
     "tag": "shelf",
@@ -6124,11 +6344,15 @@
    },
    {
     "tag": "action",
-    "count": 20
+    "count": 22
    },
    {
     "tag": "realism",
     "count": 20
+   },
+   {
+    "tag": "entertainer",
+    "count": 18
    },
    {
     "tag": "horror",
@@ -6136,11 +6360,7 @@
    },
    {
     "tag": "drama",
-    "count": 15
-   },
-   {
-    "tag": "entertainer",
-    "count": 15
+    "count": 16
    },
    {
     "tag": "performances",
@@ -6152,26 +6372,30 @@
    },
    {
     "tag": "procedural",
-    "count": 12
+    "count": 13
    },
    {
     "tag": "recent-watch",
+    "count": 13
+   },
+   {
+    "tag": "satire",
     "count": 12
+   },
+   {
+    "tag": "british",
+    "count": 11
    },
    {
     "tag": "revenge",
     "count": 11
    },
    {
-    "tag": "satire",
-    "count": 11
-   },
-   {
-    "tag": "british",
+    "tag": "philosophy",
     "count": 10
    },
    {
-    "tag": "philosophy",
+    "tag": "sequel",
     "count": 10
    },
    {
@@ -6188,10 +6412,6 @@
    },
    {
     "tag": "romance",
-    "count": 9
-   },
-   {
-    "tag": "sequel",
     "count": 9
    },
    {
@@ -6217,6 +6437,10 @@
    {
     "tag": "sci-fi",
     "count": 8
+   },
+   {
+    "tag": "cinematography",
+    "count": 7
    },
    {
     "tag": "delhi",
@@ -6247,10 +6471,6 @@
     "count": 6
    },
    {
-    "tag": "cinematography",
-    "count": 6
-   },
-   {
     "tag": "detective",
     "count": 6
    },
@@ -6268,6 +6488,10 @@
    },
    {
     "tag": "raghavan",
+    "count": 6
+   },
+   {
+    "tag": "true-crime",
     "count": 6
    },
    {
@@ -6331,7 +6555,7 @@
     "count": 5
    },
    {
-    "tag": "true-crime",
+    "tag": "technical",
     "count": 5
    },
    {
@@ -6340,6 +6564,10 @@
    },
    {
     "tag": "visual-storytelling",
+    "count": 5
+   },
+   {
+    "tag": "war",
     "count": 5
    },
    {
@@ -6407,15 +6635,7 @@
     "count": 4
    },
    {
-    "tag": "technical",
-    "count": 4
-   },
-   {
     "tag": "true-story",
-    "count": 4
-   },
-   {
-    "tag": "war",
     "count": 4
    },
    {
@@ -6492,6 +6712,14 @@
    },
    {
     "tag": "gilligan",
+    "count": 3
+   },
+   {
+    "tag": "hbo",
+    "count": 3
+   },
+   {
+    "tag": "historical",
     "count": 3
    },
    {
@@ -6615,6 +6843,10 @@
     "count": 2
    },
    {
+    "tag": "buddy",
+    "count": 2
+   },
+   {
     "tag": "coens",
     "count": 2
    },
@@ -6632,6 +6864,10 @@
    },
    {
     "tag": "danish",
+    "count": 2
+   },
+   {
+    "tag": "dinner-party",
     "count": 2
    },
    {
@@ -6683,10 +6919,6 @@
     "count": 2
    },
    {
-    "tag": "historical",
-    "count": 2
-   },
-   {
     "tag": "homage",
     "count": 2
    },
@@ -6703,11 +6935,19 @@
     "count": 2
    },
    {
+    "tag": "lord-miller",
+    "count": 2
+   },
+   {
     "tag": "lynch",
     "count": 2
    },
    {
     "tag": "magical-realism",
+    "count": 2
+   },
+   {
+    "tag": "marriage",
     "count": 2
    },
    {
@@ -6975,6 +7215,10 @@
     "count": 1
    },
    {
+    "tag": "cinematic",
+    "count": 1
+   },
+   {
     "tag": "cold",
     "count": 1
    },
@@ -7035,11 +7279,19 @@
     "count": 1
    },
    {
+    "tag": "dark-humour",
+    "count": 1
+   },
+   {
     "tag": "daylight",
     "count": 1
    },
    {
     "tag": "dc",
+    "count": 1
+   },
+   {
+    "tag": "deakins",
     "count": 1
    },
    {
@@ -7063,11 +7315,11 @@
     "count": 1
    },
    {
-    "tag": "dinner-party",
+    "tag": "dirty-realism",
     "count": 1
    },
    {
-    "tag": "dirty-realism",
+    "tag": "disaster",
     "count": 1
    },
    {
@@ -7131,6 +7383,14 @@
     "count": 1
    },
    {
+    "tag": "farce",
+    "count": 1
+   },
+   {
+    "tag": "feel-good",
+    "count": 1
+   },
+   {
     "tag": "first-contact",
     "count": 1
    },
@@ -7155,6 +7415,10 @@
     "count": 1
    },
    {
+    "tag": "genre-bending",
+    "count": 1
+   },
+   {
     "tag": "gentle",
     "count": 1
    },
@@ -7168,6 +7432,10 @@
    },
    {
     "tag": "greece",
+    "count": 1
+   },
+   {
+    "tag": "grim",
     "count": 1
    },
    {
@@ -7195,6 +7463,10 @@
     "count": 1
    },
    {
+    "tag": "hader",
+    "count": 1
+   },
+   {
     "tag": "hangout",
     "count": 1
    },
@@ -7204,10 +7476,6 @@
    },
    {
     "tag": "hawke",
-    "count": 1
-   },
-   {
-    "tag": "hbo",
     "count": 1
    },
    {
@@ -7347,10 +7615,6 @@
     "count": 1
    },
    {
-    "tag": "marriage",
-    "count": 1
-   },
-   {
     "tag": "martial-arts",
     "count": 1
    },
@@ -7412,6 +7676,10 @@
    },
    {
     "tag": "one-night",
+    "count": 1
+   },
+   {
+    "tag": "one-take",
     "count": 1
    },
    {
@@ -7527,6 +7795,10 @@
     "count": 1
    },
    {
+    "tag": "realistic",
+    "count": 1
+   },
+   {
     "tag": "redmayne",
     "count": 1
    },
@@ -7604,6 +7876,10 @@
    },
    {
     "tag": "soundtrack",
+    "count": 1
+   },
+   {
+    "tag": "soviet",
     "count": 1
    },
    {
@@ -7921,6 +8197,14 @@
     ]
    },
    {
+    "name": "Christopher Miller",
+    "slug": "christopher-miller",
+    "count": 2,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Clyde Phillips",
     "slug": "clyde-phillips",
     "count": 2,
@@ -8049,6 +8333,14 @@
     ]
    },
    {
+    "name": "Phil Lord",
+    "slug": "phil-lord",
+    "count": 2,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Rajat Kapoor",
     "slug": "rajat-kapoor",
     "count": 2,
@@ -8119,6 +8411,14 @@
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Alec Berg",
+    "slug": "alec-berg",
+    "count": 1,
+    "kinds": [
+     "tv"
     ]
    },
    {
@@ -8250,6 +8550,14 @@
     ]
    },
    {
+    "name": "Bill Hader",
+    "slug": "bill-hader",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
     "name": "Charles Bukowski",
     "slug": "charles-bukowski",
     "count": 1,
@@ -8266,8 +8574,24 @@
     ]
    },
    {
+    "name": "Chris Gerolmo",
+    "slug": "chris-gerolmo",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Chris Mundy",
     "slug": "chris-mundy",
+    "count": 1,
+    "kinds": [
+     "tv"
+    ]
+   },
+   {
+    "name": "Craig Mazin",
+    "slug": "craig-mazin",
     "count": 1,
     "kinds": [
      "tv"
@@ -8394,6 +8718,14 @@
     ]
    },
    {
+    "name": "Frank Oz",
+    "slug": "frank-oz",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "George Sluizer",
     "slug": "george-sluizer",
     "count": 1,
@@ -8455,6 +8787,14 @@
     "count": 1,
     "kinds": [
      "tv"
+    ]
+   },
+   {
+    "name": "Jason Reitman",
+    "slug": "jason-reitman",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {
@@ -8722,6 +9062,14 @@
     ]
    },
    {
+    "name": "Olivia Wilde",
+    "slug": "olivia-wilde",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Oni Sen",
     "slug": "oni-sen",
     "count": 1,
@@ -8895,6 +9243,14 @@
     "count": 1,
     "kinds": [
      "book"
+    ]
+   },
+   {
+    "name": "Sam Mendes",
+    "slug": "sam-mendes",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {
