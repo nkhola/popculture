@@ -197,6 +197,11 @@
   /* The Latest rails are deliberately unfiltered by rating or must: the point
      is what was recently seen, including the twos. Shelf entries are excluded
      because nothing has been watched or read there yet. */
+
+  /* `by` holds a comma separated credit list, so a duo appears under each name. */
+  const creditedTo = (name) => ITEMS.filter(
+    (i) => i.by && i.by.split(',').map((n) => n.trim()).includes(name));
+
   const latest = (region) => ITEMS
     .filter((i) => i.region === region && i.status !== 'shelf')
     .sort(byChrono);
@@ -261,9 +266,19 @@
       ['On shelf',  ITEMS.filter((i) => i.status === 'shelf').length],
     ];
 
+    /* Directing duos are credited as two names, so Joel Coen and Ethan Coen
+       each carry the same four films and would render two identical rails.
+       Keep the first of any pair whose filmography is exactly the same. */
+    const seenFilmographies = new Set();
     const auteurs = DATA.facets.people
       .filter((p) => p.count >= 3 && p.kinds.some((k) => k === 'film' || k === 'tv'))
-      .slice(0, 8);
+      .filter((p) => {
+        const key = creditedTo(p.name).map((i) => i.slug).sort().join('|');
+        if (seenFilmographies.has(key)) return false;
+        seenFilmographies.add(key);
+        return true;
+      })
+      .slice(0, 10);
 
     const nowPanel = (label, items, emptyMsg) => `
       <div class="now-panel rv">
@@ -392,8 +407,7 @@
   }
 
   function personBlock(name) {
-    const items = ITEMS.filter((i) => i.by && i.by.split(',').map((s) => s.trim()).includes(name))
-      .sort(byChrono);
+    const items = creditedTo(name).sort(byChrono);
     if (!items.length) return '';
     const ess = items.filter((i) => i.rating === 'essential').length;
     return `<div class="person rv">

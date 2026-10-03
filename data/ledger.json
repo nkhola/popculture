@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 263,
+ "count": 271,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -2468,6 +2468,200 @@
    "rt": 86,
    "mc": 71,
    "imdbid": "tt0427944"
+  },
+  {
+   "slug": "black-bag-steven-soderbergh",
+   "title": "Black Bag",
+   "kind": "film",
+   "region": "world",
+   "by": "Steven Soderbergh",
+   "year": 2025,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "soderbergh",
+    "spy",
+    "thriller",
+    "marriage",
+    "recent-watch"
+   ],
+   "note": "Not a must watch, and still very well made. A spy marriage quietly interrogating itself over dinner, which is a better idea than the film finally delivers on.",
+   "art": "img/art/black-bag-steven-soderbergh.jpg?v=d7b9eb91",
+   "imdb": 6.7,
+   "rt": 96,
+   "mc": 85,
+   "imdbid": "tt30988739"
+  },
+  {
+   "slug": "anora-sean-baker",
+   "title": "Anora",
+   "kind": "film",
+   "region": "world",
+   "by": "Sean Baker",
+   "year": 2024,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "comedy",
+    "drama",
+    "screwball",
+    "performances",
+    "must-watch"
+   ],
+   "note": "Starts as a screwball comedy and ends somewhere else entirely. Mikey Madison is extraordinary in it and the last scene earns everything that came before.",
+   "art": "img/art/anora-sean-baker.jpg?v=699ef26e",
+   "imdb": 7.4,
+   "rt": 93,
+   "mc": 91,
+   "imdbid": "tt28607951"
+  },
+  {
+   "slug": "logan-lucky-steven-soderbergh",
+   "title": "Logan Lucky",
+   "kind": "film",
+   "region": "world",
+   "by": "Steven Soderbergh",
+   "year": 2017,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "soderbergh",
+    "heist",
+    "comedy",
+    "southern",
+    "must-watch"
+   ],
+   "note": "Soderbergh's best late film, a heist run by exactly the people everyone underestimates. Craig is having more fun here than anywhere else in his career.",
+   "art": "img/art/logan-lucky-steven-soderbergh.jpg?v=5d3383ae",
+   "imdb": 7.0,
+   "rt": 92,
+   "mc": 78,
+   "imdbid": "tt5439796"
+  },
+  {
+   "slug": "burn-after-reading-joel-coen-ethan-coen",
+   "title": "Burn After Reading",
+   "kind": "film",
+   "region": "world",
+   "by": "Joel Coen, Ethan Coen",
+   "year": 2008,
+   "status": "done",
+   "must": false,
+   "rating": "strong",
+   "tags": [
+    "coens",
+    "black-comedy",
+    "spy",
+    "idiots"
+   ],
+   "note": "Not a must watch. The Coens doing idiots at full length, and extremely funny if you are in the mood for that kind of cruelty.",
+   "art": "img/art/burn-after-reading-joel-coen-ethan-coen.jpg?v=c87d5386",
+   "imdb": 7.0,
+   "rt": 78,
+   "mc": 63,
+   "imdbid": "tt0887883"
+  },
+  {
+   "slug": "no-country-for-old-men-joel-coen-ethan-coen",
+   "title": "No Country for Old Men",
+   "kind": "film",
+   "region": "world",
+   "by": "Joel Coen, Ethan Coen",
+   "year": 2007,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "coens",
+    "thriller",
+    "western",
+    "bleak",
+    "chigurh",
+    "must-watch"
+   ],
+   "note": "The Coens at their most pitiless. No score, no comfort anywhere in it, and Chigurh is the most frightening thing they ever put on screen.",
+   "art": "img/art/no-country-for-old-men-joel-coen-ethan-coen.jpg?v=e14fae04",
+   "imdb": 8.2,
+   "rt": 93,
+   "mc": 92,
+   "imdbid": "tt0477348"
+  },
+  {
+   "slug": "ocean-s-thirteen-steven-soderbergh",
+   "title": "Ocean's Thirteen",
+   "kind": "film",
+   "region": "world",
+   "by": "Steven Soderbergh",
+   "year": 2007,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "soderbergh",
+    "heist",
+    "ensemble",
+    "vegas",
+    "mass-entertainer",
+    "must-watch"
+   ],
+   "note": "Back to Vegas and back to what worked. Mass entertainment done properly, which is harder than it looks.",
+   "art": "img/art/ocean-s-thirteen-steven-soderbergh.jpg?v=0fded25f",
+   "imdb": 6.9,
+   "rt": 70,
+   "mc": 62,
+   "imdbid": "tt0496806"
+  },
+  {
+   "slug": "ocean-s-twelve-steven-soderbergh",
+   "title": "Ocean's Twelve",
+   "kind": "film",
+   "region": "world",
+   "by": "Steven Soderbergh",
+   "year": 2004,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "soderbergh",
+    "heist",
+    "ensemble",
+    "mass-entertainer",
+    "must-watch"
+   ],
+   "note": "The odd one out, more interested in showing off than in the heist. Still a mass entertainer and still worth the time.",
+   "art": "img/art/ocean-s-twelve-steven-soderbergh.jpg?v=35b95fb6",
+   "imdb": 6.5,
+   "rt": 55,
+   "mc": 58,
+   "imdbid": "tt0349903"
+  },
+  {
+   "slug": "ocean-s-eleven-steven-soderbergh",
+   "title": "Ocean's Eleven",
+   "kind": "film",
+   "region": "world",
+   "by": "Steven Soderbergh",
+   "year": 2001,
+   "status": "done",
+   "must": true,
+   "rating": "strong",
+   "tags": [
+    "soderbergh",
+    "heist",
+    "ensemble",
+    "vegas",
+    "mass-entertainer",
+    "must-watch"
+   ],
+   "note": "A mass entertainer and completely unapologetic about it. The coolest film of its decade, and it knows exactly how cool it is.",
+   "art": "img/art/ocean-s-eleven-steven-soderbergh.jpg?v=6b71eefb",
+   "imdb": 7.7,
+   "rt": 83,
+   "mc": 74,
+   "imdbid": "tt0240772"
   },
   {
    "slug": "iratta-rohit-m-g-krishnan",
@@ -6320,7 +6514,7 @@
   "tags": [
    {
     "tag": "must-watch",
-    "count": 79
+    "count": 85
    },
    {
     "tag": "hindi",
@@ -6328,7 +6522,7 @@
    },
    {
     "tag": "thriller",
-    "count": 58
+    "count": 60
    },
    {
     "tag": "crime",
@@ -6336,7 +6530,7 @@
    },
    {
     "tag": "comedy",
-    "count": 40
+    "count": 42
    },
    {
     "tag": "shelf",
@@ -6355,16 +6549,20 @@
     "count": 18
    },
    {
+    "tag": "drama",
+    "count": 17
+   },
+   {
     "tag": "horror",
     "count": 17
    },
    {
-    "tag": "drama",
+    "tag": "performances",
     "count": 16
    },
    {
-    "tag": "performances",
-    "count": 15
+    "tag": "recent-watch",
+    "count": 14
    },
    {
     "tag": "fincher",
@@ -6375,11 +6573,11 @@
     "count": 13
    },
    {
-    "tag": "recent-watch",
-    "count": 13
+    "tag": "satire",
+    "count": 12
    },
    {
-    "tag": "satire",
+    "tag": "spy",
     "count": 12
    },
    {
@@ -6399,12 +6597,12 @@
     "count": 10
    },
    {
-    "tag": "spy",
+    "tag": "tarantino",
     "count": 10
    },
    {
-    "tag": "tarantino",
-    "count": 10
+    "tag": "heist",
+    "count": 9
    },
    {
     "tag": "nolan",
@@ -6479,6 +6677,10 @@
     "count": 6
    },
    {
+    "tag": "ensemble",
+    "count": 6
+   },
+   {
     "tag": "mystery",
     "count": 6
    },
@@ -6508,10 +6710,6 @@
    },
    {
     "tag": "gladwell",
-    "count": 5
-   },
-   {
-    "tag": "heist",
     "count": 5
    },
    {
@@ -6551,6 +6749,10 @@
     "count": 5
    },
    {
+    "tag": "soderbergh",
+    "count": 5
+   },
+   {
     "tag": "tamil",
     "count": 5
    },
@@ -6571,7 +6773,15 @@
     "count": 5
    },
    {
+    "tag": "western",
+    "count": 5
+   },
+   {
     "tag": "batman",
+    "count": 4
+   },
+   {
+    "tag": "bleak",
     "count": 4
    },
    {
@@ -6584,6 +6794,10 @@
    },
    {
     "tag": "class",
+    "count": 4
+   },
+   {
+    "tag": "coens",
     "count": 4
    },
    {
@@ -6639,10 +6853,6 @@
     "count": 4
    },
    {
-    "tag": "western",
-    "count": 4
-   },
-   {
     "tag": "workplace",
     "count": 4
    },
@@ -6663,7 +6873,7 @@
     "count": 3
    },
    {
-    "tag": "bleak",
+    "tag": "black-comedy",
     "count": 3
    },
    {
@@ -6703,10 +6913,6 @@
     "count": 3
    },
    {
-    "tag": "ensemble",
-    "count": 3
-   },
-   {
     "tag": "formative",
     "count": 3
    },
@@ -6736,6 +6942,14 @@
    },
    {
     "tag": "linklater",
+    "count": 3
+   },
+   {
+    "tag": "marriage",
+    "count": 3
+   },
+   {
+    "tag": "mass-entertainer",
     "count": 3
    },
    {
@@ -6835,19 +7049,11 @@
     "count": 2
    },
    {
-    "tag": "black-comedy",
-    "count": 2
-   },
-   {
     "tag": "boston",
     "count": 2
    },
    {
     "tag": "buddy",
-    "count": 2
-   },
-   {
-    "tag": "coens",
     "count": 2
    },
    {
@@ -6944,10 +7150,6 @@
    },
    {
     "tag": "magical-realism",
-    "count": 2
-   },
-   {
-    "tag": "marriage",
     "count": 2
    },
    {
@@ -7076,6 +7278,10 @@
    },
    {
     "tag": "travel",
+    "count": 2
+   },
+   {
+    "tag": "vegas",
     "count": 2
    },
    {
@@ -7208,6 +7414,10 @@
    },
    {
     "tag": "case-of-the-week",
+    "count": 1
+   },
+   {
+    "tag": "chigurh",
     "count": 1
    },
    {
@@ -7500,6 +7710,10 @@
    },
    {
     "tag": "howcatchem",
+    "count": 1
+   },
+   {
+    "tag": "idiots",
     "count": 1
    },
    {
@@ -7855,6 +8069,10 @@
     "count": 1
    },
    {
+    "tag": "screwball",
+    "count": 1
+   },
+   {
     "tag": "shakespeare",
     "count": 1
    },
@@ -7876,6 +8094,10 @@
    },
    {
     "tag": "soundtrack",
+    "count": 1
+   },
+   {
+    "tag": "southern",
     "count": 1
    },
    {
@@ -8117,6 +8339,14 @@
     ]
    },
    {
+    "name": "Steven Soderbergh",
+    "slug": "steven-soderbergh",
+    "count": 5,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
     "name": "Chad Stahelski",
     "slug": "chad-stahelski",
     "count": 4,
@@ -8127,6 +8357,22 @@
    {
     "name": "Edgar Wright",
     "slug": "edgar-wright",
+    "count": 4,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Ethan Coen",
+    "slug": "ethan-coen",
+    "count": 4,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Joel Coen",
+    "slug": "joel-coen",
     "count": 4,
     "kinds": [
      "film"
@@ -8229,14 +8475,6 @@
     ]
    },
    {
-    "name": "Ethan Coen",
-    "slug": "ethan-coen",
-    "count": 2,
-    "kinds": [
-     "film"
-    ]
-   },
-   {
     "name": "Greg Daniels",
     "slug": "greg-daniels",
     "count": 2,
@@ -8255,14 +8493,6 @@
    {
     "name": "Jeethu Joseph",
     "slug": "jeethu-joseph",
-    "count": 2,
-    "kinds": [
-     "film"
-    ]
-   },
-   {
-    "name": "Joel Coen",
-    "slug": "joel-coen",
     "count": 2,
     "kinds": [
      "film"
@@ -9275,6 +9505,14 @@
     "count": 1,
     "kinds": [
      "tv"
+    ]
+   },
+   {
+    "name": "Sean Baker",
+    "slug": "sean-baker",
+    "count": 1,
+    "kinds": [
+     "film"
     ]
    },
    {

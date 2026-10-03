@@ -1681,6 +1681,135 @@ imdb: 7.5
 mc: 71
 rt: 86
 
+## Black Bag
+kind: film
+region: world
+by: Steven Soderbergh
+year: 2025
+status: done
+must: no
+rating: strong
+tags: soderbergh, spy, thriller, marriage, recent-watch
+note: Not a must watch, and still very well made. A spy marriage quietly interrogating itself over dinner, which is a better idea than the film finally delivers on.
+art: img/art/black-bag-steven-soderbergh.jpg
+imdbid: tt30988739
+imdb: 6.7
+mc: 85
+rt: 96
+
+## Anora
+kind: film
+region: world
+by: Sean Baker
+year: 2024
+status: done
+must: yes
+rating: essential
+tags: comedy, drama, screwball, performances, must-watch
+note: Starts as a screwball comedy and ends somewhere else entirely. Mikey Madison is extraordinary in it and the last scene earns everything that came before.
+art: img/art/anora-sean-baker.jpg
+imdbid: tt28607951
+imdb: 7.4
+mc: 91
+rt: 93
+
+## Logan Lucky
+kind: film
+region: world
+by: Steven Soderbergh
+year: 2017
+status: done
+must: yes
+rating: essential
+tags: soderbergh, heist, comedy, southern, must-watch
+note: Soderbergh's best late film, a heist run by exactly the people everyone underestimates. Craig is having more fun here than anywhere else in his career.
+art: img/art/logan-lucky-steven-soderbergh.jpg
+imdbid: tt5439796
+imdb: 7.0
+mc: 78
+rt: 92
+
+## Burn After Reading
+kind: film
+region: world
+by: Joel Coen, Ethan Coen
+year: 2008
+status: done
+must: no
+rating: strong
+tags: coens, black-comedy, spy, idiots
+note: Not a must watch. The Coens doing idiots at full length, and extremely funny if you are in the mood for that kind of cruelty.
+art: img/art/burn-after-reading-joel-coen-ethan-coen.jpg
+imdbid: tt0887883
+imdb: 7.0
+mc: 63
+rt: 78
+
+## No Country for Old Men
+kind: film
+region: world
+by: Joel Coen, Ethan Coen
+year: 2007
+status: done
+must: yes
+rating: essential
+tags: coens, thriller, western, bleak, chigurh, must-watch
+note: The Coens at their most pitiless. No score, no comfort anywhere in it, and Chigurh is the most frightening thing they ever put on screen.
+art: img/art/no-country-for-old-men-joel-coen-ethan-coen.jpg
+imdbid: tt0477348
+imdb: 8.2
+mc: 92
+rt: 93
+
+## Ocean's Thirteen
+kind: film
+region: world
+by: Steven Soderbergh
+year: 2007
+status: done
+must: yes
+rating: strong
+tags: soderbergh, heist, ensemble, vegas, mass-entertainer, must-watch
+note: Back to Vegas and back to what worked. Mass entertainment done properly, which is harder than it looks.
+art: img/art/ocean-s-thirteen-steven-soderbergh.jpg
+imdbid: tt0496806
+imdb: 6.9
+mc: 62
+rt: 70
+
+## Ocean's Twelve
+kind: film
+region: world
+by: Steven Soderbergh
+year: 2004
+status: done
+must: yes
+rating: strong
+tags: soderbergh, heist, ensemble, mass-entertainer, must-watch
+note: The odd one out, more interested in showing off than in the heist. Still a mass entertainer and still worth the time.
+art: img/art/ocean-s-twelve-steven-soderbergh.jpg
+imdbid: tt0349903
+imdb: 6.5
+mc: 58
+rt: 55
+
+## Ocean's Eleven
+kind: film
+region: world
+by: Steven Soderbergh
+year: 2001
+status: done
+must: yes
+rating: strong
+tags: soderbergh, heist, ensemble, vegas, mass-entertainer, must-watch
+note: A mass entertainer and completely unapologetic about it. The coolest film of its decade, and it knows exactly how cool it is.
+art: img/art/ocean-s-eleven-steven-soderbergh.jpg
+imdbid: tt0240772
+imdb: 7.7
+mc: 74
+rt: 83
+
+
 
 
 
