@@ -1809,6 +1809,23 @@ imdb: 7.7
 mc: 74
 rt: 83
 
+## One Battle After Another
+kind: film
+region: world
+by: Paul Thomas Anderson
+year: 2025
+status: done
+must: yes
+rating: essential
+tags: pta, satire, political, auteur, performances, recent-watch, must-watch
+note: Auteur cinema that stays entertaining the whole way through, which is the hard trick and almost nobody manages it. Great performances across the board, brilliant filmmaking, and the satire on the present moment is done intelligently rather than shouted at you.
+art: img/art/one-battle-after-another-paul-thomas-anderson.jpg
+imdbid: tt30144839
+imdb: 7.6
+mc: 95
+rt: 94
+
+
 
 
 

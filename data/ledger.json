@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 271,
+ "count": 272,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -2662,6 +2662,32 @@
    "rt": 83,
    "mc": 74,
    "imdbid": "tt0240772"
+  },
+  {
+   "slug": "one-battle-after-another-paul-thomas-anderson",
+   "title": "One Battle After Another",
+   "kind": "film",
+   "region": "world",
+   "by": "Paul Thomas Anderson",
+   "year": 2025,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "pta",
+    "satire",
+    "political",
+    "auteur",
+    "performances",
+    "recent-watch",
+    "must-watch"
+   ],
+   "note": "Auteur cinema that stays entertaining the whole way through, which is the hard trick and almost nobody manages it. Great performances across the board, brilliant filmmaking, and the satire on the present moment is done intelligently rather than shouted at you.",
+   "art": "img/art/one-battle-after-another-paul-thomas-anderson.jpg?v=5f9daa2b",
+   "imdb": 7.6,
+   "rt": 94,
+   "mc": 95,
+   "imdbid": "tt30144839"
   },
   {
    "slug": "iratta-rohit-m-g-krishnan",
@@ -6514,7 +6540,7 @@
   "tags": [
    {
     "tag": "must-watch",
-    "count": 85
+    "count": 86
    },
    {
     "tag": "hindi",
@@ -6558,11 +6584,11 @@
    },
    {
     "tag": "performances",
-    "count": 16
+    "count": 17
    },
    {
     "tag": "recent-watch",
-    "count": 14
+    "count": 15
    },
    {
     "tag": "fincher",
@@ -6574,7 +6600,7 @@
    },
    {
     "tag": "satire",
-    "count": 12
+    "count": 13
    },
    {
     "tag": "spy",
@@ -6737,6 +6763,10 @@
     "count": 5
    },
    {
+    "tag": "political",
+    "count": 5
+   },
+   {
     "tag": "pop-social-science",
     "count": 5
    },
@@ -6834,10 +6864,6 @@
    },
    {
     "tag": "new-york",
-    "count": 4
-   },
-   {
-    "tag": "political",
     "count": 4
    },
    {
@@ -7342,6 +7368,10 @@
    },
    {
     "tag": "assassin",
+    "count": 1
+   },
+   {
+    "tag": "auteur",
     "count": 1
    },
    {
@@ -7986,6 +8016,10 @@
    },
    {
     "tag": "prose",
+    "count": 1
+   },
+   {
+    "tag": "pta",
     "count": 1
    },
    {
@@ -9310,6 +9344,14 @@
    {
     "name": "Park Chan-wook",
     "slug": "park-chan-wook",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Paul Thomas Anderson",
+    "slug": "paul-thomas-anderson",
     "count": 1,
     "kinds": [
      "film"
