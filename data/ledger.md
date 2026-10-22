@@ -2715,6 +2715,21 @@ art: img/art/darna-mana-hai-prawaal-raman.jpg
 imdbid: tt0349333
 imdb: 6.3
 
+## Talvar
+kind: film
+region: indian
+by: Meghna Gulzar
+year: 2015
+status: done
+must: yes
+rating: essential
+tags: hindi, true-crime, procedural, investigation, realism, must-watch
+note: A must watch. The same case told three different ways without the film ever telling you which one to believe, and it trusts you completely to hold all of them at once. Bhardwaj's script is the sharpest thing he has written for somebody else.
+art: img/art/talvar-meghna-gulzar.jpg
+imdbid: tt4934950
+imdb: 8.1
+
+
 
 
 

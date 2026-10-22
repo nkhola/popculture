@@ -1,6 +1,6 @@
 {
  "generated_from": "popculture/data/ledger.md",
- "count": 272,
+ "count": 273,
  "items": [
   {
    "slug": "se7en-david-fincher",
@@ -4174,6 +4174,31 @@
    "imdbid": "tt0349333"
   },
   {
+   "slug": "talvar-meghna-gulzar",
+   "title": "Talvar",
+   "kind": "film",
+   "region": "indian",
+   "by": "Meghna Gulzar",
+   "year": 2015,
+   "status": "done",
+   "must": true,
+   "rating": "essential",
+   "tags": [
+    "hindi",
+    "true-crime",
+    "procedural",
+    "investigation",
+    "realism",
+    "must-watch"
+   ],
+   "note": "A must watch. The same case told three different ways without the film ever telling you which one to believe, and it trusts you completely to hold all of them at once. Bhardwaj's script is the sharpest thing he has written for somebody else.",
+   "art": "img/art/talvar-meghna-gulzar.jpg?v=73fd786e",
+   "imdb": 8.1,
+   "rt": null,
+   "mc": null,
+   "imdbid": "tt4934950"
+  },
+  {
    "slug": "severance-dan-erickson-ben-stiller",
    "title": "Severance",
    "kind": "tv",
@@ -6540,11 +6565,11 @@
   "tags": [
    {
     "tag": "must-watch",
-    "count": 86
+    "count": 87
    },
    {
     "tag": "hindi",
-    "count": 67
+    "count": 68
    },
    {
     "tag": "thriller",
@@ -6568,7 +6593,7 @@
    },
    {
     "tag": "realism",
-    "count": 20
+    "count": 21
    },
    {
     "tag": "entertainer",
@@ -6591,11 +6616,11 @@
     "count": 15
    },
    {
-    "tag": "fincher",
-    "count": 13
+    "tag": "procedural",
+    "count": 14
    },
    {
-    "tag": "procedural",
+    "tag": "fincher",
     "count": 13
    },
    {
@@ -6691,6 +6716,10 @@
     "count": 7
    },
    {
+    "tag": "true-crime",
+    "count": 7
+   },
+   {
     "tag": "adaptation",
     "count": 6
    },
@@ -6716,10 +6745,6 @@
    },
    {
     "tag": "raghavan",
-    "count": 6
-   },
-   {
-    "tag": "true-crime",
     "count": 6
    },
    {
@@ -7772,6 +7797,10 @@
    },
    {
     "tag": "interiority",
+    "count": 1
+   },
+   {
+    "tag": "investigation",
     "count": 1
    },
    {
@@ -9256,6 +9285,14 @@
    {
     "name": "Matt Reeves",
     "slug": "matt-reeves",
+    "count": 1,
+    "kinds": [
+     "film"
+    ]
+   },
+   {
+    "name": "Meghna Gulzar",
+    "slug": "meghna-gulzar",
     "count": 1,
     "kinds": [
      "film"
